@@ -1,0 +1,1804 @@
+{"package_name": "async", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv2+", "GPLv3", "LGPL-2.1-only", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0", "Mozilla", "Public-Domain"]}
+{"package_name": "papaparse", "registry": "npm", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "process", "registry": "npm", "licenses": ["GPLv2+", "MIT"]}
+{"package_name": "lodash", "registry": "npm", "licenses": ["MIT", "LGPL-3.0-only", "Public-Domain", "GPLv2", "LGPL-2.1-only", "MPL-1.1", "BSD-new", "Apache-2.0", "BSD-3-Clause", "MIT/X11", "MPL-2.0", "GPLv3", "GPLv-3.0-or-later", "GPLv3+", "BSD-2-Clause", "LGPLv3+"]}
+{"package_name": "axios", "registry": "npm", "licenses": ["MIT", "GPLv3", "BSD-3-Clause", "LGPLv2.1-only", "LGPL-2.1-only", "Apache-2.0", "LGPLv2.1", "LGPLv3+", "MPL-2.0", "LGPLv3", "GPLv3+", "GPLv2"]}
+{"package_name": "mongoose", "registry": "npm", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPL-2.1-only", "LGPLv2.1", "LGPLv2.1+", "LGPLv2.1-only", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "jest", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "LGPL-2.1-only", "LGPLv3", "MIT"]}
+{"package_name": "aiohttp", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv3"]}
+{"package_name": "rxjs", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "MPL-2.0"]}
+{"package_name": "twisted", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv3", "MIT", "MIT/X11", "MPL-1.1"]}
+{"package_name": "p-queue", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause", "Apache-2.0", "ISC"]}
+{"package_name": "async-mutex", "registry": "npm", "licenses": ["MIT", "MPL-2.0", "GPLv3", "GPLv2", "BSD-3-Clause", "Apache-2.0"]}
+{"package_name": "celery", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "Public-Domain"]}
+{"package_name": "requests", "registry": "pip", "licenses": ["/", "Apache-2.0", "BSD-new", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv2.1-only", "LGPLv3", "MIT", "MPL-1.1", "MPL-2.0", "Public-Domain"]}
+{"package_name": "geolib", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "react", "registry": "npm", "licenses": ["MIT", "GPLv2+", "BSD-3-Clause", "GPLv3", "Apache-2.0", "MPL-2.0", "LGPLv3", "LGPL-2.1-or-later", "GPLv2", "LGPLv2.1+"]}
+{"package_name": "fetch", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "jquery", "registry": "npm", "licenses": ["Apache-2.0", "GPL-2.0-only", "GPL-3.0-only", "GPLv2", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPL-2.1-only", "MIT", "MPL-1.1", "MPL-2.0", "Public-Domain"]}
+{"package_name": "angular", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "MIT"]}
+{"package_name": "jsdom", "registry": "npm", "licenses": ["Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "BSD-new", "LGPL-2.1-only", "LGPLv2.1+", "LGPLv2.1-only", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "selenium", "registry": "pip", "licenses": ["AGPLv3", "Apache-2.0", "BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0", "Public-Domain"]}
+{"package_name": "@types/node", "registry": "npm", "licenses": ["MIT", "GPLv2", "LGPLv2.1+", "BSD-3-Clause", "MPL-2.0", "Apache-2.0", "MIT/X11"]}
+{"package_name": "base64-js", "registry": "npm", "licenses": ["MIT", "LGPL-2.1-only"]}
+{"package_name": "django-channels", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv2.1+", "GPLv2+", "GPLv3", "BSD-3-Clause", "GPLv2", "LGPLv3", "MPL-2.0", "GPLv3+", "LGPLv2.1"]}
+{"package_name": "bluebird", "registry": "npm", "licenses": ["GPLv2", "LGPLv3+", "MIT"]}
+{"package_name": "asyncio", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv3", "BSD-3-Clause"]}
+{"package_name": "lru-cache", "registry": "npm", "licenses": ["GPLv2+", "LGPLv2.1", "MIT"]}
+{"package_name": "jQuery", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0", "Mozilla"]}
+{"package_name": "ws", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1-only", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "mongodb", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "AGPLv3", "GPLv3", "LGPLv3+", "SSPL", "SSPL-1.1", "BSD-3-Clause", "LGPLv3", "LGPLv2.1+", "GPLv2", "LGPL-2.1-only", "MPL-2.0", "LGPLv2.1", "GPLv2+", "AGPL-3.0-or-later", "BSD-3", "MPL-1.1"]}
+{"package_name": "p-limit", "registry": "npm", "licenses": ["MIT", "BSD-2-Clause"]}
+{"package_name": "aiomongo", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "google-cloud-storage", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv2.1"]}
+{"package_name": "apscheduler", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "MPL-2.0", "GPLv3", "GPLv2", "LGPLv3"]}
+{"package_name": "pymongo", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "GPLv3+", "AGPLv3", "MIT", "3-clause", "LGPLv2.1", "GPLv2", "GPLv2+", "BSD-3-Clause", "MPL-2.0", "SSPL", "LGPLv3", "LGPLv2.1+", "LGPLv3+", "BSD-new", "Public-Domain", "PSF", "MIT/X11", "BSD", "MPL-1.1"]}
+{"package_name": "@angular/core", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "express", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv3", "GPLv3+", "LGPL-2.1-only", "LGPLv2.1-only", "LGPLv2.1+", "LGPLv3", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "react-google-maps", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "concurrent.futures", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv3", "MIT", "PSF"]}
+{"package_name": "gunicorn", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3+", "LGPLv2", "LGPLv2.1+", "LGPLv3+", "MIT", "MPL-2.0", "Public-Domain"]}
+{"package_name": "websockets", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "django-celery-beat", "registry": "pip", "licenses": ["GPL-2.0+", "GPL-3.0-only", "GPL-3.0-or-later", "LGPL-3.0-only", "LGPL-3.0-or-later", "MPL-2.0", "MIT"]}
+{"package_name": "electron", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2+", "GPLv3", "LGPLv2", "LGPLv2.1+", "LGPLv2.1-only", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "django-background-tasks", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "django-uuidfield", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "aws-cdk", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "ts-node", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "MIT", "MIT/X11"]}
+{"package_name": "timers", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "selenium-webdriver", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MIT/X11", "MPL-1.1", "BSD-3-Clause", "GPLv3"]}
+{"package_name": "requirejs", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "puppeteer", "registry": "npm", "licenses": ["AGPLv3", "Apache-2.0", "GPLv2", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "react-router-dom", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "google-api-python-client", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv3+", "MIT", "LGPLv3", "GPLv3", "MPL-2.0", "GPLv2"]}
+{"package_name": "pg", "registry": "npm", "licenses": ["MIT", "GPLv3", "BSD-3-Clause", "MPL-2.0", "LGPLv3", "GPLv2", "LGPLv3+"]}
+{"package_name": "google-maps", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "MIT", "LGPLv3"]}
+{"package_name": "scrapy", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "GPLv3+", "LGPLv3", "MIT"]}
+{"package_name": "json-stringify-safe", "registry": "npm", "licenses": ["Apache-2.0", "BSD-new", "GPLv2", "GPLv3", "MIT", "MIT/X11", "MPL-2.0", "Public-Domain"]}
+{"package_name": "url-parse", "registry": "npm", "licenses": ["LGPL-3.0-only", "MIT", "MPL-2.0"]}
+{"package_name": "django-celery", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-1.1"]}
+{"package_name": "django-extensions", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-1.1", "MPL-2.0", "Public-Domain"]}
+{"package_name": "firebase", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MPL-2.0", "LGPLv3", "GPLv3"]}
+{"package_name": "moment-timezone", "registry": "npm", "licenses": ["GPLv2", "GPLv3", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "performance-now", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "parse-server", "registry": "npm", "licenses": ["MIT", "GPLv3", "GPLv2", "Apache-2.0"]}
+{"package_name": "django", "registry": "pip", "licenses": ["AGPLv3", "Apache-2.0", "BSD", "BSD-3-Clause", "BSD-like", "BSD-new", "BSD-style", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2", "LGPLv2+", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0", "PSF", "Public-Domain"]}
+{"package_name": "fs", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "LGPLv2", "MIT", "MIT/X11"]}
+{"package_name": "google-auth-oauthlib", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "leaflet", "registry": "npm", "licenses": ["MIT", "MIT/X11", "MPL-2.0", "BSD-3-Clause"]}
+{"package_name": "async-lock", "registry": "npm", "licenses": ["MIT", "Mozilla"]}
+{"package_name": "@google-cloud/storage", "registry": "npm", "licenses": ["Apache-2.0", "MPL-2.0"]}
+{"package_name": "chai", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause", "GPLv3+"]}
+{"package_name": "sqlite3", "registry": "npm", "licenses": ["MIT", "MPL-2.0", "Public-Domain"]}
+{"package_name": "json5", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv2+", "LGPL-2.1-only", "MIT", "MIT/X11", "MPL-2.0", "Public-Domain"]}
+{"package_name": "django-rq", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "mongoskin", "registry": "npm", "licenses": ["MIT", "LGPLv3+", "GPLv3"]}
+{"package_name": "google-maps-api", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "LGPLv3", "LGPL-3.0-only"]}
+{"package_name": "matplotlib", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "GPLv2", "LGPLv2.1+", "MPL-2.0", "MIT", "GPLv3+"]}
+{"package_name": "highcharts", "registry": "npm", "licenses": ["GPLv2", "GPLv3", "GPL/LGPL", "MIT"]}
+{"package_name": "typescript", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "BSD-3-Clause", "LGPLv3", "GPLv3", "MPL-2.0", "GPLv2", "LGPLv2.1+", "LGPLv3+"]}
+{"package_name": "net", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "gspread", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "MIT"]}
+{"package_name": "websocket-ruby", "registry": "gem", "licenses": ["LGPLv3+", "BSD-3-Clause", "MIT/X11", "MPL-2.0", "MIT", "GPLv2"]}
+{"package_name": "sharp", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "django-storages", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0", "MPLv2"]}
+{"package_name": "history.js", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "js2xmlparser", "registry": "npm", "licenses": ["Apache-2.0", "BSD-new", "LGPLv3", "MIT"]}
+{"package_name": "pyserial", "registry": "pip", "licenses": ["MIT", "BSD", "BSD-3-Clause", "LGPLv3+", "GPLv2"]}
+{"package_name": "canvas", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "MPL-2.0", "BSD-3-Clause"]}
+{"package_name": "django-axes", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "mongodb-extended", "registry": "npm", "licenses": ["BSD-new", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "readline", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "motor", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "eslint", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "jasmine", "registry": "npm", "licenses": ["MIT", "GPLv3", "Apache-2.0", "MPL-2.0"]}
+{"package_name": "selenium", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "LGPLv2.1-only", "MIT", "MPL-2.0"]}
+{"package_name": "pytest", "registry": "pip", "licenses": ["MIT", "BSD-2-Clause", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MPL-1.1"]}
+{"package_name": "fs-extra", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "gulp", "registry": "npm", "licenses": ["MIT", "GPLv2", "Apache-2.0", "BSD-3-Clause", "GPLv3"]}
+{"package_name": "django-debug-toolbar", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0", "Public-Domain", "AGPLv3"]}
+{"package_name": "webdriverio", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause", "Mozilla"]}
+{"package_name": "rspec", "registry": "gem", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPL-2.1-only", "LGPL-3.0-only", "MIT", "MIT/X11"]}
+{"package_name": "jinja2", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv3", "LGPLv2.1", "MIT"]}
+{"package_name": "protractor", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "@angular-devkit/build-angular", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "pytesseract", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "webdriver-manager", "registry": "npm", "licenses": ["LGPLv3", "MIT", "Apache-2.0"]}
+{"package_name": "jslint", "registry": "npm", "licenses": ["MIT", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "itertools", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "PSF"]}
+{"package_name": "cucumber", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2+", "GPLv3", "LGPLv2.1", "LGPLv3", "MIT"]}
+{"package_name": "casperjs", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "googleapis", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv2.1"]}
+{"package_name": "azure-storage-blob", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "mysql-connector-python", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPL", "GPL-2.0+", "GPL-2.0-only", "GPL-2.0-or-later", "GPL-v2", "GPL-v2.0", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "GNU", "LGPL", "LGPLv2", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "azure-functions", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "aws-sdk", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "dotenv", "registry": "npm", "licenses": ["MIT", "LGPLv3", "MIT/X11", "GPLv2", "GPLv3"]}
+{"package_name": "@azure/storage-blob", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "azure-storage", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mime-types", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "@azure/cosmos", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "azure", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "google-cloud-sdk", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "LGPLv3"]}
+{"package_name": "schedule", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "mongodb/mongodb", "registry": "composer", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "virtualenv", "registry": "pip", "licenses": ["MIT", "LGPLv3+", "LGPLv2.1+", "GPLv2", "Apache-2.0", "BSD-3-Clause", "LGPLv2"]}
+{"package_name": "azure-mobile-apps", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "psutil", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2+", "LGPLv2.1", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "azure-functions-core-tools", "registry": "npm", "licenses": ["MIT", "GPLv3", "Apache-2.0"]}
+{"package_name": "sqlalchemy", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv2", "GPLv3+", "LGPLv2", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "azure-cosmos", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "@azure/identity", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-allauth", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv3"]}
+{"package_name": "psycopg2", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2", "LGPLv2+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0", "PostgreSQL", "PSF", "Public-Domain"]}
+{"package_name": "azure-storage-blob", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "tedious", "registry": "npm", "licenses": ["LGPL-2.1-or-later", "MIT"]}
+{"package_name": "pyodbc", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "paramiko", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv2", "GPLv3", "GPLv3+", "LGPLv2", "LGPLv2+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "MPL-1.1"]}
+{"package_name": "mqtt", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "azure-iot-device", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "azure-servicebus", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "pycryptodome", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "BSD-new", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0", "Public-Domain"]}
+{"package_name": "django-cors-headers", "registry": "pip", "licenses": ["MIT", "Apache-2.0", "MPL-2.0"]}
+{"package_name": "azure", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "pandas", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPL-2.1-only", "LGPLv2.1", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "mysqli", "registry": "composer", "licenses": ["Core", "Standard"]}
+{"package_name": "geopy", "registry": "pip", "licenses": ["MIT", "BSD", "MPL-2.0", "GPLv3", "GPLv2", "BSD-3-Clause", "LGPLv2.1+", "LGPLv3"]}
+{"package_name": "azure-mongodb", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "PyPDF2", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "MIT", "PSF-2.0"]}
+{"package_name": "google-auth", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv2.1+"]}
+{"package_name": "express-http-proxy", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "xml2js", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "http-server", "registry": "npm", "licenses": ["MIT", "BSD-new", "ISC", "GPLv2", "GPLv3"]}
+{"package_name": "django-model-utils", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "MIT", "GPLv2", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "GPLv3", "MPL-2.0"]}
+{"package_name": "redis", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "Apache-2.0", "MPL-2.0", "GPLv3", "GPLv2", "LGPLv3"]}
+{"package_name": "uuid", "registry": "pip", "licenses": ["GPLv3", "MIT", "PSF", "Public-Domain"]}
+{"package_name": "django-compressor", "registry": "pip", "licenses": ["MIT", "GPLv3+", "BSD", "GPLv2", "BSD-3-Clause"]}
+{"package_name": "jsPDF", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "uglifyjs", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause", "Public-Domain"]}
+{"package_name": "uglify-js", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "GPLv3+", "LGPL-2.1-or-later", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "npm", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "webpack", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2+", "GPLv3", "LGPLv2.1+", "LGPLv3", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "@types/angular", "registry": "npm", "licenses": ["GPLv2", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "react-facebook-login", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "setuptools", "registry": "pip", "licenses": ["GPLv2", "GPLv2+", "GPLv3", "LGPLv2", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "BSD-3-Clause", "BSD-new", "Apache-2.0", "MPL-2.0", "PSF", "Public-Domain"]}
+{"package_name": "@angular/cli", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "MIT", "Public-Domain"]}
+{"package_name": "js-beautify", "registry": "npm", "licenses": ["MIT", "GPLv3", "MIT/X11", "BSD-new", "MPL-2.0-or-later"]}
+{"package_name": "esbuild", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "ts-transpile", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "mongoid", "registry": "gem", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "GPLv3+", "LGPL-2.1-only", "LGPL-2.1+", "LGPL-2.1", "LGPL-3.0-only", "LGPLv2.1+", "LGPLv2.1", "LGPLv3", "LGPLv3+", "MPL-2.0", "MIT", "MIT/X11"]}
+{"package_name": "express-cache", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "django-cache-machine", "registry": "pip", "licenses": ["AGPLv3", "Apache-2.0", "BSD", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv3", "LGPL-3.0-only", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "express-session", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "django-redis-cache", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv2+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "symfony", "registry": "composer", "licenses": ["GPLv3", "MIT", "Mozilla"]}
+{"package_name": "localforage", "registry": "npm", "licenses": ["LGPLv2.1", "MPL-2.0", "MIT"]}
+{"package_name": "workbox", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-redis-sessions", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv3"]}
+{"package_name": "functools", "registry": "pip", "licenses": ["MIT", "GPLv2"]}
+{"package_name": "session", "registry": "composer", "licenses": ["MIT", "Standard"]}
+{"package_name": "moment", "registry": "npm", "licenses": ["MIT", "GPLv3", "LGPLv2.1", "LGPLv3+", "LGPL-2.1-only", "GPLv2", "MPL-2.0", "Apache-2.0", "BSD-3-Clause", "LGPLv3", "LGPLv2.1+"]}
+{"package_name": "networkx", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "LGPLv3+", "MIT"]}
+{"package_name": "redis", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT", "MPL-2.0", "GPLv3+", "GPLv3", "GPLv2"]}
+{"package_name": "cache-bust", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mongodb", "registry": "pip", "licenses": ["AGPLv3", "Apache-2.0", "GPLv2", "LGPLv2.1", "LGPLv3", "MIT", "Public-Domain"]}
+{"package_name": "googlemaps", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "dill", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "query-string", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "http", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv2.1+", "MIT"]}
+{"package_name": "redis-py", "registry": "pip", "licenses": ["MIT", "MPL-2.0", "LGPLv3", "Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "django-rest-framework", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "lru-cache", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "js-cookie", "registry": "npm", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "express-cache-manager", "registry": "npm", "licenses": ["BSD-new", "MIT", "GPLv3"]}
+{"package_name": "Flask", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-like", "GPLv2", "GPLv3", "LGPLv3", "MIT"]}
+{"package_name": "django-admin-hacks", "registry": "pip", "licenses": ["LGPLv3", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "django-cacheops", "registry": "pip", "licenses": ["LGPLv2.1", "MPL-1.1"]}
+{"package_name": "django-memcached", "registry": "pip", "licenses": ["BSD", "MIT"]}
+{"package_name": "aioredis", "registry": "pip", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "http-proxy-middleware", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3+", "MIT"]}
+{"package_name": "flask", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-like", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "django-haystack", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2.1+", "LGPLv3+", "MIT", "MIT/X11"]}
+{"package_name": "rack-cache", "registry": "gem", "licenses": ["BSD-2-Clause", "MIT"]}
+{"package_name": "google-maps-geocoding", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "collections", "registry": "pip", "licenses": ["BSD-like", "PSF", "Standard"]}
+{"package_name": "django-mptt", "registry": "pip", "licenses": ["GPLv3", "GPLv2", "LGPLv3+", "MIT", "BSD", "BSD-3-Clause", "MPL-2.0"]}
+{"package_name": "memcached", "registry": "npm", "licenses": ["MIT", "GPLv3", "MIT/X11"]}
+{"package_name": "jquery-rails", "registry": "gem", "licenses": ["MIT", "LGPLv3+", "MPL-2.0", "MIT/X11"]}
+{"package_name": "selenium-wire", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-templatetags-include", "registry": "pip", "licenses": ["GPLv3", "MIT", "MPL-1.1", "BSD", "LGPLv2.1"]}
+{"package_name": "weakref", "registry": "pip", "licenses": ["LGPLv3", "MIT", "PSF"]}
+{"package_name": "cachetools", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "MIT/X11", "BSD-new"]}
+{"package_name": "react-query", "registry": "npm", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "python-dateutil", "registry": "pip", "licenses": ["BSD", "MIT", "BSD-3-Clause"]}
+{"package_name": "node-schedule", "registry": "npm", "licenses": ["MIT", "GPLv3"]}
+{"package_name": "mongodb/mongo-php-driver", "registry": "composer", "licenses": ["Apache-2.0", "LGPLv3", "SSPL", "MIT", "MPL-2.0", "GPL-3.0-or-later"]}
+{"package_name": "scipy", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "Apache-2.0", "GPLv2", "PSF", "MPL-2.0", "GPLv3", "LGPLv2.1", "LGPLv2+", "LGPLv2.1+", "LGPLv3", "GPL-v3"]}
+{"package_name": "php-parallel", "registry": "composer", "licenses": ["BSD-3-Clause", "GPLv2", "GPLv3", "LGPL-3.0", "LGPL-3.0-only", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "mongodb", "registry": "composer", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "GPLv2+", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "pywin32", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "MIT", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "cheerio", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "LGPL-2.1-only", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "Public-Domain"]}
+{"package_name": "predis", "registry": "composer", "licenses": ["GPLv2", "LGPLv2.1+", "LGPLv3", "MIT"]}
+{"package_name": "django-pylibmc", "registry": "pip", "licenses": ["BSD", "MIT"]}
+{"package_name": "html-webpack-plugin", "registry": "npm", "licenses": ["MIT", "AGPLv3"]}
+{"package_name": "flask-caching", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "MPL-1.1"]}
+{"package_name": "preload", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "web-ext", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "GPLv2"]}
+{"package_name": "predis/predis", "registry": "composer", "licenses": ["GPLv2", "LGPLv3+", "MIT"]}
+{"package_name": "urllib3", "registry": "pip", "licenses": ["Apache-2.0", "BSD-new", "GPLv2", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "video.js", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "Pillow", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-2-Clause", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "boto3", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv2.1", "LGPLv2.1+"]}
+{"package_name": "mod_wsgi", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2"]}
+{"package_name": "debug", "registry": "npm", "licenses": ["MIT", "LGPLv3", "MPL-2.0", "GPLv2", "GPLv3", "Apache-2.0", "MIT/X11", "BSD-3-Clause"]}
+{"package_name": "cakephp", "registry": "composer", "licenses": ["Apache-2.0", "GPLv3", "LGPLv2.1", "LGPLv3+", "MIT", "MIT/X11"]}
+{"package_name": "cakephp/cakephp", "registry": "composer", "licenses": ["MIT", "LGPLv3", "MPL-2.0"]}
+{"package_name": "tcpdf", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "node-ffi", "registry": "npm", "licenses": ["BSD-3-Clause", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "cakephp/authentication", "registry": "composer", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "jquery-validation", "registry": "npm", "licenses": ["MIT", "LGPLv3", "GPLv2", "GPLv3"]}
+{"package_name": "uwsgi", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPLv2.1", "LGPLv3", "MIT"]}
+{"package_name": "google-cloud", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2"]}
+{"package_name": "phpunit/phpunit", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3"]}
+{"package_name": "laravel", "registry": "composer", "licenses": ["GPLv3", "GPLv3+", "LGPL-2.1+", "LGPLv3", "MIT", "MIT/X11", "MPL-2.0", "mit"]}
+{"package_name": "phpmailer", "registry": "composer", "licenses": ["GPLv2", "GPLv3", "LGPL-2.1-only", "LGPLv2.1", "LGPLv3", "LGPLv3+", "MIT", "BSD-3-Clause"]}
+{"package_name": "google-api-php-client", "registry": "composer", "licenses": ["Apache-2.0", "MIT", "LGPLv3", "LGPLv2.1+", "GPLv2", "GPLv3"]}
+{"package_name": "Install", "registry": "composer", "licenses": ["Ensure", "using", "Extension"]}
+{"package_name": "htmlpurifier", "registry": "composer", "licenses": ["AGPL-3.0-or-later", "GPLv3", "MIT"]}
+{"package_name": "croogo", "registry": "composer", "licenses": ["Apache-2.0", "LGPLv2.1", "GPLv3"]}
+{"package_name": "phpjs", "registry": "npm", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "multer", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "GPLv3", "GPLv2", "LGPLv3", "BSD-3-Clause"]}
+{"package_name": "curl", "registry": "composer", "licenses": ["GPLv2", "LGPLv2.1", "MIT", "MIT/X11", "PHP"]}
+{"package_name": "icalendar", "registry": "pip", "licenses": ["MIT", "GPLv3", "Mozilla", "LGPLv2.1+"]}
+{"package_name": "Paginator", "registry": "composer", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "composer", "registry": "composer", "licenses": ["MIT", "BSD-new", "BSD-3-Clause", "MIT/X11"]}
+{"package_name": "php-http/client-implementation", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "crispy-forms", "registry": "pip", "licenses": ["MIT", "BSD", "LGPL-3.0-only"]}
+{"package_name": "date-fns", "registry": "npm", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "fullcalendar", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "LGPLv3", "MIT"]}
+{"package_name": "moment.js", "registry": "npm", "licenses": ["GPLv2", "GPLv3", "LGPL-2.1-only", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "MIT", "Public-Domain"]}
+{"package_name": "dateutil", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-like", "BSD-new", "GPLv2", "LGPLv3", "LGPLv3+", "MIT", "Public-Domain"]}
+{"package_name": "flatpickr", "registry": "npm", "licenses": ["Apache-2.0", "LGPL-3.0-only", "MIT"]}
+{"package_name": "django-crispy-forms", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "GPLv2", "LGPLv2.1+", "GPLv3"]}
+{"package_name": "ical.js", "registry": "npm", "licenses": ["MIT", "LGPLv2.1+"]}
+{"package_name": "pytz", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-new", "GPLv2", "GPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "google-visualization", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "google-api-library", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "icalcreator", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "d3", "registry": "npm", "licenses": ["BSD", "MIT/X11", "MIT", "BSD-3-Clause"]}
+{"package_name": "django-widget-tweaks", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "MPL-2.0", "MIT", "LGPLv3"]}
+{"package_name": "datetime", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "google-api-client", "registry": "gem", "licenses": ["Apache-2.0", "BSD-3-Clause", "MPL-2.0", "MIT"]}
+{"package_name": "icalendar", "registry": "composer", "licenses": ["MIT", "GPLv3", "LGPLv3+"]}
+{"package_name": "google-charts", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "feedparser", "registry": "pip", "licenses": ["GPLv3", "MIT", "LGPLv3+", "BSD-3-Clause"]}
+{"package_name": "django-guardian", "registry": "pip", "licenses": ["AGPLv3", "BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "GPLv3+", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "bootstrap", "registry": "npm", "licenses": ["MIT", "GPLv3", "Apache-2.0"]}
+{"package_name": "json", "registry": "npm", "licenses": ["MIT", "LGPLv2.1", "RubyGems"]}
+{"package_name": "ts-morph", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "class-transformer", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "reflect-metadata", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "jsdoc", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "@types/firebase", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "buffer", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "decimal.js", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "loguru", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "LGPLv3", "MIT", "MIT/X11", "MPL-1.1", "MPL-2.0", "Public-Domain"]}
+{"package_name": "@types/json", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "js-yaml", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "LGPLv2.1+", "MIT", "MPL-2.0"]}
+{"package_name": "bcrypt", "registry": "npm", "licenses": ["MPL-2.0", "MIT", "GPLv2"]}
+{"package_name": "iconv-lite", "registry": "npm", "licenses": ["MIT", "LGPLv3+", "LGPLv2.1+"]}
+{"package_name": "iconv", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "js2py", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "MIT", "MIT/X11"]}
+{"package_name": "django-markdown-deux", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "chardet", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-2-Clause", "BSD-3-Clause", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "Public-Domain"]}
+{"package_name": "mysqlclient", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "BSD-new", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv2.1+", "MIT", "MPL-1.1", "MPL-2.0", "PSF", "Public-Domain"]}
+{"package_name": "folium", "registry": "pip", "licenses": ["MIT", "GPLv2", "BSD-3-Clause", "GPLv3", "Apache-2.0", "LGPLv2.1+"]}
+{"package_name": "closure-compiler", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3"]}
+{"package_name": "django-unicode-utf8", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "GPLv2"]}
+{"package_name": "ansible", "registry": "pip", "licenses": ["Apache-2.0", "GPL-3.0-or-later", "GPL-v2", "GPL-v2+", "GPLv2", "GPLv3", "MIT"]}
+{"package_name": "python", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "pyOpenSSL", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "LGPLv2.1", "LGPLv2.1+", "MIT"]}
+{"package_name": "crypto", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "ISC", "LGPL-2.1-only", "MIT"]}
+{"package_name": "Crypt::CBC", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0", "GPL-1+", "LGPLv2.1+", "LGPLv3", "Perl", "Public-Domain"]}
+{"package_name": "aws-sdk-php", "registry": "composer", "licenses": ["Apache-2.0", "LGPL-2.1+", "MIT"]}
+{"package_name": "events", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "eventmachine", "registry": "gem", "licenses": ["BSD-2-Clause", "GPLv2", "GPLv3", "LGPLv2", "LGPLv2.1+", "MIT"]}
+{"package_name": "concurrent-ruby", "registry": "gem", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "LGPL-2.1+", "LGPL-3.0-only", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11"]}
+{"package_name": "AnyEvent", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "BSD-new", "GPL", "GPL-1+", "GPL-v2", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+"]}
+{"package_name": "async", "registry": "gem", "licenses": ["GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "MIT"]}
+{"package_name": "timeout", "registry": "gem", "licenses": ["Apache-2.0", "MIT", "MPL-2.0", "public-domain"]}
+{"package_name": "Future", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD-3-Clause", "GPLv3+", "MIT/X11"]}
+{"package_name": "mail", "registry": "gem", "licenses": ["MIT", "GPLv3", "GPLv2"]}
+{"package_name": "swoole", "registry": "composer", "licenses": ["Apache-2.0", "GPLv3", "MIT"]}
+{"package_name": "phpseclib", "registry": "composer", "licenses": ["MIT", "GPLv3", "MIT/X11", "LGPLv3", "BSD-3-Clause", "Apache-2.0", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "guzzlehttp/guzzle", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "net-ssh", "registry": "gem", "licenses": ["GPLv2", "GPLv3", "LGPLv2+", "MIT"]}
+{"package_name": "async", "registry": "composer", "licenses": ["MIT", "GPLv2", "GPLv3"]}
+{"package_name": "socket", "registry": "pip", "licenses": ["Standard", "Index"]}
+{"package_name": "Net::Server", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD", "GPL-1+", "LGPLv2.1"]}
+{"package_name": "libxml2", "registry": "cpan", "licenses": ["LGPLv2", "LGPLv2+"]}
+{"package_name": "rake", "registry": "gem", "licenses": ["Apache-2.0", "BSD-2-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "MIT", "MPL-1.1"]}
+{"package_name": "tkinter", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "MIT", "PSF", "Python"]}
+{"package_name": "sqlserver", "registry": "gem", "licenses": ["LGPLv3+", "MIT", "LGPLv2.1"]}
+{"package_name": "react-dom", "registry": "npm", "licenses": ["MIT", "LGPLv2.1+", "MPL-2.0", "BSD-3-Clause"]}
+{"package_name": "sidekiq", "registry": "gem", "licenses": ["GPLv2", "GPLv3", "GPLv3+", "MIT", "MIT/X11"]}
+{"package_name": "node-lts", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT", "LGPLv3"]}
+{"package_name": "symfony/console", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "node-cron", "registry": "npm", "licenses": ["GPLv3", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "Parallel::ForkManager", "registry": "cpan", "licenses": ["Artistic-2.0", "Artistic", "LGPLv2.1+", "GPL-1+", "GPLv2", "Perl", "Public-Domain"]}
+{"package_name": "httparty", "registry": "gem", "licenses": ["LGPLv2.1", "MIT", "gplv3", "MIT/X11", "GPLv3", "GPLv2", "Apache-2.0", "LGPLv3+"]}
+{"package_name": "socket", "registry": "gem", "licenses": ["MIT", "Ruby"]}
+{"package_name": "ruby", "registry": "gem", "licenses": ["MIT", "GPLv3+", "GPLv3", "GPLv2", "LGPLv2.1+", "GPLv2+"]}
+{"package_name": "thrift", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "http2", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "httpclient", "registry": "gem", "licenses": ["Apache-2.0", "LGPLv2.1+", "LGPLv2.1", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "psr/log", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "rb-fsevent", "registry": "gem", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "node-fetch", "registry": "npm", "licenses": ["GPLv3", "MIT", "GPLv2"]}
+{"package_name": "LWP::UserAgent", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+", "Public-Domain", "GPL-1+", "Perl", "Artistic-2.0/GPL-1/GPL-2/GPL-3"]}
+{"package_name": "zip", "registry": "gem", "licenses": ["MIT", "Standard"]}
+{"package_name": "winrm", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "async-socket", "registry": "gem", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "aiomysql", "registry": "pip", "licenses": ["GPLv2+", "MIT"]}
+{"package_name": "mysql2", "registry": "gem", "licenses": ["AGPLv3", "BSD-2-Clause", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2", "LGPLv2.1", "LGPLv2.1+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "threading", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "PSF"]}
+{"package_name": "php-amqp", "registry": "composer", "licenses": ["MIT", "MPL-2.0", "GPLv3"]}
+{"package_name": "php-exec", "registry": "composer", "licenses": ["MIT", "LGPLv3", "MIT/X11"]}
+{"package_name": "IPC::Run3", "registry": "cpan", "licenses": ["GPL-1+", "GPL"]}
+{"package_name": "RxPerl", "registry": "cpan", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "lograge", "registry": "gem", "licenses": ["MIT", "LGPLv2.1", "Apache-2.0", "GPLv3"]}
+{"package_name": "AnyEvent::WebSocket", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0"]}
+{"package_name": "PHPUnit", "registry": "composer", "licenses": ["GPLv3", "MIT", "BSD-3-Clause", "BSD-2-Clause", "GPLv2", "LGPL-2.1-or-later", "Public-Domain"]}
+{"package_name": "unittest", "registry": "pip", "licenses": ["MIT", "BSD", "PSF"]}
+{"package_name": "Test::More", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3+", "GPLv2"]}
+{"package_name": "selenium-webdriver", "registry": "gem", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "GPLv3", "LGPLv2.1", "LGPLv3+", "MIT", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "phpunit", "registry": "composer", "licenses": ["BSD", "BSD-3-Clause", "GPLv3", "GPLv3+", "LGPLv2.1+", "MIT", "MIT/X11"]}
+{"package_name": "Test::Harness", "registry": "cpan", "licenses": ["GPLv3", "GPLv2", "Perl_5"]}
+{"package_name": "mocha", "registry": "npm", "licenses": ["MPL-2.0", "MIT", "GPLv3", "Apache-2.0"]}
+{"package_name": "Test2::V0", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3", "MIT/X11", "Perl", "Public-Domain"]}
+{"package_name": "php-webdriver", "registry": "composer", "licenses": ["LGPLv3", "MPL-2.0"]}
+{"package_name": "WWW-Mechanize", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl", "Perl-5.8.0"]}
+{"package_name": "Test::WWW::Selenium", "registry": "cpan", "licenses": ["GPL-1+", "GPLv2", "LGPLv2.1"]}
+{"package_name": "telegram-bot-ruby", "registry": "gem", "licenses": ["GPLv3", "MPL-2.0"]}
+{"package_name": "selenium", "registry": "composer", "licenses": ["MIT/X11", "Apache-2.0", "MIT", "GPLv3"]}
+{"package_name": "selenium-webdriver", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0"]}
+{"package_name": "cucumber", "registry": "gem", "licenses": ["GPLv2", "GPLv3", "LGPLv3", "MIT", "gplv2+"]}
+{"package_name": "pathlib", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "PSF"]}
+{"package_name": "locust", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "MIT"]}
+{"package_name": "Devel::NYTProf", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+", "Perl"]}
+{"package_name": "WWW::Mechanize", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPL-1", "GPL-1+", "MIT/X11"]}
+{"package_name": "akkajs", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3", "MIT"]}
+{"package_name": "akka", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv2.1"]}
+{"package_name": "php-actor", "registry": "composer", "licenses": ["GPLv2", "LGPL-2.1-or-later", "MIT"]}
+{"package_name": "rubocop", "registry": "gem", "licenses": ["MIT", "Apache-2.0", "MPL-2.0", "LGPL-3.0-only", "BSD-3-Clause", "LGPL-2.1+", "GPLv3"]}
+{"package_name": "scapy", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2.1+", "MIT"]}
+{"package_name": "Time::HiRes", "registry": "cpan", "licenses": ["GPL-2.0", "GPL-3.0", "LGPL-2.1", "LGPL-2.1+", "LGPL-3.0", "BSD"]}
+{"package_name": "pm2", "registry": "npm", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "supervisor", "registry": "pip", "licenses": ["BSD", "GPLv3", "LGPLv2.1+", "MIT"]}
+{"package_name": "perl-app", "registry": "cpan", "licenses": ["Artistic", "Mozilla"]}
+{"package_name": "thin", "registry": "gem", "licenses": ["MIT", "LGPLv2.1", "MPL-1.1"]}
+{"package_name": "xml.etree.ElementTree", "registry": "pip", "licenses": ["MIT", "BSD", "LGPLv2.1+", "PSF"]}
+{"package_name": "cucumber-ruby", "registry": "gem", "licenses": ["MIT", "LGPLv3", "MPL-2.0", "MIT/X11"]}
+{"package_name": "supertest", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "JSON::XS", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic", "Artistic-2.0", "BSD", "BSD-new", "GPL-1+", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2.1+", "LGPLv3", "Perl", "Perl_5", "Public-Domain"]}
+{"package_name": "capybara", "registry": "gem", "licenses": ["GPLv2", "GPLv3", "LGPLv3", "MIT"]}
+{"package_name": "Selenium::Remote::Driver", "registry": "cpan", "licenses": ["Artistic-2.0", "Artistic/GPL", "LGPLv3+", "Artistic"]}
+{"package_name": "behave", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "azure-storage-php", "registry": "composer", "licenses": ["MIT", "GPLv3", "Apache-2.0"]}
+{"package_name": "Win32::OLE", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT/X11", "Perl"]}
+{"package_name": "MongoDB", "registry": "cpan", "licenses": ["AGPLv3", "Apache-2.0", "Artistic-2.0", "BSD", "GPLv2", "LGPLv2.1", "MPL-2.0", "Perl"]}
+{"package_name": "HTTP::Request", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0", "BSD", "GPLv1", "GPLv2", "Perl"]}
+{"package_name": "azure-identity", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "Azure-Functions", "registry": "cpan", "licenses": ["GPLv2", "LGPLv2.1"]}
+{"package_name": "sendgrid", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "sendgrid", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "sendgrid-ruby", "registry": "gem", "licenses": ["AGPL-3.0-or-later", "MIT"]}
+{"package_name": "oauth2-client", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "log4js", "registry": "npm", "licenses": ["MIT", "LGPLv3+", "BSD-3-Clause", "Apache-2.0"]}
+{"package_name": "Log::Log4perl", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3", "LGPLv2.1", "LGPLv3"]}
+{"package_name": "log4r", "registry": "gem", "licenses": ["BSD-2-Clause", "GPLv2", "GPLv3", "LGPL-2.1-only", "LGPLv2.1", "LGPLv2.1+", "MIT", "MIT/X11"]}
+{"package_name": "azure-sdk-for-ruby", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "jsonschema", "registry": "npm", "licenses": ["MIT", "GPLv2", "MPL-2.0"]}
+{"package_name": "xlsx", "registry": "npm", "licenses": ["GPLv3", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "Azure::Storage", "registry": "cpan", "licenses": ["MIT", "Perl"]}
+{"package_name": "Azure::CosmosDB", "registry": "cpan", "licenses": ["MIT/X11", "Artistic-2.0"]}
+{"package_name": "HTTP::Tiny", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3+", "LGPLv2.1+", "Apache-2.0"]}
+{"package_name": "jsonwebtoken", "registry": "npm", "licenses": ["Apache-2.0", "ISC", "MIT"]}
+{"package_name": "firebase/php-jwt", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "azure-servicebus", "registry": "gem", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "Install", "registry": "cpan", "licenses": ["Ensure", "If", "You", "First", "Since"]}
+{"package_name": "aws-sdk-s3", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "pg", "registry": "gem", "licenses": ["Apache-2.0", "BSD", "BSD-2-Clause", "GPLv2", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv3", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "DateTime", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "BSD-new", "GPLv2", "LGPLv2.1+", "MIT", "MIT/X11", "MPL-2.0", "Perl", "Public-Domain"]}
+{"package_name": "Plack", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3", "GPL-1+", "MIT/X11", "LGPLv2.1", "GPLv2", "BSD-new", "GPL-2+", "MIT"]}
+{"package_name": "rest-client", "registry": "gem", "licenses": ["GPLv2", "LGPLv2.1", "MIT", "MPL-2.0"]}
+{"package_name": "pyyaml", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "GPLv2", "BSD-new"]}
+{"package_name": "json", "registry": "gem", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPL-2.1-only", "MIT", "MIT/X11", "Public-Domain", "Ruby"]}
+{"package_name": "DBI", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2.1+"]}
+{"package_name": "pybind11", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "ffmpeg-python", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "bundler", "registry": "gem", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "LGPLv2.1", "MIT"]}
+{"package_name": "pyinstaller", "registry": "pip", "licenses": ["MIT", "GPLv2+", "LGPLv3", "GPLv3", "LGPLv3+", "LGPLv2.1", "BSD-3-Clause", "MPL-1.1", "LGPLv2.1+"]}
+{"package_name": "XML::Parser", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL", "GPL-1+", "LGPLv2.1", "LGPLv3"]}
+{"package_name": "pathutil", "registry": "gem", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "Data::Dumper", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic", "BSD", "BSD-new", "GPL", "GPL-1+", "GPLv1", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "Public-Domain"]}
+{"package_name": "libxml2", "registry": "gem", "licenses": ["LGPLv2", "LGPLv2.1", "LGPLv2+", "LGPLv2.1+", "LGPLv3"]}
+{"package_name": "coverage", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "Apache-2.0"]}
+{"package_name": "Path::Class", "registry": "cpan", "licenses": ["GPL-1+", "Artistic-2.0", "Public-Domain"]}
+{"package_name": "sphinx", "registry": "pip", "licenses": ["BSD-3-Clause", "BSD"]}
+{"package_name": "importlib", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "Config::General", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic", "Artistic-2.0", "GPL-1+", "GPLv2", "GPLv3+", "LGPLv2.1+", "MIT/X11"]}
+{"package_name": "perl-strict", "registry": "cpan", "licenses": ["BSD-new", "GPL", "GPLv1", "GPLv2", "MIT/X11", "MPL", "MPL-1.1", "Perl", "Perl-5"]}
+{"package_name": "pydevd", "registry": "pip", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "ruby-debug", "registry": "gem", "licenses": ["GPL-2.0", "LGPLv2.1+", "GPLv3"]}
+{"package_name": "py2exe", "registry": "pip", "licenses": ["MIT", "BSD", "GPL"]}
+{"package_name": "PyInstaller", "registry": "pip", "licenses": ["MIT", "LGPLv3", "GPLv3", "Apache-2.0", "LGPLv3+"]}
+{"package_name": "PAR::Packer", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD", "GPL"]}
+{"package_name": "File::Spec", "registry": "cpan", "licenses": ["GPL-1+", "GPLv2", "BSD-new", "Apache-2.0"]}
+{"package_name": "perl-ExtUtils-Embed", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+"]}
+{"package_name": "ffi", "registry": "gem", "licenses": ["MIT", "BSD-2-Clause", "LGPL-2.1-only", "GPLv2", "GPLv3", "MIT/X11", "MPL-2.0", "Apache-2.0", "LGPLv3", "AGPLv3"]}
+{"package_name": "swig", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "electron-builder", "registry": "npm", "licenses": ["MIT", "GPLv3", "Apache-2.0"]}
+{"package_name": "phar", "registry": "composer", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "node-gyp", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "GPLv3", "GPLv2", "MPL-2.0", "LGPLv2.1+", "BSD-3-Clause", "GPLv2+", "LGPLv3"]}
+{"package_name": "json", "registry": "pip", "licenses": ["GPLv3", "MIT", "BSD-new"]}
+{"package_name": "nodejs", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause", "GPLv2", "LGPLv2", "Apache-2.0", "LGPLv2.1+", "Public-Domain", "LGPLv2.1", "MPL-2.0"]}
+{"package_name": "php-parser", "registry": "composer", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "URI", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD-new", "GPL", "MPL-2.0", "Perl", "Public-Domain"]}
+{"package_name": "opencv-python", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3+", "MPL-2.0", "Apache-2.0", "LGPL-3.0-only", "GPLv3+"]}
+{"package_name": "Module::Build", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+", "MIT/X11"]}
+{"package_name": "subprocess", "registry": "pip", "licenses": ["MIT", "BSD", "PSF"]}
+{"package_name": "php-di", "registry": "composer", "licenses": ["GPLv2", "MIT", "MPL-2.0"]}
+{"package_name": "Mojolicious", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPL-2"]}
+{"package_name": "inject", "registry": "gem", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "dockerode", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "cpanminus", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+", "Perl", "BSD", "MIT", "LGPLv2.1+", "GPL-1.0+", "Artistic", "Public-Domain", "GPLv2"]}
+{"package_name": "Encode", "registry": "cpan", "licenses": ["GPL", "GPL-1+", "GPLv3", "LGPLv2.1+", "Perl"]}
+{"package_name": "nokogiri", "registry": "gem", "licenses": ["AGPLv3", "Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "GPL-2.0-only", "GPLv3", "LGPL-2.1-only", "LGPLv2", "LGPLv2+", "LGPLv2.1+", "MIT", "MIT/X11"]}
+{"package_name": "uuid", "registry": "npm", "licenses": ["MIT", "Public-Domain", "BSD-new", "BSD-3-Clause"]}
+{"package_name": "perl-ExtUtils-MakeMaker", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+", "LGPLv2", "LGPLv2.1+", "MPL", "Perl", "Public-Domain"]}
+{"package_name": "File::Path", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT/X11"]}
+{"package_name": "php", "registry": "composer", "licenses": ["PHP", "MIT", "MIT/X11"]}
+{"package_name": "py2app", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv2"]}
+{"package_name": "php-winforms", "registry": "composer", "licenses": ["MIT", "LGPLv3+", "BSD-3-Clause", "Mozilla"]}
+{"package_name": "git", "registry": "npm", "licenses": ["MIT", "GPLv2", "GPL-2.0-or-later"]}
+{"package_name": "gitpython", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv2.1", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "Git::Repository", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic", "Artistic-2.0", "LGPLv2.1+"]}
+{"package_name": "docker", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MIT/X11"]}
+{"package_name": "pylint", "registry": "pip", "licenses": ["Apache-2.0", "BSD-like", "GPL-2.0-or-later", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "php-cs-fixer", "registry": "composer", "licenses": ["AGPLv3", "Apache-2.0", "LGPL-2.1-or-later", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "dogpile.cache", "registry": "pip", "licenses": ["GPLv3", "GPLv3+", "MIT"]}
+{"package_name": "redis", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause", "BSD"]}
+{"package_name": "Cache::Memcached", "registry": "cpan", "licenses": ["LGPLv3", "Perl"]}
+{"package_name": "dalli", "registry": "gem", "licenses": ["MIT", "GPLv2", "BSD-2-Clause", "Apache-2.0", "MIT/X11"]}
+{"package_name": "Cache::LRU", "registry": "cpan", "licenses": ["GPLv2", "MPL-2.0", "Perl"]}
+{"package_name": "php-redis", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause", "BSD-2-Clause"]}
+{"package_name": "memcached", "registry": "gem", "licenses": ["BSD", "BSD-2-Clause"]}
+{"package_name": "node-cache", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "php-cache", "registry": "composer", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "memwatch-next", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "memory_profiler", "registry": "gem", "licenses": ["MIT", "GPLv2+", "LGPLv2.1"]}
+{"package_name": "Win32::API", "registry": "cpan", "licenses": ["GPL-1+", "LGPLv2.1+", "LGPLv3+"]}
+{"package_name": "hashie", "registry": "gem", "licenses": ["GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "joblib", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv3", "BSD"]}
+{"package_name": "redis", "registry": "gem", "licenses": ["BSD-3-Clause", "MIT", "GPLv2"]}
+{"package_name": "Redis", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv2", "MIT"]}
+{"package_name": "redis-rb", "registry": "gem", "licenses": ["MIT", "GPLv2", "GPLv3", "LGPL-2.1-only", "LGPLv2.1+"]}
+{"package_name": "Digest::SHA", "registry": "cpan", "licenses": ["GPLv3", "Artistic-2.0"]}
+{"package_name": "memoist", "registry": "gem", "licenses": ["MIT", "LGPL-3.0-only"]}
+{"package_name": "ruby-fx", "registry": "gem", "licenses": ["MPL-2.0", "MIT", "LGPLv2.1", "Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "lxml", "registry": "pip", "licenses": ["MIT", "BSD", "BSD-3-Clause", "MPLv2.0", "MPL-2.0", "LGPLv2.1", "LGPLv2.1+"]}
+{"package_name": "illuminate/cache", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "weakref", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "weakref", "registry": "gem", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "dnspython", "registry": "pip", "licenses": ["BSD", "MIT", "BSD-3-Clause"]}
+{"package_name": "php-mock", "registry": "composer", "licenses": ["MIT", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "bcrypt", "registry": "pip", "licenses": ["MIT", "GPLv2", "GPLv3"]}
+{"package_name": "cryptography", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "BSD-3-Clause", "LGPLv3", "GPLv3", "MPL-2.0"]}
+{"package_name": "openssl", "registry": "gem", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1+", "MIT", "MIT/X11", "OpenSSL"]}
+{"package_name": "phpseclib/phpseclib", "registry": "composer", "licenses": ["MIT", "GPLv3", "LGPLv3+"]}
+{"package_name": "Time::Piece", "registry": "cpan", "licenses": ["GPL", "GPL-1", "GPLv1", "GPLv3", "LGPLv2.1+", "Public-Domain"]}
+{"package_name": "date", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "dateutil", "registry": "gem", "licenses": ["MIT", "BSD"]}
+{"package_name": "dateparser", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "calendar", "registry": "pip", "licenses": ["Standard", "Index"]}
+{"package_name": "date", "registry": "composer", "licenses": ["MIT", "PHP"]}
+{"package_name": "calendar", "registry": "gem", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "perl-JSON", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD", "JSON", "LGPLv3"]}
+{"package_name": "wxPython", "registry": "pip", "licenses": ["GPLv3", "LGPLv3", "MIT", "Mozilla"]}
+{"package_name": "time", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "php-date", "registry": "composer", "licenses": ["MIT", "LGPL-3.0-only"]}
+{"package_name": "ews", "registry": "pip", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "ews-ruby", "registry": "gem", "licenses": ["LGPLv2.1", "BSD-3-Clause", "MIT"]}
+{"package_name": "Schedule::Cron", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+", "LGPLv2.1+"]}
+{"package_name": "babel", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "MPL-2.0", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "GPLv3"]}
+{"package_name": "i18n", "registry": "gem", "licenses": ["MIT", "GPLv3"]}
+{"package_name": "Tk", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "BSD", "GPL", "GPLv2", "GPLv2+", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "Public-Domain"]}
+{"package_name": "typing", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "activerecord", "registry": "gem", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "mypy", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "rmagick", "registry": "gem", "licenses": ["AGPLv3", "Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "GPL", "GPL-3.0-only", "GPLv2", "GPLv3", "LGPLv2.1+", "MIT", "MPL-1.1", "Public-Domain"]}
+{"package_name": "pear", "registry": "composer", "licenses": ["GPLv2", "LGPLv2.1", "LGPLv3+"]}
+{"package_name": "re", "registry": "pip", "licenses": ["MIT", "BSD", "Apache-2.0"]}
+{"package_name": "symfony/serializer", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "activesupport", "registry": "gem", "licenses": ["GPLv3+", "MIT"]}
+{"package_name": "bigdecimal", "registry": "gem", "licenses": ["MIT", "BSD-2-Clause", "LGPLv2.1+", "LGPLv2.1"]}
+{"package_name": "pry", "registry": "gem", "licenses": ["Apache-2.0", "BSD-new", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "php-parallel-lint", "registry": "composer", "licenses": ["GPLv3", "LGPLv2.1", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "php-xml", "registry": "composer", "licenses": ["MIT", "LGPLv3+", "LGPLv2.1"]}
+{"package_name": "Data::Stream::Bulk", "registry": "cpan", "licenses": ["LGPLv2.1", "LGPLv3+"]}
+{"package_name": "cast", "registry": "gem", "licenses": ["MIT", "LGPLv3+"]}
+{"package_name": "PDO", "registry": "composer", "licenses": ["PHP", "Standard"]}
+{"package_name": "bc-math", "registry": "composer", "licenses": ["MIT", "PHP"]}
+{"package_name": "pydantic", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "BSD-new", "GPLv3", "LGPL-3.0-only", "MIT"]}
+{"package_name": "dry-types", "registry": "gem", "licenses": ["Apache-2.0", "BSD-new", "MIT"]}
+{"package_name": "List::Util", "registry": "cpan", "licenses": ["GPL-1+", "GPL", "LGPLv2+", "LGPLv3", "Artistic", "Perl", "Dual-d", "Public-Domain"]}
+{"package_name": "enum", "registry": "gem", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "struct", "registry": "pip", "licenses": ["MIT", "PSF", "Public-Domain"]}
+{"package_name": "php-std", "registry": "composer", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "mathjs", "registry": "npm", "licenses": ["MIT", "LGPLv2.1", "Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "mathn", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "urllib.parse", "registry": "pip", "licenses": ["PSF", "BSD-like", "MIT"]}
+{"package_name": "chardet", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "reportlab", "registry": "pip", "licenses": ["BSD", "MIT", "LGPLv2.1", "BSD-3-Clause", "Apache-2.0"]}
+{"package_name": "csv-parser", "registry": "npm", "licenses": ["MIT", "MPL-2.0", "GPLv2"]}
+{"package_name": "tinymce", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "GPLv3+", "LGPL-2.1+", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "html-escape", "registry": "npm", "licenses": ["MPL-2.0", "MIT", "Apache-2.0"]}
+{"package_name": "zeep", "registry": "pip", "licenses": ["MIT", "Mozilla"]}
+{"package_name": "facebook/php-sdk-v4", "registry": "composer", "licenses": ["MIT", "LGPLv3+", "GPLv3"]}
+{"package_name": "Bootstrap", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "php-pgsql", "registry": "composer", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "react-select", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "LGPLv2.1+", "MIT", "MPL-2.0"]}
+{"package_name": "PHPMailer", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause", "LGPLv2.1", "PEAR"]}
+{"package_name": "crypto-js", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv2.1", "LGPLv3", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "node-php", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "datatables.net", "registry": "npm", "licenses": ["MIT", "GPLv2", "GPLv3"]}
+{"package_name": "tqdm", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "BSD-3-Clause"]}
+{"package_name": "react-table", "registry": "npm", "licenses": ["GPLv2", "GPLv3", "MIT"]}
+{"package_name": "doctrine/orm", "registry": "composer", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "LGPL-2.1-or-later", "LGPLv2.1", "LGPLv2.1+", "MIT", "MPL-2.0-only"]}
+{"package_name": "php-activerecord", "registry": "composer", "licenses": ["Apache-2.0", "GPLv3", "LGPLv2.1", "MIT"]}
+{"package_name": "CodeIgniter", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "google-chart", "registry": "composer", "licenses": ["GPLv3", "MIT", "Apache-2.0"]}
+{"package_name": "php-gd", "registry": "composer", "licenses": ["MIT", "PHP"]}
+{"package_name": "imagick", "registry": "composer", "licenses": ["BSD-3-Clause", "LGPL-2.1-only", "MIT"]}
+{"package_name": "facebook/php-sdk-v5", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "pagination", "registry": "composer", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "autoload", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause", "PSR-4"]}
+{"package_name": "php-uuid", "registry": "composer", "licenses": ["GPLv2", "MIT", "MPL-2.0"]}
+{"package_name": "joi", "registry": "npm", "licenses": ["Apache-2.0", "MPL-2.0", "MIT", "MIT/X11"]}
+{"package_name": "league/oauth2-client", "registry": "composer", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "json_encode", "registry": "composer", "licenses": ["Standard", "PHP"]}
+{"package_name": "tree", "registry": "pip", "licenses": ["GPLv2", "GPLv3", "MPL-2.0"]}
+{"package_name": "cron", "registry": "composer", "licenses": ["MIT", "Public-Domain", "PHP"]}
+{"package_name": "select2", "registry": "npm", "licenses": ["MIT", "MPL-2.0", "BSD-3-Clause"]}
+{"package_name": "mysql2", "registry": "npm", "licenses": ["AGPLv3", "Apache-2.0", "BSD-new", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "doctrine/dbal", "registry": "composer", "licenses": ["MIT", "LGPL-2.1-or-later", "LGPLv3", "BSD-3-Clause", "LGPLv2.1+"]}
+{"package_name": "php-amqplib", "registry": "composer", "licenses": ["BSD-3-Clause", "LGPL-2.1-or-later", "MIT", "MIT/X11"]}
+{"package_name": "react-paginate", "registry": "npm", "licenses": ["GPLv3", "LGPLv2.1+", "MIT", "MPL-2.0"]}
+{"package_name": "beautifulsoup4", "registry": "pip", "licenses": ["MIT", "GPLv2", "MPL-2.0", "Apache-2.0", "LGPLv2.1+", "LGPL-2.1-only", "BSD"]}
+{"package_name": "gocardless-php", "registry": "composer", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "google-cloud-php", "registry": "composer", "licenses": ["Apache-2.0", "BSD-new"]}
+{"package_name": "twig", "registry": "composer", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "react-checkbox-group", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "jsonlint", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "html2canvas", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "phpjs", "registry": "composer", "licenses": ["MIT", "MPL-1.1", "LGPLv3+", "AGPLv3", "LGPLv3", "MIT/X11"]}
+{"package_name": "url-regex", "registry": "npm", "licenses": ["MIT", "Mozilla"]}
+{"package_name": "django-selectable", "registry": "pip", "licenses": ["GPLv3", "LGPLv3+"]}
+{"package_name": "scikit-learn", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "MIT", "LGPLv3", "GPLv3", "LGPLv2.1", "GPLv2", "GPLv3+", "MPL-2.0", "LGPLv3+"]}
+{"package_name": "i18next", "registry": "npm", "licenses": ["MIT", "GPLv3", "LGPLv2.1", "BSD-3-Clause", "LGPLv3", "LGPL-3.0-only", "LGPL-2.1-only"]}
+{"package_name": "twilio", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "execjs", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "logging", "registry": "pip", "licenses": ["PSF", "MIT"]}
+{"package_name": "ckeditor", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "sequelize", "registry": "npm", "licenses": ["MIT", "LGPLv2.1+", "LGPLv3", "GPLv2", "LGPLv3+", "AGPLv3"]}
+{"package_name": "js2cf", "registry": "npm", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "express-validator", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "regex", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "PSF", "Public-Domain"]}
+{"package_name": "regex", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "LGPLv3", "MIT", "MPL-2.0", "Public-Domain"]}
+{"package_name": "pygobject", "registry": "pip", "licenses": ["GPLv2", "GPLv3", "LGPL-2.1+", "LGPLv2.1", "LGPLv2.1+", "LGPLv2+"]}
+{"package_name": "webpack-dev-server", "registry": "npm", "licenses": ["MIT", "AGPLv3"]}
+{"package_name": "esprima", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv2.1+", "MIT", "MPL-2.0"]}
+{"package_name": "prop-types", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "lit-element", "registry": "npm", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "ngx-bootstrap", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "knockout", "registry": "npm", "licenses": ["MIT", "MPL-2.0", "GPLv3", "BSD-new", "LGPLv2.1+"]}
+{"package_name": "@types/react", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "monaco-editor", "registry": "npm", "licenses": ["AGPLv3", "MIT"]}
+{"package_name": "@types/jquery", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "knockoutjs", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "worker_threads", "registry": "npm", "licenses": ["LGPLv2.1+", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "django-threaded-multihost", "registry": "pip", "licenses": ["GPLv2", "BSD-3-Clause", "MIT"]}
+{"package_name": "lockfile", "registry": "pip", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "bson", "registry": "gem", "licenses": ["MIT", "GPLv3", "MPL-2.0", "GPLv2", "Apache-2.0", "GPLv2+"]}
+{"package_name": "tenacity", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "config", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "configparser", "registry": "pip", "licenses": ["Apache-2.0", "BSD-like", "LGPLv3+", "MIT", "PSF"]}
+{"package_name": "yamljs", "registry": "npm", "licenses": ["GPLv2", "LGPLv3", "MIT"]}
+{"package_name": "django-environ", "registry": "pip", "licenses": ["MIT", "GPLv3"]}
+{"package_name": "cors", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "cors-anywhere", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "flask-cors", "registry": "pip", "licenses": ["Apache-2.0", "BSD-2-Clause", "MIT", "MPL-2.0"]}
+{"package_name": "cordova-plugin-whitelist", "registry": "npm", "licenses": ["Apache-2.0", "MPL-1.1"]}
+{"package_name": "soap", "registry": "npm", "licenses": ["GPLv2", "LGPLv2.1", "MIT"]}
+{"package_name": "fontkit", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv2.1+", "MIT", "MPL-2.0"]}
+{"package_name": "passport-google-oauth20", "registry": "npm", "licenses": ["GPLv2", "GPLv3", "MIT"]}
+{"package_name": "chrome-devtools-protocol", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "django-cron", "registry": "pip", "licenses": ["Mozilla", "GPLv3", "LGPLv2.1", "MPL-2.0", "GPLv2", "MIT", "MPL-1.1", "LGPLv3", "BSD-3-Clause"]}
+{"package_name": "cron-parser", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "django-crontab", "registry": "pip", "licenses": ["GPLv3", "MIT", "LGPLv3+", "LGPLv2.1"]}
+{"package_name": "php-cron", "registry": "composer", "licenses": ["MIT", "PHP"]}
+{"package_name": "File::Copy", "registry": "cpan", "licenses": ["Perl", "Artistic"]}
+{"package_name": "django-simple-captcha", "registry": "pip", "licenses": ["MIT", "BSD"]}
+{"package_name": "rails", "registry": "gem", "licenses": ["MIT", "GPLv3", "LGPLv2.1+", "MPL-2.0", "LGPLv3", "GPLv2"]}
+{"package_name": "sjcl", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "jsencrypt", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "hashlib", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv2", "MIT", "PSF"]}
+{"package_name": "hmac", "registry": "pip", "licenses": ["MIT", "PSF", "Standard"]}
+{"package_name": "pyasn1", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "ecdsa", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "jsrsasign", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "openssl", "registry": "composer", "licenses": ["PHP", "Standard"]}
+{"package_name": "secrets", "registry": "pip", "licenses": ["Index", "Standard"]}
+{"package_name": "@types/decorators", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "mongodb-mock", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "PyQt5", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "polymer", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3+"]}
+{"package_name": "js-joda", "registry": "npm", "licenses": ["Apache-2.0", "MPL-2.0"]}
+{"package_name": "@angular/material", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "wkhtmltopdf", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "firebug", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "MIT/X11"]}
+{"package_name": "source-map", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "pdb", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "chrome-devtools", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "react-refresh", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "debugpy", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "source-map-support", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv2.1", "MIT"]}
+{"package_name": "winston", "registry": "npm", "licenses": ["MIT", "MPL-1.1", "GPLv3", "LGPL-2.1-only", "Apache-2.0"]}
+{"package_name": "es-module-lexer", "registry": "npm", "licenses": ["AGPLv3", "Apache-2.0", "MIT"]}
+{"package_name": "heapy", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "Devel::REPL", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3", "LGPLv3+"]}
+{"package_name": "karma", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "tslib", "registry": "npm", "licenses": ["GPLv2", "GPLv3", "LGPLv3", "MIT"]}
+{"package_name": "google-analytics", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "js-debugger", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "rails-assets-rails", "registry": "gem", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "django-filter", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "GPLv3+", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "@types/jest", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "laravel/socialite", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "pdfmake", "registry": "npm", "licenses": ["MIT", "LGPLv2.1+", "MPL-2.0"]}
+{"package_name": "tslint", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "gsap", "registry": "npm", "licenses": ["MIT", "MIT/GPL"]}
+{"package_name": "styled-components", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "phantomjs", "registry": "npm", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "immer", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "Math::Int64", "registry": "cpan", "licenses": ["LGPLv3", "MIT/X11"]}
+{"package_name": "enum", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "Type::Tiny", "registry": "cpan", "licenses": ["MIT/X11", "Artistic-2.0"]}
+{"package_name": "Devel::Declare", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv1", "LGPLv2.1"]}
+{"package_name": "php-ast", "registry": "composer", "licenses": ["MIT", "MIT/X11", "Mozilla"]}
+{"package_name": "fast-xml-parser", "registry": "npm", "licenses": ["GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "py4j", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "BSD-3-Clause", "LGPLv3+"]}
+{"package_name": "enum34", "registry": "pip", "licenses": ["MIT", "LGPLv3", "GPLv2", "PSF"]}
+{"package_name": "inspect", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "Moose", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv2", "MPL-1.1"]}
+{"package_name": "php-serialize", "registry": "composer", "licenses": ["GPLv2", "GPLv3", "LGPLv3+", "MIT", "Mozilla", "MPL-1.1", "Public-Domain"]}
+{"package_name": "base64", "registry": "pip", "licenses": ["BSD", "MIT", "PSF"]}
+{"package_name": "nio", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "File::Slurp", "registry": "cpan", "licenses": ["GPL", "GPL-1+", "GPLv3", "LGPLv3+", "MIT/X11", "MPL-1.1", "Perl", "Perl_5"]}
+{"package_name": "unidecode", "registry": "pip", "licenses": ["BSD", "MIT"]}
+{"package_name": "fopen", "registry": "composer", "licenses": ["Standard", "PHP"]}
+{"package_name": "iconv", "registry": "composer", "licenses": ["Extension", "Standard", "PHP"]}
+{"package_name": "unicode-display_width", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "openpyxl", "registry": "pip", "licenses": ["MIT", "BSD-new", "LGPLv3+", "BSD-3-Clause", "MPL-2.0"]}
+{"package_name": "Spreadsheet::ParseExcel", "registry": "cpan", "licenses": ["Artistic-2.0", "Artistic", "MIT/X11"]}
+{"package_name": "rack", "registry": "gem", "licenses": ["Apache-2.0", "BSD", "BSD-2-Clause", "GPLv2", "GPLv2+", "LGPLv2.1", "LGPLv2.1+", "MIT", "MIT/X11"]}
+{"package_name": "unicodedata", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "Intl", "registry": "composer", "licenses": ["Standard", "PHP"]}
+{"package_name": "yaml", "registry": "gem", "licenses": ["MIT", "GPLv2", "Ruby"]}
+{"package_name": "LWP", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0", "LGPLv2.1+", "Public-Domain"]}
+{"package_name": "open-uri", "registry": "gem", "licenses": ["BSD-2-Clause", "GPLv2", "LGPLv2.1+"]}
+{"package_name": "ctypes", "registry": "pip", "licenses": ["BSD-style", "PSF", "LGPLv2.1+", "MIT", "BSD"]}
+{"package_name": "XML::RSS", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT/X11"]}
+{"package_name": "JSON", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD-new", "GPLv3", "MIT"]}
+{"package_name": "unicode-emoji", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "php-font-lib", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "cx_Oracle", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "LGPLv2", "MIT"]}
+{"package_name": "pdfjs", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3"]}
+{"package_name": "php-swing", "registry": "composer", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "nodejs-exec", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "Laravel", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "Image::Magick", "registry": "cpan", "licenses": ["GPL", "GPLv2", "GPLv2+", "GPLv3", "LGPLv3", "MPL", "Artistic", "Artistic-2.0"]}
+{"package_name": "php-ruby-bridge", "registry": "composer", "licenses": ["GPLv2", "MIT/X11"]}
+{"package_name": "perl-IPC-Run", "registry": "cpan", "licenses": ["Apache-2.0", "LGPLv2.1+", "MPL-1.0"]}
+{"package_name": "net-http-persistent", "registry": "gem", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "php-imagick", "registry": "composer", "licenses": ["BSD-2-Clause", "MIT"]}
+{"package_name": "perl-exec", "registry": "cpan", "licenses": ["Apache-2.0", "GPLv3", "LGPLv2.1"]}
+{"package_name": "childprocess", "registry": "gem", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "Doctrine", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause", "LGPLv2.1+"]}
+{"package_name": "php-pear", "registry": "composer", "licenses": ["Apache-2.0", "LGPLv2.1", "LGPLv2.1+", "MPL-1.1"]}
+{"package_name": "http-proxy", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "json-schema", "registry": "composer", "licenses": ["LGPLv2.1", "MIT", "MIT/X11"]}
+{"package_name": "digest", "registry": "gem", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "multiprocessing", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "HTML::Parser", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPL-1+", "Perl"]}
+{"package_name": "unicode-regex", "registry": "npm", "licenses": ["ISC", "MIT"]}
+{"package_name": "php-sql-parser", "registry": "composer", "licenses": ["MIT", "BSD-new"]}
+{"package_name": "Net::Amazon::S3", "registry": "cpan", "licenses": ["GPL-1+", "LGPLv3"]}
+{"package_name": "v8", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2+", "MIT", "MIT/X11"]}
+{"package_name": "fluent-ffmpeg", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "emojione", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "php-crypt", "registry": "composer", "licenses": ["MIT", "LGPL-2.1-or-later"]}
+{"package_name": "wmi", "registry": "gem", "licenses": ["MPL-1.1", "MIT"]}
+{"package_name": "css-select", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "jruby", "registry": "gem", "licenses": ["Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "EPL", "EPL-1.0", "EPL-2.0", "EPL/GPL-2.0-with-Classpath-Exception", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "Public-Domain"]}
+{"package_name": "log4php", "registry": "composer", "licenses": ["LGPLv3", "LGPLv2.1"]}
+{"package_name": "win32ole", "registry": "gem", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "LGPLv2.1", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "File::Find", "registry": "cpan", "licenses": ["MIT/X11", "Perl"]}
+{"package_name": "php-compiler", "registry": "composer", "licenses": ["MIT", "LGPL-3.0-or-later", "BSD-3-Clause"]}
+{"package_name": "Regexp::Common", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0", "BSD", "LGPLv3+", "Perl", "Perl-5.8.0", "Perl5", "Perl_5", "Public-Domain"]}
+{"package_name": "PerlFX", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3", "GPLv3+", "LGPLv2.1+", "MIT", "MIT/X11", "Perl"]}
+{"package_name": "Install", "registry": "gem", "licenses": ["First", "If", "JRuby", "You", "and"]}
+{"package_name": "typeguard", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "ExtUtils::MakeMaker", "registry": "cpan", "licenses": ["MPL", "Perl"]}
+{"package_name": "node", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MIT/X11"]}
+{"package_name": "perl-compiler", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT/X11", "Perl"]}
+{"package_name": "numba", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPLv3+", "MIT"]}
+{"package_name": "ruby-prof", "registry": "gem", "licenses": ["MIT/X11", "MIT", "MPL-2.0"]}
+{"package_name": "Class::Load", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1"]}
+{"package_name": "perlfx", "registry": "cpan", "licenses": ["Artistic", "GPLv2", "LGPLv3", "MPL-1.1"]}
+{"package_name": "ast", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "Symfony", "registry": "composer", "licenses": ["GPLv2", "MIT", "LGPLv3", "Apache-2.0"]}
+{"package_name": "Win32::GUI", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3", "Permissive"]}
+{"package_name": "Install", "registry": "pip", "licenses": ["bash", "sh"]}
+{"package_name": "docker", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "GPLv2"]}
+{"package_name": "PyQt", "registry": "pip", "licenses": ["GPL-3.0-only", "GPL-3.0-or-later", "BSD", "MPL-1.1", "MIT", "QPL", "Apache-2.0", "BSD-3-Clause", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "LGPLv3", "MIT/X11", "GPLv2", "GPL-v2", "GPL-2.0-or-later", "GPLv2+", "GPL-v3"]}
+{"package_name": "php-jvm", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "swing", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "PHPExcel", "registry": "composer", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPL-2.0-or-later", "GPLv2", "GPLv3", "LGPLv2.1+", "LGPLv3", "MIT"]}
+{"package_name": "php-gtk", "registry": "composer", "licenses": ["GPLv2", "LGPLv2.1+"]}
+{"package_name": "shapely", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv3", "LGPLv2.1+", "LGPLv3+", "MIT"]}
+{"package_name": "monolog", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "Thread::Queue", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv2", "Perl_5"]}
+{"package_name": "mutex", "registry": "gem", "licenses": ["MIT", "MIT/X11", "Ruby"]}
+{"package_name": "threads", "registry": "cpan", "licenses": ["GPL-1+", "MIT/X11", "LGPLv2.1", "Artistic-2.0", "GPLv2", "GPLv3", "LGPLv2.1+", "Artistic"]}
+{"package_name": "pthreads", "registry": "composer", "licenses": ["GPLv3", "MIT", "PHP"]}
+{"package_name": "thread", "registry": "gem", "licenses": ["MIT", "Standard", "Public-Domain"]}
+{"package_name": "php-thread", "registry": "composer", "licenses": ["LGPL-2.1-only", "MPL-1.1"]}
+{"package_name": "thread_safe", "registry": "gem", "licenses": ["LGPLv3+", "MIT", "Mozilla"]}
+{"package_name": "@stdlib/ndarray", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "queue", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "Devel-Leak", "registry": "cpan", "licenses": ["GPL-1+", "Perl"]}
+{"package_name": "synchronized", "registry": "composer", "licenses": ["GPLv3+", "MIT"]}
+{"package_name": "perl-thread-queue", "registry": "cpan", "licenses": ["LGPLv2.1", "LGPLv2.1+"]}
+{"package_name": "Config::Simple", "registry": "cpan", "licenses": ["GPLv3", "LGPLv3", "Artistic-2.0", "Perl"]}
+{"package_name": "GD::Graph", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+", "LGPLv2.1"]}
+{"package_name": "configatron", "registry": "gem", "licenses": ["BSD-2-Clause", "MIT", "LGPLv2.1+"]}
+{"package_name": "pycurl", "registry": "pip", "licenses": ["GPLv2", "MPL-1.1", "LGPLv3", "LGPLv2.1+", "GPLv3"]}
+{"package_name": "DBD::H2", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+"]}
+{"package_name": "jsonschema", "registry": "pip", "licenses": ["GPLv2", "MIT", "MPL-2.0"]}
+{"package_name": "passport", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "XML::Simple", "registry": "cpan", "licenses": ["GPL-1+", "Artistic-2.0", "GPL"]}
+{"package_name": "yargs", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "php-dotenv", "registry": "composer", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "config", "registry": "gem", "licenses": ["MIT", "Standard"]}
+{"package_name": "openssl", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "watchdog", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "LGPLv3", "MIT"]}
+{"package_name": "Config::Properties", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "capistrano", "registry": "gem", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "php-attribute", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "Data::Property", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv2"]}
+{"package_name": "SimpleXMLElement", "registry": "composer", "licenses": ["Standard", "PHP"]}
+{"package_name": "line_profiler", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "jenkins-php", "registry": "composer", "licenses": ["LGPLv3", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "Dist::Zilla", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+"]}
+{"package_name": "istanbul", "registry": "npm", "licenses": ["MPL-2.0", "MIT", "Apache-2.0"]}
+{"package_name": "codecov", "registry": "pip", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "Devel::Cover", "registry": "cpan", "licenses": ["GPLv2", "LGPLv2.1+", "Artistic-2.0"]}
+{"package_name": "simplecov", "registry": "gem", "licenses": ["MIT", "LGPL-2.1-only", "MIT/X11"]}
+{"package_name": "nodejs/node", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "jenkins", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "GPLv3"]}
+{"package_name": "jenkins", "registry": "pip", "licenses": ["GPLv2", "Apache-2.0", "MIT"]}
+{"package_name": "Dancer2", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPLv2", "GPLv3"]}
+{"package_name": "github-api", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv2"]}
+{"package_name": "escomplex", "registry": "npm", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "pip-tools", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "xdebug", "registry": "composer", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "sonarqube-scanner", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "phpcs", "registry": "composer", "licenses": ["BSD-3-Clause", "GPLv3+", "LGPLv3+"]}
+{"package_name": "fabric", "registry": "pip", "licenses": ["Mozilla", "BSD-3-Clause", "MIT", "LGPLv2"]}
+{"package_name": "google-cloud-ruby", "registry": "gem", "licenses": ["apache-2.0", "Apache-2.0"]}
+{"package_name": "tempfile", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "socket.io", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "MIT/X11"]}
+{"package_name": "em-websocket", "registry": "gem", "licenses": ["LGPLv3", "MIT", "LGPLv3+"]}
+{"package_name": "rack-cors", "registry": "gem", "licenses": ["MIT", "LGPLv2.1", "MIT/X11", "MPL-1.1"]}
+{"package_name": "Plack::Middleware::Cors", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+"]}
+{"package_name": "Plack::Middleware::CrossOrigin", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-v3+"]}
+{"package_name": "aws-lambda", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "aws-sdk", "registry": "gem", "licenses": ["Apache-2.0", "LGPLv2.1+"]}
+{"package_name": "psr/http-message", "registry": "composer", "licenses": ["LGPL-2.1-or-later", "MIT"]}
+{"package_name": "libxml2", "registry": "pip", "licenses": ["LGPLv2", "LGPLv2.1", "LGPLv3"]}
+{"package_name": "goutte", "registry": "composer", "licenses": ["MIT", "GPLv3", "LGPLv2.1", "MPL-1.1", "GPLv2", "LGPLv3", "MPL-2.0"]}
+{"package_name": "django-dotenv", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "django-admin-sortable", "registry": "pip", "licenses": ["LGPLv3+", "MIT", "LGPLv3"]}
+{"package_name": "pdo", "registry": "composer", "licenses": ["LGPLv2.1+", "Standard"]}
+{"package_name": "keycode", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "table", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "GPLv3", "MPL-2.0"]}
+{"package_name": "argparse", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "GPLv2", "MIT", "PSF"]}
+{"package_name": "django-heroku", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1+", "MIT", "MPL-2.0"]}
+{"package_name": "numpy", "registry": "npm", "licenses": ["BSD-3-Clause", "BSD"]}
+{"package_name": "tensorflow", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "keras", "registry": "pip", "licenses": ["Apache-2.0", "MPL-2.0", "MIT"]}
+{"package_name": "torch", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "MIT"]}
+{"package_name": "torchvision", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "memory_profiler", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "scikit-image", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv2", "MIT/X11", "MIT", "GPLv3", "GPL-3.0-or-later", "MPL-2.0", "LGPLv2.1"]}
+{"package_name": "nltk", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "GPL-3.0-only", "GPL-3.0-or-later", "GPLv3", "MIT"]}
+{"package_name": "transformers", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv3"]}
+{"package_name": "google-colab", "registry": "pip", "licenses": ["AGPLv3", "Apache-2.0"]}
+{"package_name": "OpenCV", "registry": "pip", "licenses": ["GPLv2", "BSD", "Apache-2.0", "LGPLv2.1", "BSD-3-Clause", "MIT"]}
+{"package_name": "pyarrow", "registry": "pip", "licenses": ["Apache-2.0", "BSD-new"]}
+{"package_name": "PyTorch", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "inversify", "registry": "npm", "licenses": ["GPLv2+", "MIT"]}
+{"package_name": "injector", "registry": "pip", "licenses": ["GPLv3", "LGPLv3", "MIT"]}
+{"package_name": "unittest.mock", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "MIT", "PSF", "Public-Domain"]}
+{"package_name": "@angular-devkit/core", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "js-interop", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3"]}
+{"package_name": "tsconfig-paths", "registry": "npm", "licenses": ["MIT", "GPLv3"]}
+{"package_name": "git", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "wsgiref", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "PSF"]}
+{"package_name": "heroku", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-migrations", "registry": "pip", "licenses": ["MIT", "MPL-1.1", "BSD-3-Clause", "GPLv3+", "LGPLv3+", "MPL-2.0", "LGPLv2.1"]}
+{"package_name": "daphne", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "MIT"]}
+{"package_name": "sqlite3", "registry": "pip", "licenses": ["MIT", "BSD-new"]}
+{"package_name": "heroku-cli", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "django-jquery", "registry": "pip", "licenses": ["MIT", "LGPLv3+", "LGPLv2.1"]}
+{"package_name": "bleach", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "BSD-3-Clause", "GPLv3"]}
+{"package_name": "django-autocomplete-light", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv3+", "GPLv3", "LGPLv3+"]}
+{"package_name": "django-pipeline", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "django-markdown2", "registry": "pip", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "django-admin", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv3", "GPLv2+", "LGPLv3"]}
+{"package_name": "django-template-tag", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "MIT", "MPL-1.1"]}
+{"package_name": "django-user-agents", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-admin-tools", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "LGPLv2.1", "LGPLv3", "MIT", "MPL-1.1"]}
+{"package_name": "django-select2", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "django-admin-hints", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "django-bootstrap4", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv3"]}
+{"package_name": "django-pandas", "registry": "pip", "licenses": ["MIT", "GPLv2", "BSD-3-Clause", "LGPLv3", "MPL-1.1", "GPLv3", "LGPL-3.0-or-later"]}
+{"package_name": "django-taggit", "registry": "pip", "licenses": ["MIT", "GPLv3", "BSD-3-Clause", "GPLv2", "LGPLv3+", "Public-Domain", "LGPLv2+"]}
+{"package_name": "django-summernote", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3"]}
+{"package_name": "django-admin-actions", "registry": "pip", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "django-formtools", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv3", "GPLv3+", "LGPLv3+", "MIT", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "django-templates", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause"]}
+{"package_name": "django-humane", "registry": "pip", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "django-dynamic-models", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "django-categories", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "django-webpack-loader", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "dict", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "django-webpack-loader", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3+", "GPLv2"]}
+{"package_name": "django-tastypie", "registry": "pip", "licenses": ["LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "MIT", "MPL-1.1"]}
+{"package_name": "django-templatetags", "registry": "pip", "licenses": ["BSD", "MIT", "GPLv3"]}
+{"package_name": "django-ckeditor", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "GPLv2+"]}
+{"package_name": "django-l10n", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause"]}
+{"package_name": "django-tables2", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "MIT", "MPL-1.1"]}
+{"package_name": "django-templatetags-extra", "registry": "pip", "licenses": ["GPLv2", "LGPLv2.1", "MIT", "LGPLv3+"]}
+{"package_name": "sortedcontainers", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "GPLv2", "GPLv3", "MPL-2.0", "LGPLv3+"]}
+{"package_name": "handlebars.js", "registry": "npm", "licenses": ["GPLv3", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "num2words", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "django-paginate", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "BSD-like", "BSD-new", "GPLv2", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "django-recaptcha", "registry": "pip", "licenses": ["MIT", "LGPLv3", "BSD-3-Clause"]}
+{"package_name": "django-multiselectfield", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause"]}
+{"package_name": "django-imagekit", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "MPL-1.1", "MIT"]}
+{"package_name": "Jinja2", "registry": "pip", "licenses": ["BSD", "MIT"]}
+{"package_name": "widget_tweaks", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "django-paginator", "registry": "pip", "licenses": ["GPLv3+", "BSD-3-Clause", "MIT", "LGPLv2.1", "GPLv3"]}
+{"package_name": "whitenoise", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "django-extra-views", "registry": "pip", "licenses": ["MIT", "BSD", "BSD-3-Clause", "Apache-2.0"]}
+{"package_name": "isodate", "registry": "pip", "licenses": ["BSD-3-Clause", "BSD"]}
+{"package_name": "django-staticfiles", "registry": "pip", "licenses": ["BSD", "GPLv3", "MIT"]}
+{"package_name": "django-templatetags-js", "registry": "pip", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "django-i18n-trans", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "django-cms", "registry": "pip", "licenses": ["GPLv2", "GPLv2+", "GPLv3", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "django-endless-pagination", "registry": "pip", "licenses": ["AGPLv3", "BSD-3-Clause", "LGPLv2.1"]}
+{"package_name": "taggit", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "LGPLv2.1+", "MIT"]}
+{"package_name": "wtforms", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "BSD"]}
+{"package_name": "xmltodict", "registry": "pip", "licenses": ["Apache-2.0", "BSD-new", "GPLv2", "GPLv3", "LGPLv3", "MIT", "MIT/X11", "Public-Domain"]}
+{"package_name": "django-ugettext", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-1.1", "PSF"]}
+{"package_name": "docker-py", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "django-redis", "registry": "pip", "licenses": ["MIT", "GPLv3", "Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "waitress", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "ts-loader", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "GPLv2"]}
+{"package_name": "docker-compose", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "BSD-new", "MIT", "GPLv2"]}
+{"package_name": "heapdump", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-social-auth", "registry": "pip", "licenses": ["BSD", "GPLv3", "MIT", "BSD-3-Clause"]}
+{"package_name": "wkhtmltopdf", "registry": "pip", "licenses": ["GPLv3", "LGPLv3", "MIT", "LGPLv3+", "GPL-v2"]}
+{"package_name": "django-rules", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "django-mysql", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "LGPLv3", "LGPLv3+", "MPL-1.1"]}
+{"package_name": "spacy", "registry": "pip", "licenses": ["GPLv3", "GPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "arangodb", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv3"]}
+{"package_name": "pika", "registry": "pip", "licenses": ["MIT", "Apache-2.0", "MPL-1.1", "LGPLv3+", "LGPLv2.1+", "GPLv2"]}
+{"package_name": "aws-ecs", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-sslserver", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "LGPLv2.1+"]}
+{"package_name": "python-dotenv", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "wscat", "registry": "npm", "licenses": ["MIT", "GPLv3", "GPLv2"]}
+{"package_name": "scrapy-splash", "registry": "pip", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "psycopg2-binary", "registry": "pip", "licenses": ["MIT", "PostgreSQL", "LGPLv3+"]}
+{"package_name": "django-tenants", "registry": "pip", "licenses": ["MIT/X11", "LGPLv3"]}
+{"package_name": "mongostat", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mysql", "registry": "npm", "licenses": ["Apache-2.0", "GPL", "GPL-2.0-only", "GPL-v2", "GPL-v2.0", "LGPLv2.1", "LGPLv2.1+", "MIT", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "pyrsistent", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv2"]}
+{"package_name": "alembic", "registry": "pip", "licenses": ["MIT", "AGPLv3", "LGPLv3+"]}
+{"package_name": "svg.js", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "django-oauth-toolkit", "registry": "pip", "licenses": ["GPLv2", "GPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "django-signals", "registry": "pip", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "set", "registry": "pip", "licenses": ["MIT", "PSF", "Public-Domain"]}
+{"package_name": "neo4j-driver", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "ffmpeg", "registry": "npm", "licenses": ["GPLv2", "GPLv2+", "LGPLv2.1", "LGPLv2.1+"]}
+{"package_name": "electron-log", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "ts-jest", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "LGPLv3", "MIT"]}
+{"package_name": "HTTP::Headers", "registry": "cpan", "licenses": ["Apache-2.0", "Perl"]}
+{"package_name": "quartz-scheduler", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "quartz-scheduler-ruby", "registry": "gem", "licenses": ["Apache-2.0", "GPLv2"]}
+{"package_name": "Cron::Run", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "perl-cpanminus", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+", "MPL-2.0"]}
+{"package_name": "quartz", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "quartz-scheduler", "registry": "gem", "licenses": ["LGPLv2.1+", "Apache-2.0", "GPLv2"]}
+{"package_name": "quartz", "registry": "pip", "licenses": ["GPLv2", "LGPLv3+", "MIT"]}
+{"package_name": "Time::Crontab", "registry": "cpan", "licenses": ["GPL-1+", "GPLv3"]}
+{"package_name": "DBIx::Class", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL", "GPL-1+", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "Perl", "Public-Domain"]}
+{"package_name": "mechanize", "registry": "gem", "licenses": ["MIT", "GPLv2", "LGPLv2.1+", "GPLv3"]}
+{"package_name": "node-timer", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "@google-cloud/datastore", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv2.1", "MIT"]}
+{"package_name": "random", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "Crypt::AES", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD", "Perl"]}
+{"package_name": "Crypt::RSA", "registry": "cpan", "licenses": ["GPL-1+", "LGPL-1.0-or-later"]}
+{"package_name": "Crypt::Rijndael", "registry": "cpan", "licenses": ["Artistic-2.0", "Crypt-Rijndael", "GPL-1+"]}
+{"package_name": "bouncycastle", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "bouncy-castle", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "BSD-3-Clause"]}
+{"package_name": "digest-md5", "registry": "gem", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "cryptography", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "hash", "registry": "composer", "licenses": ["PHP", "Standard"]}
+{"package_name": "bouncy-castle-ruby", "registry": "gem", "licenses": ["Apache-2.0", "MPL-1.1"]}
+{"package_name": "php-cucumber", "registry": "composer", "licenses": ["BSD-3-Clause", "GPLv2", "GPLv3", "LGPL-3.0-only", "LGPL-2.1-or-later", "LGPLv3", "LGPLv3+", "MIT", "MIT/X11"]}
+{"package_name": "cucumber-py", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "cucumber-rails", "registry": "gem", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "cucumber", "registry": "cpan", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "cucumber-perl", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3"]}
+{"package_name": "cpanm", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+"]}
+{"package_name": "laravel/framework", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "XML::Twig", "registry": "cpan", "licenses": ["Artistic", "GPL-1+", "GPLv3", "Artistic-2.0", "LGPLv3"]}
+{"package_name": "erb", "registry": "gem", "licenses": ["GPLv2", "MIT", "gplv3+"]}
+{"package_name": "libxml-perl", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+"]}
+{"package_name": "php-combo-box", "registry": "composer", "licenses": ["LGPLv3", "MIT", "GPLv2"]}
+{"package_name": "sqlite3", "registry": "gem", "licenses": ["GPLv3", "MIT", "Public-Domain"]}
+{"package_name": "Tkx", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv2"]}
+{"package_name": "Data::Bind", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+", "LGPLv3", "MIT/X11"]}
+{"package_name": "Data::Table", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT/X11"]}
+{"package_name": "datagrid", "registry": "gem", "licenses": ["BSD-3-Clause", "LGPLv3+", "MIT"]}
+{"package_name": "WxPerl", "registry": "cpan", "licenses": ["GPLv3", "wxWidgets"]}
+{"package_name": "xsd", "registry": "npm", "licenses": ["GPLv2", "LGPLv2.1+", "LGPLv3", "MIT", "MIT/X11"]}
+{"package_name": "xmlschema", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "XML::Compile", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0"]}
+{"package_name": "typeorm", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "LGPLv2.1+", "MIT"]}
+{"package_name": "json-schema", "registry": "npm", "licenses": ["GPLv3", "MIT", "BSD-3-Clause", "MPL-2.0"]}
+{"package_name": "combobox", "registry": "gem", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "datatables-rails", "registry": "gem", "licenses": ["BSD-3-Clause", "LGPLv2.1+", "MIT"]}
+{"package_name": "vue", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "perl-dancer", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT"]}
+{"package_name": "dataclasses", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "activemodel", "registry": "gem", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "laravelcollective/html", "registry": "composer", "licenses": ["MIT", "LGPLv2.1+", "BSD-3-Clause"]}
+{"package_name": "queue", "registry": "npm", "licenses": ["GPLv2", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "PySwip", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3"]}
+{"package_name": "PySide", "registry": "pip", "licenses": ["LGPLv2.1+", "LGPLv3"]}
+{"package_name": "dry-validation", "registry": "gem", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "DoctrineORM", "registry": "composer", "licenses": ["MIT", "LGPL-2.1+", "LGPLv2+"]}
+{"package_name": "laravel/laravel", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "tk", "registry": "gem", "licenses": ["MIT", "BSD", "GPLv2+", "GPLv2"]}
+{"package_name": "simplexml", "registry": "composer", "licenses": ["Standard", "Core"]}
+{"package_name": "uri", "registry": "gem", "licenses": ["GPLv2+", "LGPLv2.1", "LGPLv3+", "MIT", "MIT-like", "Public-Domain"]}
+{"package_name": "Devel::StackTrace", "registry": "cpan", "licenses": ["GPL-1+", "GPLv2"]}
+{"package_name": "Devel::PPPort", "registry": "cpan", "licenses": ["Artistic-2.0", "Artistic"]}
+{"package_name": "Data::Byte", "registry": "cpan", "licenses": ["GPL", "LGPLv2.1+"]}
+{"package_name": "rvm", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "pprint", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "Try::Tiny", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD-new", "LGPLv2.1"]}
+{"package_name": "pydbg", "registry": "pip", "licenses": ["GPLv3", "MPL-1.1", "MIT"]}
+{"package_name": "python-decouple", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "php-parser", "registry": "pip", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "traceback", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "IO::Handle", "registry": "cpan", "licenses": ["BSD", "GPL-1", "Artistic"]}
+{"package_name": "tesseract.js", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "LGPLv2.1", "BSD-3-Clause", "LGPLv2.1+"]}
+{"package_name": "h2o-ruby", "registry": "gem", "licenses": ["Apache-2.0", "LGPLv3"]}
+{"package_name": "tensorflowjs", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "cntk", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "graphviz", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "php-cpp", "registry": "composer", "licenses": ["MIT", "BSD-new", "LGPLv3"]}
+{"package_name": "perl-ExtUtils-CBuilder", "registry": "cpan", "licenses": ["BSD", "Perl"]}
+{"package_name": "Module::Pluggable", "registry": "cpan", "licenses": ["LGPLv2.1", "LGPLv3", "Perl", "Perl_5"]}
+{"package_name": "dependency-cruiser", "registry": "npm", "licenses": ["AGPLv3", "MIT"]}
+{"package_name": "class-validator", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "Class::Inspector", "registry": "cpan", "licenses": ["GPLv3", "MIT/X11"]}
+{"package_name": "mongo", "registry": "gem", "licenses": ["Apache-2.0", "MIT", "LGPLv2.1", "AGPLv3", "GPLv3+", "LGPLv3+"]}
+{"package_name": "jest-mock-extended", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "dry-rb", "registry": "gem", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "pyobjc", "registry": "pip", "licenses": ["MIT", "GPLv3", "LGPLv2.1+"]}
+{"package_name": "graphviz", "registry": "gem", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "dry-container", "registry": "gem", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "dependency_injector", "registry": "gem", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "Pimple", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "Test::MockObject", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0", "BSD", "GPL-1+", "LGPLv2.1+", "MIT/X11"]}
+{"package_name": "symfony/dependency-injection", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "css-in-js", "registry": "npm", "licenses": ["Apache-2.0", "MPL-2.0"]}
+{"package_name": "jsreport", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "libxmljs", "registry": "npm", "licenses": ["LGPLv2", "LGPLv2.1", "LGPLv2.1+"]}
+{"package_name": "googletrans", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "GPLv3+", "LGPLv3", "MIT"]}
+{"package_name": "lz4", "registry": "npm", "licenses": ["BSD-2-Clause", "LGPLv2.1"]}
+{"package_name": "html5lib", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "js-base64", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "pyzmq", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT", "BSD"]}
+{"package_name": "inquirer", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "yagmail", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "pako", "registry": "npm", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "mongodb-encryption", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mongoose-encryption", "registry": "npm", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "big-integer", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "swagger-ui-express", "registry": "npm", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "handlebars", "registry": "npm", "licenses": ["GPLv2", "GPLv3+", "LGPLv2.1+", "LGPLv3+", "MPL-2.0", "MIT", "Apache-2.0"]}
+{"package_name": "passport-local-mongoose", "registry": "npm", "licenses": ["MIT", "LGPLv2.1+"]}
+{"package_name": "connect-mongo", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "GPLv3", "BSD-3-Clause", "GPLv2"]}
+{"package_name": "bson", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv3", "MIT", "MPL-2.0", "PSF", "SSPL"]}
+{"package_name": "monk", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "passport.js", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "sequelize-typescript", "registry": "npm", "licenses": ["LGPL-3.0-only", "MIT"]}
+{"package_name": "faker", "registry": "pip", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "passport-facebook", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "firebase-admin", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "LGPL-3.0-only", "AGPLv3", "LGPLv3", "GPLv3"]}
+{"package_name": "create-react-app", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "pdfkit", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "http", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "google-auth-library", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "LGPLv3"]}
+{"package_name": "ajv", "registry": "npm", "licenses": ["BSD-3", "MIT", "MPL-2.0"]}
+{"package_name": "opencv4nodejs", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "sinon", "registry": "npm", "licenses": ["BSD-3-Clause", "LGPLv2.1", "MIT"]}
+{"package_name": "DOMPurify", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "@angular/fire", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "@google-cloud/firestore", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "firebase-functions", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "@firebase/messaging", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "paginate", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "firebase-admin", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3"]}
+{"package_name": "firebase-tools", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "@firebase/database", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "@types/firestore", "registry": "npm", "licenses": ["MIT", "LGPL-2.1-only"]}
+{"package_name": "algoliasearch", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "heatmap.js", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "pyshorteners", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "django-firebase", "registry": "pip", "licenses": ["AGPLv3", "GPLv3"]}
+{"package_name": "httpx", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "MIT"]}
+{"package_name": "react-app-rewired", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "pyrebase4", "registry": "pip", "licenses": ["MIT", "LGPLv3+"]}
+{"package_name": "pyfcm", "registry": "pip", "licenses": ["MPL-2.0", "MIT"]}
+{"package_name": "pyrebase", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "mongoengine", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "marshmallow", "registry": "pip", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "flask-session", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "Apache-2.0"]}
+{"package_name": "flask-paginate", "registry": "pip", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "flask-wtf", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "flasgger", "registry": "pip", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "flask-sqlalchemy", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "webbrowser", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "flask-socketio", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "LGPLv3+"]}
+{"package_name": "flask-dance", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "Flask-MongoEngine", "registry": "pip", "licenses": ["BSD-3-Clause", "LGPLv2.1+"]}
+{"package_name": "flask-mongoalchemy", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "Flask-JWT-Extended", "registry": "pip", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "flask-mongoengine", "registry": "pip", "licenses": ["MIT", "LGPLv3+", "BSD-3-Clause", "MPL-2.0", "LGPLv3"]}
+{"package_name": "Flask-Login", "registry": "pip", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "django-autofield", "registry": "pip", "licenses": ["MIT", "LGPLv2.1+", "BSD-3-Clause", "LGPLv3+"]}
+{"package_name": "Mockery", "registry": "composer", "licenses": ["MIT", "GPLv3", "Apache-2.0"]}
+{"package_name": "mocha", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mockery", "registry": "composer", "licenses": ["MIT", "MIT/X11", "mit"]}
+{"package_name": "php-enum", "registry": "composer", "licenses": ["MIT", "MPL-2.0", "BSD-3-Clause"]}
+{"package_name": "contextlib", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "amqp", "registry": "pip", "licenses": ["GPLv2", "LGPLv2.1", "MIT"]}
+{"package_name": "amqp", "registry": "gem", "licenses": ["GPLv3", "LGPLv3", "MIT"]}
+{"package_name": "grpc", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "rubyinstaller", "registry": "gem", "licenses": ["AGPLv3", "MIT"]}
+{"package_name": "puma", "registry": "gem", "licenses": ["MIT", "LGPLv3+", "BSD-2-Clause", "GPLv3"]}
+{"package_name": "plack", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPL-1+", "GPLv3+"]}
+{"package_name": "rb2exe", "registry": "gem", "licenses": ["GPLv2+", "LGPLv2.1+", "MIT", "GPLv3+"]}
+{"package_name": "Locale::TextDomain", "registry": "cpan", "licenses": ["Apache-2.0", "LGPLv3"]}
+{"package_name": "DBD::mysql", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL", "LGPLv2.1"]}
+{"package_name": "node-red", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "ruby-gnome2", "registry": "gem", "licenses": ["BSD-2-Clause", "LGPLv2.1+"]}
+{"package_name": "iisnode", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "Devel::Size", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1", "GPL-1+", "GPLv3", "LGPLv2.1+", "Perl"]}
+{"package_name": "testcontainers", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "testcontainers", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "Net::OpenSSH", "registry": "cpan", "licenses": ["GPL-1", "Public-Domain"]}
+{"package_name": "redis", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD", "Perl"]}
+{"package_name": "ssl-root-certs", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "Net:", "registry": "cpan", "licenses": ["GPL-1", "GPLv2", "Artistic-2.0"]}
+{"package_name": "grpc", "registry": "gem", "licenses": ["Apache-2.0", "MIT/X11"]}
+{"package_name": "perl-docker", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPL", "GPLv3"]}
+{"package_name": "php-rmi", "registry": "composer", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "perl-rmi", "registry": "cpan", "licenses": ["BSD", "GPL-1+"]}
+{"package_name": "docker-compose", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3", "MIT"]}
+{"package_name": "pg8000", "registry": "pip", "licenses": ["MIT/X11", "MIT"]}
+{"package_name": "elasticsearch", "registry": "npm", "licenses": ["Apache-2.0", "LGPL-2.1-only", "LGPLv2.1+", "MIT"]}
+{"package_name": "elasticsearch", "registry": "pip", "licenses": ["Apache-2.0", "MPL-2.0", "GPLv3"]}
+{"package_name": "elasticsearch", "registry": "gem", "licenses": ["Apache-2.0", "GPLv3"]}
+{"package_name": "websocket-client", "registry": "gem", "licenses": ["MIT", "BSD-3-Clause", "GPLv3", "GPLv2"]}
+{"package_name": "cassandra-driver", "registry": "gem", "licenses": ["Apache-2.0", "LGPLv3+"]}
+{"package_name": "kafka-python", "registry": "pip", "licenses": ["GPLv3", "Apache-2.0"]}
+{"package_name": "rmic", "registry": "gem", "licenses": ["LGPLv3+", "MIT/X11"]}
+{"package_name": "phpredis", "registry": "composer", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "monodb", "registry": "composer", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "Data::Dedupe", "registry": "cpan", "licenses": ["GPLv3", "MIT/X11", "Perl"]}
+{"package_name": "set", "registry": "gem", "licenses": ["MIT", "LGPLv2.1+", "GPLv2+", "BSD-2-Clause", "GPLv2"]}
+{"package_name": "Text::NSP", "registry": "cpan", "licenses": ["LGPLv2.1", "LGPLv3", "Apache-2.0"]}
+{"package_name": "node-clone", "registry": "npm", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "Set::Scalar", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+"]}
+{"package_name": "csv", "registry": "gem", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "perl-electron", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "io-console", "registry": "gem", "licenses": ["MIT", "LGPLv2.1+", "LGPLv3+"]}
+{"package_name": "copy", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "chardet", "registry": "gem", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "oracle", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "pydub", "registry": "pip", "licenses": ["MIT", "GPLv3", "MIT/X11"]}
+{"package_name": "Net::FTP", "registry": "cpan", "licenses": ["GPL-1+", "LGPLv3", "MIT/X11"]}
+{"package_name": "mailparser", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "pdfkit", "registry": "pip", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "platform", "registry": "pip", "licenses": ["GPLv3+", "Public-Domain"]}
+{"package_name": "Benchmark", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3", "Perl"]}
+{"package_name": "TryCatch", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "tls", "registry": "npm", "licenses": ["GPLv2+", "MIT"]}
+{"package_name": "Flask-SQLAlchemy", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "pydrive", "registry": "pip", "licenses": ["GPLv2", "Apache-2.0", "MIT"]}
+{"package_name": "mongokit", "registry": "pip", "licenses": ["MIT", "BSD"]}
+{"package_name": "mongoalchemy", "registry": "pip", "licenses": ["LGPLv2.1+", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "pywebview", "registry": "pip", "licenses": ["Apache-2.0", "MIT/X11"]}
+{"package_name": "mongomock", "registry": "pip", "licenses": ["MIT", "GPLv3", "MPL-2.0"]}
+{"package_name": "google-maps-js", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "babel", "registry": "npm", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "eventlet", "registry": "pip", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "flask-restplus", "registry": "pip", "licenses": ["GPLv2", "LGPLv3"]}
+{"package_name": "lodash-es", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "fpdf", "registry": "pip", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "plotly", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "requests-oauthlib", "registry": "pip", "licenses": ["MIT", "Apache-2.0", "LGPLv2.1"]}
+{"package_name": "fonttools", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv3", "GPLv3"]}
+{"package_name": "react-draggable", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "tablesorter", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "django-wagtail", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "pyparsing", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "css-loader", "registry": "npm", "licenses": ["MIT", "MPL-2.0", "BSD-3-Clause"]}
+{"package_name": "numeral.js", "registry": "npm", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "textwrap", "registry": "pip", "licenses": ["MIT", "PSF", "Standard"]}
+{"package_name": "json-stream-parser", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "ag-grid", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "three.js", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "camelot", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2+"]}
+{"package_name": "laravel-permission", "registry": "composer", "licenses": ["MIT", "GPLv2", "MPL-1.1", "BSD-3-Clause", "LGPLv3+"]}
+{"package_name": "pyautogui", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "php-login", "registry": "composer", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "django-stripe", "registry": "pip", "licenses": ["GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "d3.js", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT", "Apache-2.0"]}
+{"package_name": "moment-duration-format", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "django-redirects", "registry": "pip", "licenses": ["GPLv3", "BSD-3-Clause", "MIT", "LGPLv3+"]}
+{"package_name": "react-slick", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "react-number-format", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "react-progress-bar", "registry": "npm", "licenses": ["GPLv3", "MPL-2.0"]}
+{"package_name": "polymer-cli", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "slick-carousel", "registry": "npm", "licenses": ["MPL-2.0", "MIT", "LGPLv2.1+"]}
+{"package_name": "focus-trap", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "json-bigint", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "LGPLv2.1", "LGPLv3"]}
+{"package_name": "rack-rewrite", "registry": "gem", "licenses": ["BSD-3-Clause", "LGPLv3+", "MIT"]}
+{"package_name": "graphql", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "LGPLv3", "LGPL-3.0-only", "GPLv3"]}
+{"package_name": "qunit", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "github-api", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "django-templated-email", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "github-pages", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "django-graphql-jwt", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "LGPLv2.1", "LGPLv3", "MPL-2.0", "GPLv3"]}
+{"package_name": "django-graphql", "registry": "pip", "licenses": ["GPLv2", "GPLv3", "LGPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "django-filters", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "graphene-django", "registry": "pip", "licenses": ["GPLv2+", "LGPL-3.0-only", "MIT", "MPL-2.0"]}
+{"package_name": "graphql-tag", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause", "GPLv3", "LGPLv2.1+", "GPLv2", "LGPLv3"]}
+{"package_name": "react-apollo", "registry": "npm", "licenses": ["MIT", "LGPLv3+"]}
+{"package_name": "graphql-code-generator", "registry": "npm", "licenses": ["MIT/X11", "MIT"]}
+{"package_name": "@types/graphql", "registry": "npm", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "gulp-typescript", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "gulp-uglify", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "gulp-watch", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "uncss", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "browserify", "registry": "npm", "licenses": ["MIT", "BSD-3-Clause", "Apache-2.0"]}
+{"package_name": "node-java", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "pyzbar", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "cordova-plugin-device", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "paypal-rest-sdk", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "memory-leak-detector", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "protobuf", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2", "LGPLv2.1", "LGPLv3+", "MIT"]}
+{"package_name": "libxml-ruby", "registry": "gem", "licenses": ["LGPLv2", "LGPLv2.1", "LGPLv2+", "LGPLv2.1+"]}
+{"package_name": "JSON::PP", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+"]}
+{"package_name": "pdfjs-dist", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "MPL-2.0"]}
+{"package_name": "PDF::API2", "registry": "cpan", "licenses": ["Artistic", "Artistic-2.0", "GPLv3"]}
+{"package_name": "tweepy", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "hbase", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3+"]}
+{"package_name": "Net::HBase", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3"]}
+{"package_name": "validator", "registry": "npm", "licenses": ["MIT", "GPLv3", "GPLv2", "LGPL-3.0-only", "Apache-2.0", "MPL-2.0"]}
+{"package_name": "Email::Validator", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "php-websocket", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "faye-websocket", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "node-ruby", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "DBD::ODBC", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+"]}
+{"package_name": "perl", "registry": "npm", "licenses": ["GPLv2+", "MIT"]}
+{"package_name": "http-parser", "registry": "npm", "licenses": ["BSD-new", "MIT"]}
+{"package_name": "Firebase-Perl", "registry": "cpan", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "firebase-admin", "registry": "gem", "licenses": ["AGPLv3", "Apache-2.0", "BSD-3-Clause", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "Net::Firebase", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPL-2.1+", "Perl"]}
+{"package_name": "fcm", "registry": "gem", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "firebase-ruby", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "php-parallel-command", "registry": "composer", "licenses": ["GPLv2+", "GPLv3"]}
+{"package_name": "pycall", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "Font::TTF", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPL-1+", "LGPLv3+", "MPL", "MPL-1.1"]}
+{"package_name": "ttf.js", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "font-ruby", "registry": "gem", "licenses": ["LGPLv2.1", "MIT", "MPL-1.1"]}
+{"package_name": "react-bootstrap", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "Data::HexDump", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+"]}
+{"package_name": "rdoc", "registry": "gem", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "Alert", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "liquid", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "i18n", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "Text::Autoformat", "registry": "cpan", "licenses": ["BSD", "GPLv3+", "GPL-1+"]}
+{"package_name": "hex", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "timecop", "registry": "gem", "licenses": ["GPLv2", "GPLv3", "LGPL-2.1-only", "MIT"]}
+{"package_name": "sprintf-js", "registry": "npm", "licenses": ["MIT", "MPL-2.0", "MIT/X11"]}
+{"package_name": "perl-cv", "registry": "cpan", "licenses": ["perl-cv", "Public-Domain"]}
+{"package_name": "humanize", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3"]}
+{"package_name": "time-convert", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "gettext", "registry": "composer", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "json-encoder", "registry": "composer", "licenses": ["MIT/X11", "MIT"]}
+{"package_name": "preg_match", "registry": "composer", "licenses": ["PHP", "Standard"]}
+{"package_name": "money-rails", "registry": "gem", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "Spreadsheet::WriteExcel", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1", "LGPLv2.1+"]}
+{"package_name": "Locale::Currency", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "decimal", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "php-excel-reader", "registry": "composer", "licenses": ["GPLv2", "LGPLv2.1", "MIT"]}
+{"package_name": "autopep8", "registry": "pip", "licenses": ["GPLv2+", "MIT"]}
+{"package_name": "python-logging", "registry": "pip", "licenses": ["MIT", "PSF"]}
+{"package_name": "HTML::Entities", "registry": "cpan", "licenses": ["GPL-1+", "GPLv2"]}
+{"package_name": "phpword", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "XML::LibXML", "registry": "cpan", "licenses": ["GPL-1+", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3", "LGPLv3+", "Artistic", "Artistic-2.0", "Artistic-2.0/MPL-1.1"]}
+{"package_name": "json-encode", "registry": "composer", "licenses": ["MIT", "PHP"]}
+{"package_name": "FXRuby", "registry": "gem", "licenses": ["LGPLv3+", "MIT/X11"]}
+{"package_name": "phpdocx", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "Text::CSV", "registry": "cpan", "licenses": ["GPL-1+", "LGPLv3", "Public-Domain", "Perl", "Artistic-2.0", "GPLv3"]}
+{"package_name": "voluptuous", "registry": "pip", "licenses": ["MIT", "LGPLv3+", "GPLv2", "BSD-3-Clause"]}
+{"package_name": "pubsub-js", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "zeromq", "registry": "pip", "licenses": ["LGPLv3", "LGPLv2.1+"]}
+{"package_name": "natural", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "nlp", "registry": "gem", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "php-undo-redo", "registry": "composer", "licenses": ["LGPL-3.0-only", "MIT"]}
+{"package_name": "memento", "registry": "gem", "licenses": ["GPLv3", "GPLv2"]}
+{"package_name": "thor", "registry": "gem", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "Catalyst", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "GPL-1+"]}
+{"package_name": "cppyy", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "pino", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "Ratchet", "registry": "composer", "licenses": ["GPLv3+", "MIT"]}
+{"package_name": "Net::Async::AMQP", "registry": "cpan", "licenses": ["GPLv2", "Perl"]}
+{"package_name": "rubyfx", "registry": "gem", "licenses": ["Apache-2.0", "MIT/X11", "Public-Domain"]}
+{"package_name": "php-ffi", "registry": "composer", "licenses": ["Public-Domain", "MIT", "BSD-3-Clause"]}
+{"package_name": "phonenumbers", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "stripe", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "heroku", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "rails-assets", "registry": "gem", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "pgbouncer", "registry": "pip", "licenses": ["MIT", "Apache-2.0", "GPLv3"]}
+{"package_name": "channels", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3+", "Apache-2.0", "LGPLv3"]}
+{"package_name": "south", "registry": "pip", "licenses": ["Apache-2.0", "BSD"]}
+{"package_name": "omniauth-google-oauth2", "registry": "gem", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "django-ratelimit", "registry": "pip", "licenses": ["GPLv2", "MIT", "BSD-3-Clause"]}
+{"package_name": "rasterio", "registry": "pip", "licenses": ["MIT", "BSD-2-Clause"]}
+{"package_name": "decouple", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "ip", "registry": "npm", "licenses": ["MIT", "GPLv3", "MPL-2.0"]}
+{"package_name": "youtube-dl", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "weasyprint", "registry": "pip", "licenses": ["GPLv2", "GPLv3+"]}
+{"package_name": "mongoose-paginate", "registry": "npm", "licenses": ["MIT", "GPLv3", "GPLv2"]}
+{"package_name": "django-hstore", "registry": "pip", "licenses": ["LGPLv3", "LGPLv2.1"]}
+{"package_name": "mongodb-atlas", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "therubyracer", "registry": "gem", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "django-websocket", "registry": "pip", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "django-auth-ldap", "registry": "pip", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "google-sheets-api", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "sprockets-rails", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "ipywidgets", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "pygments", "registry": "pip", "licenses": ["BSD", "LGPLv2.1+", "MIT", "GPLv3", "BSD-3-Clause", "LGPLv3"]}
+{"package_name": "opencv", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "exif-js", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "opencv.js", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "js-image", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "graph-tool", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "fuzzywuzzy", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mongosh", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "jenssegers/mongodb", "registry": "composer", "licenses": ["GPLv3+", "LGPLv2.1+", "MIT", "MIT/X11"]}
+{"package_name": "pylucene", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv2.1+"]}
+{"package_name": "cssmin", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "execa", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "js-magic", "registry": "npm", "licenses": ["MPL-2.0", "MPL-1.1"]}
+{"package_name": "jenkins-job-builder", "registry": "pip", "licenses": ["AGPLv3", "Apache-2.0", "GPLv3", "MIT"]}
+{"package_name": "django-test-utils", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "LGPLv3+", "MIT"]}
+{"package_name": "django-coverage", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "php-http/httplug", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "paginate", "registry": "pip", "licenses": ["MIT", "GPLv2", "GPLv3"]}
+{"package_name": "joomla", "registry": "pip", "licenses": ["GPL-2.0-or-later", "BSD-3-Clause", "MIT/X11", "MIT"]}
+{"package_name": "illuminate/database", "registry": "composer", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "google-maps-markers", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "laravel/passport", "registry": "composer", "licenses": ["MIT", "GPLv2", "BSD-3-Clause"]}
+{"package_name": "google-maps-markers", "registry": "npm", "licenses": ["LGPLv3", "MIT", "GPLv3"]}
+{"package_name": "google-maps-api", "registry": "composer", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "spatie/laravel-permission", "registry": "composer", "licenses": ["GPLv2", "MIT", "MPL-2.0", "gplv3"]}
+{"package_name": "carbon", "registry": "composer", "licenses": ["MIT", "mit"]}
+{"package_name": "laravel-categories", "registry": "composer", "licenses": ["GPLv3", "LGPLv2.1", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "laravel-asset-pipeline", "registry": "composer", "licenses": ["MIT/X11", "MIT"]}
+{"package_name": "stripe", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "laravel-nestedset", "registry": "composer", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "laravel-menu", "registry": "composer", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "yajra/laravel-datatables-oracle", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "laravel-debugbar", "registry": "composer", "licenses": ["GPLv2", "LGPLv3", "MIT"]}
+{"package_name": "laravel-pagination", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "google/maps", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "google/apiclient", "registry": "composer", "licenses": ["Apache-2.0", "GPLv2", "LGPLv3+", "MIT"]}
+{"package_name": "facebook/php-graph-sdk", "registry": "composer", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "laravel/sanctum", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "passport-oauth2", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "laravel-notification-channels", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "mongodb-php-driver", "registry": "composer", "licenses": ["Apache-2.0", "GPL-v2.0"]}
+{"package_name": "php-escaper", "registry": "composer", "licenses": ["GPLv3", "GPLv2", "MIT"]}
+{"package_name": "ldap3", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "ImageMagick", "registry": "composer", "licenses": ["Apache-2.0", "GPLv3", "LGPLv3", "AGPLv3"]}
+{"package_name": "github-api", "registry": "composer", "licenses": ["MIT", "LGPLv3", "LGPLv3+", "MPL-2.0"]}
+{"package_name": "git", "registry": "gem", "licenses": ["GPLv2", "GPL-2.0", "MIT"]}
+{"package_name": "python-git", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "github-api", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "Net::Async::SocketIO", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "pipreqs", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "telegram-bot-sdk", "registry": "composer", "licenses": ["GPLv2", "GPLv3"]}
+{"package_name": "gitlab-api-client", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "gitlab-api", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "invoke", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "semver", "registry": "composer", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "perl8", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+"]}
+{"package_name": "rexml", "registry": "gem", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "graphql-php", "registry": "composer", "licenses": ["MIT", "MPL-2.0", "BSD-3-Clause", "GPLv3+", "GPLv2"]}
+{"package_name": "graphql-perl", "registry": "cpan", "licenses": ["GPLv3", "LGPLv2.1+", "LGPLv3", "MIT", "MIT/X11", "Artistic-2.0"]}
+{"package_name": "graphql-ruby", "registry": "gem", "licenses": ["GPLv2", "GPLv2+", "GPLv3", "LGPL-2.1+", "MIT", "MIT/X11"]}
+{"package_name": "graphql-core", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "graphql", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "graphql-python", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "apollo-server", "registry": "npm", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "graphql", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "MIT"]}
+{"package_name": "graphql", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT"]}
+{"package_name": "perl-gtk2", "registry": "cpan", "licenses": ["GPLv2", "GPL-1+"]}
+{"package_name": "gwt-python", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv3", "LGPLv3+"]}
+{"package_name": "gwt-ruby", "registry": "gem", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "gwt-compiler", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3+"]}
+{"package_name": "pyjs", "registry": "pip", "licenses": ["GPLv2+", "MIT"]}
+{"package_name": "strict", "registry": "cpan", "licenses": ["GPL-1+", "Perl", "Public-Domain"]}
+{"package_name": "HTTP-Request", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv2.1+"]}
+{"package_name": "oauth2", "registry": "gem", "licenses": ["Apache-2.0", "LGPLv3+", "MIT", "MPL-2.0"]}
+{"package_name": "hdfs-ruby", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "php-spark", "registry": "composer", "licenses": ["Apache-2.0", "LGPLv2.1", "LGPLv3", "MIT"]}
+{"package_name": "spark-ruby", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "hdfs-client", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3", "MPL-2.0"]}
+{"package_name": "hdfs", "registry": "npm", "licenses": ["MIT", "Apache-2.0", "GPLv3", "GPLv2"]}
+{"package_name": "spark-php", "registry": "composer", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPL-3.0-or-later"]}
+{"package_name": "hdfs", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv2.1"]}
+{"package_name": "hbase-ruby", "registry": "gem", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "php-hadoop", "registry": "composer", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "path", "registry": "pip", "licenses": ["Standard", "Index"]}
+{"package_name": "php-regex", "registry": "composer", "licenses": ["MIT", "LGPLv2.1+", "GPLv2", "LGPLv2.1"]}
+{"package_name": "spark-perl", "registry": "cpan", "licenses": ["Apache-2.0", "GPLv3"]}
+{"package_name": "hbase-client", "registry": "gem", "licenses": ["MIT/X11", "LGPLv3+"]}
+{"package_name": "wagtail", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "heroku/php-buildpack", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "RabbitMQ-Client", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "LGPL-2.1+", "MIT", "Mozilla"]}
+{"package_name": "schedule", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "php-gui", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "PyScripter", "registry": "pip", "licenses": ["GPLv2+", "MPL-2.0"]}
+{"package_name": "perl", "registry": "pip", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "pydev", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3"]}
+{"package_name": "OpenCV", "registry": "cpan", "licenses": ["BSD", "LGPLv2.1+"]}
+{"package_name": "face_recognition", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "gd", "registry": "composer", "licenses": ["PHP", "Public-Domain"]}
+{"package_name": "php-opencv", "registry": "composer", "licenses": ["Apache-2.0", "MPL-2.0"]}
+{"package_name": "GD", "registry": "cpan", "licenses": ["LGPL", "BSD"]}
+{"package_name": "algolia/algoliasearch-client-php", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "artdarek/oauth-4-laravel", "registry": "composer", "licenses": ["LGPL-3.0-only", "LGPLv2.1"]}
+{"package_name": "gettext", "registry": "npm", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "gettext", "registry": "pip", "licenses": ["GNU", "Standard", "LGPLv2.1+", "Public-Domain", "PSF", "GPLv3", "GPLv2", "MIT"]}
+{"package_name": "structlog", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "django-uwsgi-logger", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "tornado", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3+"]}
+{"package_name": "geopandas", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3"]}
+{"package_name": "merge-sort", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "performance-api", "registry": "npm", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "django-south", "registry": "pip", "licenses": ["MIT", "GPLv2", "LGPLv2.1+", "LGPLv3", "GPLv3+", "GPLv3", "BSD", "LGPLv2.1", "MIT/X11"]}
+{"package_name": "django-polymorphic", "registry": "pip", "licenses": ["GPLv2", "BSD-3-Clause"]}
+{"package_name": "django-faker", "registry": "pip", "licenses": ["GPLv3", "LGPLv3+"]}
+{"package_name": "django.db.migrations", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "responses", "registry": "pip", "licenses": ["Apache-2.0", "MIT", "Public-Domain"]}
+{"package_name": "pytest-mock", "registry": "pip", "licenses": ["GPLv3", "MIT", "MPL-2.0", "LGPLv2.1", "Apache-2.0"]}
+{"package_name": "freezegun", "registry": "pip", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "mock", "registry": "pip", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "pytest-django", "registry": "pip", "licenses": ["GPLv3+", "MIT"]}
+{"package_name": "mockgoose", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "mongodb-memory-server", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "angularjs", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "MIT", "MPL-1.1"]}
+{"package_name": "protobufjs", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT", "Apache-2.0"]}
+{"package_name": "express-gateway", "registry": "npm", "licenses": ["GPLv3", "GPLv2"]}
+{"package_name": "rails-api", "registry": "gem", "licenses": ["LGPL-3.0-only", "MIT"]}
+{"package_name": "kendo-ui", "registry": "npm", "licenses": ["Apache-2.0", "GPLv3", "LGPLv3+"]}
+{"package_name": "@babel/core", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "plugin-architecture", "registry": "npm", "licenses": ["MIT", "BSD-new", "LGPLv3+"]}
+{"package_name": "dojo", "registry": "npm", "licenses": ["Apache-2.0", "MPL-2.0", "MIT"]}
+{"package_name": "gdown", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "email-validator", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause", "GPLv3", "MIT", "MPL-2.0", "MIT/X11"]}
+{"package_name": "bson", "registry": "npm", "licenses": ["LGPLv3", "MIT", "SSPL"]}
+{"package_name": "sails-mongo", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "mongoose-auto-increment", "registry": "npm", "licenses": ["MIT/X11", "Apache-2.0"]}
+{"package_name": "django-mongodb-engine", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "LGPLv2.1+"]}
+{"package_name": "mongoose-validator", "registry": "npm", "licenses": ["MIT", "LGPLv2.1+"]}
+{"package_name": "opencv", "registry": "npm", "licenses": ["Apache-2.0", "BSD"]}
+{"package_name": "array", "registry": "gem", "licenses": ["MIT", "BSD-2-Clause"]}
+{"package_name": "Enum", "registry": "cpan", "licenses": ["LGPLv3+", "Perl"]}
+{"package_name": "cffi", "registry": "pip", "licenses": ["MIT", "LGPLv2.1+", "BSD-3-Clause"]}
+{"package_name": "ArrayObject", "registry": "composer", "licenses": ["Standard", "PHP"]}
+{"package_name": "php-trie", "registry": "composer", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "node-lucene", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "mongomapper", "registry": "gem", "licenses": ["GPLv2", "GPLv3", "LGPLv2.1+", "LGPLv3+", "MIT", "MPL-1.1", "MPL-2.0"]}
+{"package_name": "matrix", "registry": "gem", "licenses": ["MIT", "BSD-2-Clause", "GPLv2"]}
+{"package_name": "string", "registry": "gem", "licenses": ["MIT", "Standard"]}
+{"package_name": "mongo-ruby-driver", "registry": "gem", "licenses": ["Apache-2.0", "MIT/X11"]}
+{"package_name": "ruby-install", "registry": "gem", "licenses": ["AGPLv3", "MIT"]}
+{"package_name": "File::ShareDir", "registry": "cpan", "licenses": ["Same", "Public-Domain"]}
+{"package_name": "distutils", "registry": "pip", "licenses": ["Standard", "PSF"]}
+{"package_name": "File::HomeDir", "registry": "cpan", "licenses": ["GPL", "LGPLv3+"]}
+{"package_name": "ruby-stdlib", "registry": "gem", "licenses": ["Ruby", "Standard"]}
+{"package_name": "rpy2", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT", "GPLv2"]}
+{"package_name": "RPerl", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3"]}
+{"package_name": "Path::Tiny", "registry": "cpan", "licenses": ["BSD", "BSD-3-Clause", "Perl", "Public-Domain"]}
+{"package_name": "php-fig/php-console", "registry": "composer", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "inotify-ruby", "registry": "gem", "licenses": ["LGPLv2.1+", "MPL-2.0"]}
+{"package_name": "hex", "registry": "gem", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "File", "registry": "composer", "licenses": ["BSD-3-Clause", "GPLv2"]}
+{"package_name": "php-observable", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "Data::Iterator", "registry": "cpan", "licenses": ["GPLv3+", "Perl_5"]}
+{"package_name": "linkedlist", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "parallel", "registry": "composer", "licenses": ["GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "python-exec", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "test-unit", "registry": "gem", "licenses": ["GPLv2", "LGPLv2.1+", "MIT"]}
+{"package_name": "entphp", "registry": "composer", "licenses": ["Apache-2.0", "GPLv2", "GPLv2+", "GPLv3", "LGPL-2.1-only", "LGPLv3", "MIT", "MIT/X11", "Public-Domain"]}
+{"package_name": "laravel-elixir", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "entruby", "registry": "gem", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPLv3"]}
+{"package_name": "illuminate/collection", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "bcrypt", "registry": "cpan", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "rename", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "perl-lld", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "mongoclient", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "sqlparse", "registry": "pip", "licenses": ["MIT", "LGPLv3", "BSD-3-Clause", "GPLv2"]}
+{"package_name": "MongoDB::MongoClient", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic", "Artistic-2.0", "BSD-new", "GPLv3", "LGPLv3", "MIT/X11"]}
+{"package_name": "mongoose-paginate-v2", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "xml-js", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "@stdlib/stdlib", "registry": "npm", "licenses": ["Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "wasm-pack", "registry": "npm", "licenses": ["MIT", "LGPL-2.1-only"]}
+{"package_name": "deap", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause", "GPLv3+"]}
+{"package_name": "django-orm", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "gevent", "registry": "pip", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "django-threadedcomments", "registry": "pip", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "threadpool-executor", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "MIT"]}
+{"package_name": "django-piston", "registry": "pip", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "django-pg-utils", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-softdelete", "registry": "pip", "licenses": ["Apache-2.0", "MPL-2.0"]}
+{"package_name": "PyGObject", "registry": "pip", "licenses": ["BSD-new", "MIT"]}
+{"package_name": "vue.js", "registry": "npm", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "php-ftp", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "php-google-maps", "registry": "composer", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "Exporter", "registry": "cpan", "licenses": ["LGPLv2.1", "MIT/X11"]}
+{"package_name": "Locale::Maketext", "registry": "cpan", "licenses": ["GPL-1+", "Perl"]}
+{"package_name": "Locale::Messages", "registry": "cpan", "licenses": ["Artistic-2.0", "MIT/X11"]}
+{"package_name": "Babel", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "gettext", "registry": "gem", "licenses": ["MIT", "GPL-2.0", "MPL-1.1", "LGPLv2.1"]}
+{"package_name": "gettext", "registry": "cpan", "licenses": ["GPL", "LGPLv2.1+"]}
+{"package_name": "Data::Sort", "registry": "cpan", "licenses": ["LGPLv3", "MIT/X11"]}
+{"package_name": "geocoder-php", "registry": "composer", "licenses": ["GPLv3", "MIT", "BSD-3-Clause"]}
+{"package_name": "http-proxy-agent", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "make", "registry": "npm", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "grep", "registry": "gem", "licenses": ["GNU", "Standard"]}
+{"package_name": "zeromq", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mariadb", "registry": "npm", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "mariadb-connector-python", "registry": "pip", "licenses": ["LGPLv2.1", "MPL-2.0"]}
+{"package_name": "DBD-mysql", "registry": "cpan", "licenses": ["Artistic-2.0", "Artistic"]}
+{"package_name": "mariadb", "registry": "pip", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "jdbc-mysql", "registry": "gem", "licenses": ["Apache-2.0", "MIT", "LGPLv2.1"]}
+{"package_name": "DBD::MariaDB", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL"]}
+{"package_name": "heapq", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "Memory::Usage", "registry": "cpan", "licenses": ["GPL-1", "MIT/X11"]}
+{"package_name": "Storable", "registry": "cpan", "licenses": ["GPLv2", "Perl_5"]}
+{"package_name": "msgpack", "registry": "gem", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "Safe", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl", "MIT/X11"]}
+{"package_name": "gc", "registry": "pip", "licenses": ["PSF", "Public-Domain", "Standard"]}
+{"package_name": "Devel::Cycle", "registry": "cpan", "licenses": ["GPL-1+", "LGPLv3"]}
+{"package_name": "preg", "registry": "composer", "licenses": ["Standard", "PHP"]}
+{"package_name": "rubo-regex", "registry": "gem", "licenses": ["GPLv3+", "MIT"]}
+{"package_name": "libcurl", "registry": "cpan", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "Apache::Config", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3"]}
+{"package_name": "php-event-dispatcher", "registry": "composer", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "fs-mock", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "webmock", "registry": "gem", "licenses": ["LGPLv2", "MIT", "GPLv3"]}
+{"package_name": "mockito", "registry": "pip", "licenses": ["MIT", "Apache-2.0", "LGPLv3"]}
+{"package_name": "mockito", "registry": "composer", "licenses": ["Apache-2.0", "GPLv2", "GPLv3", "MIT"]}
+{"package_name": "phpmock", "registry": "composer", "licenses": ["LGPLv2.1+", "MIT/X11"]}
+{"package_name": "mockito", "registry": "npm", "licenses": ["GPLv3", "MIT", "GPLv2", "LGPLv2.1+"]}
+{"package_name": "mockito-ruby", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "HTTP::MockServer", "registry": "cpan", "licenses": ["Artistic-2.0", "GPLv3", "Public-Domain"]}
+{"package_name": "qt-ruby", "registry": "gem", "licenses": ["BSD-3-Clause", "GPLv3+", "LGPL", "LGPLv3", "MIT", "MPL-1.1"]}
+{"package_name": "singleton", "registry": "gem", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "php-mvc", "registry": "composer", "licenses": ["GPL-2.0-only", "LGPL-2.1-only", "MIT"]}
+{"package_name": "rails-controller-testing", "registry": "gem", "licenses": ["MIT", "GPLv2"]}
+{"package_name": "Twig", "registry": "composer", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "zipfile", "registry": "pip", "licenses": ["PSF", "Permissive"]}
+{"package_name": "google-chart", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-jsonfield", "registry": "pip", "licenses": ["MIT", "BSD", "GPLv2", "BSD-3-Clause"]}
+{"package_name": "django-locking", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "fabricjs", "registry": "npm", "licenses": ["GPLv3", "MPL-2.0"]}
+{"package_name": "mysql", "registry": "composer", "licenses": ["BSD-2-Clause", "Public-Domain"]}
+{"package_name": "stable-baselines3", "registry": "pip", "licenses": ["MIT", "GPLv3", "Apache-2.0"]}
+{"package_name": "scikit-evolution", "registry": "pip", "licenses": ["AGPLv3", "BSD-3-Clause"]}
+{"package_name": "php-ml", "registry": "composer", "licenses": ["MIT", "Mozilla"]}
+{"package_name": "wordnet", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "spaCy", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "gensim", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause", "LGPLv2.1", "LGPLv3"]}
+{"package_name": "couchdb", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "omniauth", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "django-session-engine", "registry": "pip", "licenses": ["MIT", "BSD"]}
+{"package_name": "oauth-client", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "Net::OAuth2", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3+", "LGPLv2.1+", "LGPLv3", "Public-Domain"]}
+{"package_name": "django-rest-framework-simplejwt", "registry": "pip", "licenses": ["Apache-2.0", "GPLv3", "MIT"]}
+{"package_name": "perf_hooks", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "tail-call-optimizer", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "sympy", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "django-annotate", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "smooth-scroll", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "yiisoft/yii2-mongodb", "registry": "composer", "licenses": ["BSD-3-Clause", "GPLv3"]}
+{"package_name": "phaser", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "django-treebeard", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3", "BSD"]}
+{"package_name": "num2words", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "sonar-ruby-plugin", "registry": "gem", "licenses": ["Apache-2.0", "LGPL-2.1-only", "MIT"]}
+{"package_name": "mpython", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "mruby", "registry": "gem", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "monrubydb", "registry": "gem", "licenses": ["BSD-3-Clause", "gpl-3.0"]}
+{"package_name": "narray", "registry": "gem", "licenses": ["MIT", "MPL-1.1", "MIT/X11"]}
+{"package_name": "Data::Compare", "registry": "cpan", "licenses": ["Artistic", "GPLv2", "LGPLv2.1"]}
+{"package_name": "PDL", "registry": "cpan", "licenses": ["Artistic", "LGPLv2.1+"]}
+{"package_name": "Math::MatrixReal", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD", "GPL-1+", "LGPLv3"]}
+{"package_name": "grid", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "Math::Complex", "registry": "cpan", "licenses": ["GPL-1+", "Perl"]}
+{"package_name": "symfony/lock", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "PyQt4", "registry": "pip", "licenses": ["GPL", "LGPLv2.1+"]}
+{"package_name": "mobx", "registry": "npm", "licenses": ["MIT", "LGPLv2.1", "GPLv2"]}
+{"package_name": "php-observer", "registry": "composer", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "mvvm-rails", "registry": "gem", "licenses": ["LGPLv2.1", "MPL-2.0"]}
+{"package_name": "mvvm-ruby", "registry": "gem", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "inotify", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "observer", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "prism", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "pyxb", "registry": "pip", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "django-aggregation", "registry": "pip", "licenses": ["MIT", "LGPLv3+"]}
+{"package_name": "django-orm-utils", "registry": "pip", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "tastypie", "registry": "pip", "licenses": ["GPLv2+", "BSD-3-Clause", "MIT", "GPLv3", "Apache-2.0", "BSD"]}
+{"package_name": "django.db", "registry": "pip", "licenses": ["BSD", "MIT"]}
+{"package_name": "django-autoslug", "registry": "pip", "licenses": ["GPLv2", "LGPLv3+"]}
+{"package_name": "django-annoying", "registry": "pip", "licenses": ["BSD", "GPLv2"]}
+{"package_name": "django-orm-aggregates", "registry": "pip", "licenses": ["MIT", "BSD-new"]}
+{"package_name": "django-patch", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "django-serializers", "registry": "pip", "licenses": ["MIT", "BSD-3-Clause"]}
+{"package_name": "e", "registry": "npm", "licenses": ["AGPLv3", "MIT"]}
+{"package_name": "django-pagination", "registry": "pip", "licenses": ["BSD", "BSD-3-Clause", "GPLv2", "GPLv3", "LGPLv2.1", "LGPLv2.1+", "LGPLv3+", "MIT", "MIT/X11", "MPL-1.1"]}
+{"package_name": "kaminari", "registry": "gem", "licenses": ["MIT", "LGPL-2.1-only", "GPLv3"]}
+{"package_name": "will_paginate", "registry": "gem", "licenses": ["GPLv3", "MIT", "MPL-2.0", "LGPLv3", "BSD-3-Clause", "GPLv2", "LGPLv3+"]}
+{"package_name": "illuminate/pagination", "registry": "composer", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "wp-cli", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "parse", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "table-parser", "registry": "npm", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "@angular/router", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "bbcode-parser", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "requests-html", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "simple_html_dom", "registry": "composer", "licenses": ["GPLv2", "MIT", "Public-Domain"]}
+{"package_name": "htmlparser2", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "ramda", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "xmldom", "registry": "npm", "licenses": ["GPLv3", "LGPLv3+", "MIT"]}
+{"package_name": "parslet", "registry": "gem", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "tooltipster", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "jquery-ui", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "js-ctypes", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3+"]}
+{"package_name": "woocommerce-api", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "PyQtWebEngine", "registry": "pip", "licenses": ["GPL-3.0", "GPLv3", "LGPL-3.0-only", "LGPLv3", "BSD-3-Clause", "MPL-1.1", "MIT"]}
+{"package_name": "qt", "registry": "npm", "licenses": ["LGPL-3.0-only", "MIT"]}
+{"package_name": "qtjs", "registry": "npm", "licenses": ["BSD-3-Clause", "MPL-2.0", "MIT"]}
+{"package_name": "pyinotify", "registry": "pip", "licenses": ["LGPLv2.1", "LGPLv3+"]}
+{"package_name": "pyudev", "registry": "pip", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "protobuf", "registry": "gem", "licenses": ["Apache-2.0", "MPL-2.0"]}
+{"package_name": "Net::Ping", "registry": "cpan", "licenses": ["Net::Ping", "MIT/X11", "BSD"]}
+{"package_name": "net-ping", "registry": "gem", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "php-socket", "registry": "composer", "licenses": ["MIT", "Standard"]}
+{"package_name": "Net::IP", "registry": "cpan", "licenses": ["Artistic-2.0", "BSD-new", "GPL-1+", "Perl"]}
+{"package_name": "ipaddress", "registry": "gem", "licenses": ["MIT", "GPLv3", "LGPLv2.1+"]}
+{"package_name": "msgpack", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "pybluez", "registry": "pip", "licenses": ["GPLv3", "LGPLv3+"]}
+{"package_name": "http-cookie", "registry": "gem", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "regex", "registry": "gem", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "php-neural-network", "registry": "composer", "licenses": ["MIT", "LGPL-3.0-only", "GPLv2", "MIT/X11", "BSD-new"]}
+{"package_name": "Math::GSL", "registry": "cpan", "licenses": ["GPL", "GPL-1+", "GPLv3+", "LGPL"]}
+{"package_name": "encog", "registry": "npm", "licenses": ["Apache-2.0", "MIT", "GPLv3"]}
+{"package_name": "Encog", "registry": "cpan", "licenses": ["GPLv3", "GPLv2", "LGPLv2.1"]}
+{"package_name": "encog", "registry": "gem", "licenses": ["Apache-2.0", "GPLv2", "LGPLv3"]}
+{"package_name": "encog", "registry": "pip", "licenses": ["LGPLv3", "MIT/X11"]}
+{"package_name": "encog", "registry": "composer", "licenses": ["LGPLv3", "LGPLv3+"]}
+{"package_name": "encog-php", "registry": "composer", "licenses": ["GPLv2", "GPLv3+", "LGPLv3"]}
+{"package_name": "nn", "registry": "gem", "licenses": ["BSD-2-Clause", "MIT", "GPLv3"]}
+{"package_name": "encog3", "registry": "pip", "licenses": ["GPLv3", "GPLv2+"]}
+{"package_name": "encog-ruby", "registry": "gem", "licenses": ["GPLv3", "MIT/X11"]}
+{"package_name": "php-weka-wrapper", "registry": "composer", "licenses": ["MIT", "LGPL-3.0-or-later"]}
+{"package_name": "node-rpi-gpio", "registry": "npm", "licenses": ["MIT", "LGPLv3+"]}
+{"package_name": "node-spellchecker", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "stanford-corenlp", "registry": "gem", "licenses": ["Apache-2.0", "gplv2"]}
+{"package_name": "php-paragraph-parser", "registry": "composer", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "node-nlp", "registry": "npm", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "opennlp", "registry": "npm", "licenses": ["Apache-2.0", "LGPLv3+"]}
+{"package_name": "pycorenlp", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "bitarray", "registry": "pip", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "wordnet", "registry": "pip", "licenses": ["GPLv3", "BSD"]}
+{"package_name": "stanford-parser", "registry": "composer", "licenses": ["Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "levelup", "registry": "npm", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "DBD::SQLite", "registry": "cpan", "licenses": ["DBD-SQLite", "GPL", "MIT/X11", "Mozilla"]}
+{"package_name": "couchbase", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "liteDB", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "orientjs", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "orientdb-ruby", "registry": "gem", "licenses": ["Apache-2.0", "LGPLv3"]}
+{"package_name": "litedb", "registry": "gem", "licenses": ["AGPL-3.0-only", "Public-Domain"]}
+{"package_name": "Net::OAuth", "registry": "cpan", "licenses": ["GPL-1+", "GPLv3", "LGPLv2.1+", "LGPLv3", "LGPLv3+"]}
+{"package_name": "twitter", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "oauth", "registry": "gem", "licenses": ["MIT", "MIT/X11", "LGPLv2.1+"]}
+{"package_name": "dis", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "php-graph", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "django-asyncio", "registry": "pip", "licenses": ["Apache-2.0", "GPLv2", "MIT"]}
+{"package_name": "amqplib", "registry": "npm", "licenses": ["Apache-2.0", "GPLv2", "LGPLv3", "MIT", "MIT/X11", "MPL-2.0"]}
+{"package_name": "django-rabbitmq", "registry": "pip", "licenses": ["MIT", "LGPLv2.1"]}
+{"package_name": "django-mongoengine", "registry": "pip", "licenses": ["BSD-3-Clause", "GPLv3"]}
+{"package_name": "mongoose-redis-cache", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "django-socketio", "registry": "pip", "licenses": ["GPLv3", "BSD-3-Clause", "MIT"]}
+{"package_name": "validator.js", "registry": "npm", "licenses": ["GPLv2", "MIT", "GPLv3"]}
+{"package_name": "djangorestframework", "registry": "pip", "licenses": ["Apache-2.0", "BSD", "BSD-3-Clause", "GPLv2", "GPLv2+", "GPLv3", "LGPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "loopback", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-rest-swagger", "registry": "pip", "licenses": ["MIT", "LGPLv3+", "LGPLv3", "GPLv2"]}
+{"package_name": "yfinance", "registry": "pip", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "velocity.js", "registry": "npm", "licenses": ["MIT", "BSD-new"]}
+{"package_name": "rack-redirect", "registry": "gem", "licenses": ["LGPL-3.0-only", "MIT"]}
+{"package_name": "vue-cli", "registry": "npm", "licenses": ["GPLv3", "MIT", "MPL-2.0"]}
+{"package_name": "haml-rails", "registry": "gem", "licenses": ["MIT", "Public-Domain", "LGPLv3+"]}
+{"package_name": "geocoder", "registry": "gem", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "dragonfly", "registry": "gem", "licenses": ["GPLv3", "LGPL-3.0-only"]}
+{"package_name": "execjs", "registry": "gem", "licenses": ["GPLv2", "MIT", "MPL-2.0"]}
+{"package_name": "uglifier", "registry": "gem", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "google-maps-for-rails", "registry": "gem", "licenses": ["MIT", "AGPLv3", "BSD-3-Clause", "Apache-2.0"]}
+{"package_name": "gmaps4rails", "registry": "gem", "licenses": ["GPLv3", "GPLv2", "MIT"]}
+{"package_name": "carrierwave", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "resque", "registry": "gem", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "actioncable", "registry": "gem", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "sse", "registry": "composer", "licenses": ["MIT/X11", "MPL-2.0"]}
+{"package_name": "option", "registry": "gem", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "linked-list", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "hibernate", "registry": "npm", "licenses": ["MIT", "Apache-2.0"]}
+{"package_name": "Data::Page", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3", "MPL-2.0"]}
+{"package_name": "perl-Data-OptList", "registry": "cpan", "licenses": ["GPLv3", "Same"]}
+{"package_name": "ruby-plug", "registry": "gem", "licenses": ["Apache-2.0", "MIT", "MPL-2.0"]}
+{"package_name": "pyppeteer", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "detect-plugin", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "lerna", "registry": "npm", "licenses": ["LGPL-3.0-only", "MIT"]}
+{"package_name": "node-qt", "registry": "npm", "licenses": ["MIT", "GPLv3", "MPL-2.0"]}
+{"package_name": "php-qt", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "pyqt", "registry": "pip", "licenses": ["GPLv2", "LGPLv3", "MIT"]}
+{"package_name": "pyqt5", "registry": "pip", "licenses": ["GPLv3", "LGPLv2.1", "LGPLv3"]}
+{"package_name": "perl-Qt", "registry": "cpan", "licenses": ["BSD-new", "GPLv3+"]}
+{"package_name": "queue", "registry": "gem", "licenses": ["GPLv3", "LGPLv3", "MPL-2.0"]}
+{"package_name": "php-queue", "registry": "composer", "licenses": ["MIT", "GPLv2", "LGPLv2.1+"]}
+{"package_name": "heap", "registry": "gem", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "Data::Queue", "registry": "cpan", "licenses": ["MIT/X11", "LGPLv3", "LGPLv2.1+"]}
+{"package_name": "heapq", "registry": "npm", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "libffi", "registry": "gem", "licenses": ["LGPLv2.1", "MIT"]}
+{"package_name": "priority_queue", "registry": "gem", "licenses": ["MIT", "Standard"]}
+{"package_name": "amqplib", "registry": "gem", "licenses": ["GPLv2+", "LGPLv2.1", "MIT"]}
+{"package_name": "Net::AMQP", "registry": "cpan", "licenses": ["Apache-2.0", "Artistic-2.0", "Public-Domain"]}
+{"package_name": "RabbitMQ::Client", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3", "Perl"]}
+{"package_name": "sanitize", "registry": "gem", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "scrapy-selenium", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "simplejson", "registry": "pip", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "django-picklefield", "registry": "pip", "licenses": ["GPLv3", "GPLv2"]}
+{"package_name": "serialize", "registry": "composer", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "django-natural-keys", "registry": "pip", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "google-protobuf", "registry": "pip", "licenses": ["Apache-2.0", "BSD-3-Clause"]}
+{"package_name": "django-nested-serializers", "registry": "pip", "licenses": ["MIT", "LGPLv3", "LGPLv3+"]}
+{"package_name": "json-sort", "registry": "npm", "licenses": ["BSD-new", "MIT/X11", "MIT"]}
+{"package_name": "django-registration", "registry": "pip", "licenses": ["GPLv3", "GPLv2+", "GPLv2"]}
+{"package_name": "docxtemplater", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "amqp", "registry": "composer", "licenses": ["MIT", "Public-Domain"]}
+{"package_name": "Redis::Client", "registry": "cpan", "licenses": ["Apache-2.0", "GPL-1+", "LGPLv2.1", "MIT", "MIT/X11", "Artistic-2.0"]}
+{"package_name": "lettuce", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "lettuce", "registry": "gem", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "urlextract", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "re2", "registry": "gem", "licenses": ["MIT", "BSD-2-Clause"]}
+{"package_name": "node-regex", "registry": "npm", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "chi", "registry": "pip", "licenses": ["LGPLv3", "MIT"]}
+{"package_name": "php-chi", "registry": "composer", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "perl-rilla", "registry": "cpan", "licenses": ["LGPL-2.1+", "Perl"]}
+{"package_name": "route", "registry": "composer", "licenses": ["MIT", "MIT/X11"]}
+{"package_name": "php-gedcom", "registry": "composer", "licenses": ["GPLv2", "GPLv3"]}
+{"package_name": "gurobi", "registry": "pip", "licenses": ["MIT", "Proprietary"]}
+{"package_name": "perl-Data-Hash", "registry": "cpan", "licenses": ["BSD-new", "GPLv3"]}
+{"package_name": "avro-php", "registry": "composer", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "msgpack", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "@types/jasmine", "registry": "npm", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "django-nose", "registry": "pip", "licenses": ["MIT", "LGPLv3", "BSD-new", "LGPLv2.1", "LGPLv3+", "GPLv3+", "BSD", "LGPLv2.1+", "MPL-1.1"]}
+{"package_name": "web3.js", "registry": "npm", "licenses": ["GPLv2", "LGPLv2.1+"]}
+{"package_name": "django-doctest", "registry": "pip", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "ts-mocha", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "elasticsearch-dsl", "registry": "pip", "licenses": ["Apache-2.0", "MPL-2.0"]}
+{"package_name": "django-filebrowser", "registry": "pip", "licenses": ["GPLv2", "LGPLv3"]}
+{"package_name": "phone-number-validator", "registry": "npm", "licenses": ["LGPL-2.1-only", "MIT"]}
+{"package_name": "react-validation", "registry": "npm", "licenses": ["MIT", "MPL-1.1"]}
+{"package_name": "sonar-scanner", "registry": "npm", "licenses": ["Apache-2.0", "MIT/X11"]}
+{"package_name": "sonarqube", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "sonarqube", "registry": "pip", "licenses": ["Apache-2.0", "LGPLv3"]}
+{"package_name": "Switch", "registry": "cpan", "licenses": ["Artistic-2.0", "Perl"]}
+{"package_name": "SonarQube::Client", "registry": "cpan", "licenses": ["MIT/X11", "Artistic-2.0"]}
+{"package_name": "sonarqube-scanner-cli", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "Data::Immutable", "registry": "cpan", "licenses": ["MPL-1.1", "Perl_5"]}
+{"package_name": "usort", "registry": "composer", "licenses": ["MIT", "Standard"]}
+{"package_name": "sorted", "registry": "pip", "licenses": ["PSF", "Standard"]}
+{"package_name": "ruby-sort", "registry": "gem", "licenses": ["MIT", "Mozilla"]}
+{"package_name": "Class::Singleton", "registry": "cpan", "licenses": ["GPL-1+", "GPLv2+"]}
+{"package_name": "Template::Toolkit", "registry": "cpan", "licenses": ["GPL-1+", "LGPLv2.1", "Artistic-2.0"]}
+{"package_name": "HTML::Template", "registry": "cpan", "licenses": ["GPL", "GPL-1+", "Artistic-2.0"]}
+{"package_name": "Template::Declare", "registry": "cpan", "licenses": ["Artistic-2.0", "MPL-1.1"]}
+{"package_name": "php-jdbc", "registry": "composer", "licenses": ["LGPLv3+", "MIT"]}
+{"package_name": "terratest", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "google-images-download", "registry": "pip", "licenses": ["GPLv3", "MIT"]}
+{"package_name": "mechanize", "registry": "pip", "licenses": ["LGPLv3", "MPL-1.1"]}
+{"package_name": "google-search-results", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "sass-loader", "registry": "npm", "licenses": ["MIT", "GPLv2", "LGPL-2.1-only"]}
+{"package_name": "react-svg", "registry": "npm", "licenses": ["LGPLv2.1+", "MIT"]}
+{"package_name": "minicssextractplugin", "registry": "npm", "licenses": ["MIT", "MPL-2.0"]}
+{"package_name": "react-hot-loader", "registry": "npm", "licenses": ["GPLv2", "MIT"]}
+{"package_name": "websocket-client", "registry": "pip", "licenses": ["MIT", "BSD-new"]}
+{"package_name": "ratchet/websocket", "registry": "composer", "licenses": ["GPLv3", "LGPL-2.1+", "MIT", "MIT/X11"]}
+{"package_name": "socketio-client", "registry": "pip", "licenses": ["GPLv2", "MPL-2.0", "MIT"]}
+{"package_name": "browsermob-proxy", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "JSON::Validator", "registry": "cpan", "licenses": ["Artistic-2.0", "LGPLv3+"]}
+{"package_name": "anglesharp", "registry": "npm", "licenses": ["BSD-3-Clause", "MIT"]}
+{"package_name": "htmlunit", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "htmlunit", "registry": "gem", "licenses": ["Apache-2.0", "MIT/X11"]}
+{"package_name": "jsoup", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "AnyEvent::WebSocket::Client", "registry": "cpan", "licenses": ["Artistic-2.0", "GPL-1+", "GPLv2", "Perl"]}
+{"package_name": "ws", "registry": "cpan", "licenses": ["MIT", "Perl"]}
+{"package_name": "php-socket.io-client", "registry": "composer", "licenses": ["Apache-2.0", "LGPLv2.1"]}
+{"package_name": "websocket-client-ruby", "registry": "gem", "licenses": ["MIT/X11", "MIT"]}
+{"package_name": "xml.sax", "registry": "pip", "licenses": ["BSD-like", "PSF"]}
+{"package_name": "XML-LibXML", "registry": "cpan", "licenses": ["Artistic", "GPL-1+"]}
+{"package_name": "xsd", "registry": "gem", "licenses": ["MIT", "BSD-3-Clause", "LGPLv3+"]}
+{"package_name": "xsd2python", "registry": "pip", "licenses": ["LGPLv3", "LGPLv3+"]}
+{"package_name": "xsd2ruby", "registry": "gem", "licenses": ["MIT", "LGPLv3"]}
+{"package_name": "xsd2php", "registry": "composer", "licenses": ["Affero", "MIT", "MPL-2.0"]}
+{"package_name": "typescript-eslint-parser", "registry": "npm", "licenses": ["GPLv3", "ISC"]}
+{"package_name": "fuse.js", "registry": "npm", "licenses": ["Apache-2.0", "MIT"]}
+{"package_name": "django-evolution", "registry": "pip", "licenses": ["BSD", "MIT"]}
+{"package_name": "gym", "registry": "pip", "licenses": ["Apache-2.0", "MIT"]}

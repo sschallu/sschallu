@@ -1,0 +1,474 @@
+{"link": "https://github.com/your-repo/your-repo", "status_code": 404}
+{"link": "https://github.com/Azure-Samples/ms-identity-b2c-javascript-spa.git", "status_code": 200, "redirected_url": "https://github.com/Azure-Samples/ms-identity-b2c-javascript-spa"}
+{"link": "https://github.com/justinmccarthy/youtube-api-client", "status_code": 404}
+{"link": "https://github.com/WordPress/WordPress.git", "status_code": 200, "redirected_url": "https://github.com/WordPress/WordPress"}
+{"link": "https://github.com/tokuhirom/gvm", "status_code": 404}
+{"link": "https://github.com/rbenv/rbenv.git", "status_code": 200, "redirected_url": "https://github.com/rbenv/rbenv"}
+{"link": "https://github.com/rbenv/ruby-build.git", "status_code": 200, "redirected_url": "https://github.com/rbenv/ruby-build"}
+{"link": "https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-installer", "status_code": 404}
+{"link": "https://github.com/databricks/databricks-ruby-sdk", "status_code": 404}
+{"link": "https://github.com/jsdoc/alloy", "status_code": 404}
+{"link": "https://github.com/docdash/docdash", "status_code": 404}
+{"link": "https://github.com/nodejs/node.git.", "status_code": 404}
+{"link": "https://github.com/nodejs/node.git", "status_code": 200, "redirected_url": "https://github.com/nodejs/node"}
+{"link": "https://github.com/opencv/opencv.git", "status_code": 200, "redirected_url": "https://github.com/opencv/opencv"}
+{"link": "https://github.com/opencv/opencv_contrib.git", "status_code": 200, "redirected_url": "https://github.com/opencv/opencv_contrib"}
+{"link": "https://github.com/nodejs/node/archive/refs/tags/v14.17.0-nightly-2023-02-15.tar.gz", "status_code": 404}
+{"link": "https://github.com/nodejs/node-gyp.git", "status_code": 200, "redirected_url": "https://github.com/nodejs/node-gyp"}
+{"link": "https://github.com/your-repo/Your-Module", "status_code": 404}
+{"link": "https://github.com/nrk/predis", "status_code": 200, "redirected_url": "https://github.com/predis/predis"}
+{"link": "https://github.com/paypal/rest-api-sdk-php", "status_code": 200, "redirected_url": "https://github.com/paypal/PayPal-PHP-SDK"}
+{"link": "https://github.com/CodeIgniter-PayPal/CodeIgniter-PayPal", "status_code": 404}
+{"link": "https://github.com/simonmichael/recaptcha-php", "status_code": 404}
+{"link": "https://github.com/PHP-Validation/PHP-Validation", "status_code": 404}
+{"link": "https://github.com/ziadoanz/zval", "status_code": 404}
+{"link": "https://github.com/PHP-Validation/PHP-Validation#readme", "status_code": 404}
+{"link": "https://github.com/php-fig/fig-standards/tree/main/interoperability/validator", "status_code": 404}
+{"link": "https://github.com/PHPGangsta/GoogleAuthenticator.git", "status_code": 200, "redirected_url": "https://github.com/PHPGangsta/GoogleAuthenticator"}
+{"link": "https://github.com/hugo/hugo", "status_code": 404}
+{"link": "https://github.com/GNOME/pygobject.git", "status_code": 200, "redirected_url": "https://github.com/GNOME/pygobject"}
+{"link": "https://github.com/ef4/ember-cli-dotenv", "status_code": 404}
+{"link": "https://github.com/ef4/ember-cli-env", "status_code": 404}
+{"link": "https://github.com/visionmedia/debug", "status_code": 200, "redirected_url": "https://github.com/debug-js/debug"}
+{"link": "https://github.com/dapriett/cordova-plugin-debug", "status_code": 404}
+{"link": "https://github.com/Regulex/Regulex", "status_code": 404}
+{"link": "https://github.com/typescript-eslint/typescript-eslint.git", "status_code": 200, "redirected_url": "https://github.com/typescript-eslint/typescript-eslint"}
+{"link": "https://github.com/evanmiller/ruby-load-test", "status_code": 404}
+{"link": "https://github.com/evanmiller/ruby-load-test.git", "status_code": 404}
+{"link": "https://github.com/sergeyklay/php-python", "status_code": 404}
+{"link": "https://github.com/amazonwebservices/aws-sdk-php", "status_code": 404}
+{"link": "https://github.com/amazonwebservices/aws-sdk-php/releases", "status_code": 404}
+{"link": "https://github.com/amazonwebservices/aws-sdk-php/releases/download/v1.6.2/aws-sdk-php-1.6.2.zip", "status_code": 404}
+{"link": "https://github.com/CFML-WG/CFRuby", "status_code": 404}
+{"link": "https://github.com/python/cpython.git", "status_code": "exception"}
+{"link": "https://github.com/ruby/ruby.git", "status_code": 200, "redirected_url": "https://github.com/ruby/ruby"}
+{"link": "https://github.com/Eonasdan/bootstrap-datetimepicker", "status_code": 200, "redirected_url": "https://github.com/Eonasdan/tempus-dominus"}
+{"link": "https://github.com/jnotify-rs/jnotify", "status_code": 404}
+{"link": "https://github.com/spotless-code/spotless", "status_code": 404}
+{"link": "https://github.com/spotless-code/spotless/tree/master/plugin-maven#php", "status_code": 404}
+{"link": "https://github.com/your-repo/your-app", "status_code": 404}
+{"link": "https://github.com/andrewcartwright/phpdoc-to-openapi", "status_code": 404}
+{"link": "https://github.com/kigkonsult/perl-sublime", "status_code": 404}
+{"link": "https://github.com/kigkonsult/perl-sublime.git", "status_code": 404}
+{"link": "https://github.com/your-repo/your-project", "status_code": 404}
+{"link": "https://github.com/your-repo-owner/your-repo-name", "status_code": 404}
+{"link": "https://github.com/asdf-vm/asdf-installer", "status_code": 404}
+{"link": "https://github.com/asdf-vm/asdf-installer/raw/master/bin/install", "status_code": 404}
+{"link": "https://github.com/your-repo/perl-project", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-nodejs.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-nodejs"}
+{"link": "https://github.com/microsoft/TypeScript/blob/master/doc/changelog-for-versions.md", "status_code": 404}
+{"link": "https://github.com/google/gin-contrib", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-python.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-python"}
+{"link": "https://github.com/fermaxx/mediasoup", "status_code": 404}
+{"link": "https://github.com/fermaxx/mediasoup.git", "status_code": 404}
+{"link": "https://github.com/pydanny/cookiecutter-django", "status_code": 200, "redirected_url": "https://github.com/cookiecutter/cookiecutter-django"}
+{"link": "https://github.com/pydanny/cookiecutter-django.git", "status_code": 200, "redirected_url": "https://github.com/cookiecutter/cookiecutter-django"}
+{"link": "https://github.com/kanaka/noVNC", "status_code": 200, "redirected_url": "https://github.com/novnc/noVNC"}
+{"link": "https://github.com/kanaka/noVNC.git", "status_code": 200, "redirected_url": "https://github.com/novnc/noVNC"}
+{"link": "https://github.com/P-H-C/phc-winner-argon2/archive/master.zip", "status_code": 200, "redirected_url": "https://codeload.github.com/P-H-C/phc-winner-argon2/zip/refs/heads/master"}
+{"link": "https://github.com/features/packages", "status_code": 200, "redirected_url": "https://github.com/features/actions"}
+{"link": "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-win32-x86_64.zip", "status_code": 404}
+{"link": "https://github.com/GoogleCloudPlatform/cloud-spanner-emulator.git", "status_code": 200, "redirected_url": "https://github.com/GoogleCloudPlatform/cloud-spanner-emulator"}
+{"link": "https://github.com/mongodb/docs.git", "status_code": 200, "redirected_url": "https://github.com/mongodb/docs"}
+{"link": "https://github.com/pydanny/cookiecutter-django.git#branch=main", "status_code": 200, "redirected_url": "https://github.com/cookiecutter/cookiecutter-django#branch=main"}
+{"link": "https://github.com/wbond/m2crypto", "status_code": 404}
+{"link": "https://github.com/playframework/play-java-starter-project", "status_code": 404}
+{"link": "https://github.com/playframework/play-java-starter-project/releases/download/2.8.10/play-java-starter-2.8.10.zip", "status_code": 404}
+{"link": "https://github.com/ulule/ergo", "status_code": 404}
+{"link": "https://github.com/ulule/ergo-ext", "status_code": 404}
+{"link": "https://github.com/prometheus/prometheus/releases/download/v2.31.1/prometheus-2.31.1.linux-amd64.tar.gz", "status_code": 200, "redirected_url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/6838921/4842c963-97cb-4d79-9641-60487177db75?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241212T041538Z&X-Amz-Expires=300&X-Amz-Signature=601e2f0631650f77c7bcee85022012d3526014d04f2325c762b01069fe691a9a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dprometheus-2.31.1.linux-amd64.tar.gz&response-content-type=application%2Foctet-stream"}
+{"link": "https://github.com/ondrejbartas/sidekiq-web", "status_code": 404}
+{"link": "https://github.com/cucumber/cucumber-maven-plugin", "status_code": 404}
+{"link": "https://github.com/your-repo/your-module", "status_code": 404}
+{"link": "https://github.com/tensorflow/serving.git", "status_code": 200, "redirected_url": "https://github.com/tensorflow/serving"}
+{"link": "https://github.com/tensorflow/tensorflow-ruby", "status_code": 404}
+{"link": "https://github.com/pytorch/pytorch-ruby", "status_code": 404}
+{"link": "https://github.com/dependabot/dependency-graph", "status_code": 404}
+{"link": "https://github.com/tesseract-ocr/tesseract.git", "status_code": 200, "redirected_url": "https://github.com/tesseract-ocr/tesseract"}
+{"link": "https://github.com/php-curl/php-curl", "status_code": 404}
+{"link": "https://github.com/php-curl/php-curl.git", "status_code": 404}
+{"link": "https://github.com/repos/apache", "status_code": 404}
+{"link": "https://github.com/sahat/hackathon-starter.git", "status_code": 200, "redirected_url": "https://github.com/sahat/hackathon-starter"}
+{"link": "https://github.com", "status_code": 200, "redirected_url": "https://github.com/"}
+{"link": "https://github.com/your-repo/perl-app", "status_code": 404}
+{"link": "https://github.com/oepollet/python3", "status_code": 404}
+{"link": "https://github.com/oepollet/python3.17-alpine/releases/download/v3.17.0/python3.17-alpine.tar.gz", "status_code": 404}
+{"link": "https://github.com/igordebrabant/orjson", "status_code": 404}
+{"link": "https://github.com/igordebrabant/orjson.git", "status_code": 404}
+{"link": "https://github.com/igordebrabant/orjson.git**", "status_code": 404}
+{"link": "https://github.com/wallyqs/wait-for-it", "status_code": 404}
+{"link": "https://github.com/wallyqs/wait-for-it.git", "status_code": 404}
+{"link": "https://github.com/tabulapdf/tabula/releases/download/v1.5.0/tabula-1.5.0.jar", "status_code": 404}
+{"link": "https://github.com/asdf-vm/asdf.git", "status_code": 200, "redirected_url": "https://github.com/asdf-vm/asdf"}
+{"link": "https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-linux64.tar.gz", "status_code": 200, "redirected_url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/25354393/4bd0ab80-991d-11eb-942c-72658f3553a7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241212T041601Z&X-Amz-Expires=300&X-Amz-Signature=d3fbffd60729bd6c18976209f2251cc11dcb8f879f79daed4101b1d07c664fcc&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dgeckodriver-v0.29.1-linux64.tar.gz&response-content-type=application%2Foctet-stream"}
+{"link": "https://github.com/emscripten-core/emsdk.git", "status_code": 200, "redirected_url": "https://github.com/emscripten-core/emsdk"}
+{"link": "https://github.com/node-pgp/node-pgp", "status_code": 404}
+{"link": "https://github.com/verlok/lazyload", "status_code": 200, "redirected_url": "https://github.com/verlok/vanilla-lazyload"}
+{"link": "https://github.com/utatti/perfect-scrollbar", "status_code": 200, "redirected_url": "https://github.com/mdbootstrap/TW-Elements"}
+{"link": "https://github.com/malihu/custom-scrollbar", "status_code": 404}
+{"link": "https://github.com/john-doe/my-public-repo", "status_code": 404}
+{"link": "https://github.com/john-doe/my-public-repo.git", "status_code": 404}
+{"link": "https://github.com/authorizations/1234567890", "status_code": 404}
+{"link": "https://github.com/HRNet/HRNet", "status_code": 404}
+{"link": "https://github.com/HRNet/HRNet-Semantic", "status_code": 404}
+{"link": "https://github.com/HRNet/HRNet-Semantic.git", "status_code": 404}
+{"link": "https://github.com/TransitApp/raptor", "status_code": 404}
+{"link": "https://github.com/jquery/jquery.git", "status_code": 200, "redirected_url": "https://github.com/jquery/jquery"}
+{"link": "https://github.com/apache/gobblin.git", "status_code": 200, "redirected_url": "https://github.com/apache/gobblin"}
+{"link": "https://github.com/1000chess/gulp-javascript-obfuscator", "status_code": 404}
+{"link": "https://github.com/google/closure-compiler/wiki/Flags", "status_code": 200, "redirected_url": "https://github.com/google/closure-compiler/wiki/"}
+{"link": "https://github.com/gwtproject/gwt/tree/master/samples", "status_code": 200, "redirected_url": "https://github.com/gwtproject/gwt/tree/main/samples"}
+{"link": "https://github.com/heroku/heroku-buildpack-docker", "status_code": 404}
+{"link": "https://github.com/GoogleCloudPlatform/oryx", "status_code": 404}
+{"link": "https://github.com/GoogleCloudPlatform/oryx.git", "status_code": 404}
+{"link": "https://github.com/squirrel-sql/squirrel-sql", "status_code": 404}
+{"link": "https://github.com/squirrel-sql/squirrel-sql/wiki/ODBC-Drivers", "status_code": 404}
+{"link": "https://github.com/firebase/firebase-ruby", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-perl", "status_code": 404}
+{"link": "https://github.com/FS-Fount/ttf-msys", "status_code": 404}
+{"link": "https://github.com/hirokiv/php-fontlib", "status_code": 404}
+{"link": "https://github.com/svenfuchs/i18n", "status_code": 200, "redirected_url": "https://github.com/ruby-i18n/i18n"}
+{"link": "https://github.com/NotepadPlusPlusAutoFormat/AutoFormat", "status_code": 404}
+{"link": "https://github.com/kevinsawicki/node-stanford-corenlp", "status_code": 404}
+{"link": "https://github.com/kevinsawicki/spacyjs", "status_code": 404}
+{"link": "https://github.com/jasonkessler/node-gensim", "status_code": 404}
+{"link": "https://github.com/Rleg/node-nlp", "status_code": 404}
+{"link": "https://github.com/tinystl/tinystl", "status_code": 404}
+{"link": "https://github.com/jstate-machine/jstatemachine", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-apt.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-apt"}
+{"link": "https://github.com/heroku/heroku-buildpack-geospatial", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-geospatial.git", "status_code": 404}
+{"link": "https://github.com/theskwa/python-dotenv", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-static.git#v1.3.0", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-static#v1.3.0"}
+{"link": "https://github.com/heroku/heroku-buildpack-python.git#v1.0.0", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-python#v1.0.0"}
+{"link": "https://github.com/heroku/heroku-buildpack-static.git#v1.3.1", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-static#v1.3.1"}
+{"link": "https://github.com/heroku/heroku-buildpack-typescript", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-typescript.git", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-nginx.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-nginx"}
+{"link": "https://github.com/kragni/shiny-buildpack", "status_code": 404}
+{"link": "https://github.com/kragni/shiny-buildpack.git", "status_code": 404}
+{"link": "https://github.com/cloudfoundry/staticfile-buildpack.git", "status_code": 200, "redirected_url": "https://github.com/cloudfoundry/staticfile-buildpack"}
+{"link": "https://github.com/heroku/heroku-buildpack-python/releases/download/v3.x.x/heroku-buildpack-python-3.x.x.tar.gz", "status_code": 404}
+{"link": "https://github.com/bangbangninja/pipreqs", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-python.git#static", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-python#static"}
+{"link": "https://github.com/celery/celery-buildpack", "status_code": 404}
+{"link": "https://github.com/celery/celery-buildpack.git#v0.1.0", "status_code": 404}
+{"link": "https://github.com/aergonaut/heroku-buildpack-coffeescript.git", "status_code": 200, "redirected_url": "https://github.com/aergonaut/heroku-buildpack-coffeescript"}
+{"link": "https://github.com/heroku/heroku-buildpack-ruby.git#v142", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-ruby#v142"}
+{"link": "https://github.com/plotlib/plotlib", "status_code": 404}
+{"link": "https://github.com/apache/cordova-plugin-camera.git", "status_code": 200, "redirected_url": "https://github.com/apache/cordova-plugin-camera"}
+{"link": "https://github.com/googleapis/google-api-python-client/archive/refs/tags/v2.6.0.zip", "status_code": 200, "redirected_url": "https://codeload.github.com/googleapis/google-api-python-client/zip/refs/tags/v2.6.0"}
+{"link": "https://github.com/openai/spinningup.git", "status_code": 200, "redirected_url": "https://github.com/openai/spinningup"}
+{"link": "https://github.com/graph-tool/graph-tool", "status_code": 404}
+{"link": "https://github.com/graph-tool/graph-tool/archive/refs/tags/v2.40.tar.gz", "status_code": 404}
+{"link": "https://github.com/cmtisound/libfmp", "status_code": 404}
+{"link": "https://github.com/cmtisound/libfmp.git", "status_code": 404}
+{"link": "https://github.com/angular/angular.git", "status_code": 200, "redirected_url": "https://github.com/angular/angular"}
+{"link": "https://github.com/openshift/django-example", "status_code": 404}
+{"link": "https://github.com/mongodb/mongo-cxx-driver/releases/download/3.x.x/mongo-cxx-driver-3.x.x.tar.gz", "status_code": 404}
+{"link": "https://github.com/myclabs/php-decimal", "status_code": 404}
+{"link": "https://github.com/myclabs/php-decimal.git", "status_code": 404}
+{"link": "https://github.com/Pragmarx/google2fa-laravel", "status_code": 404}
+{"link": "https://github.com/neo4j/neo4go", "status_code": 404}
+{"link": "https://github.com/user/repository", "status_code": 404}
+{"link": "https://github.com/original-owner/original-repo-name", "status_code": 404}
+{"link": "https://github.com/original-owner/project-name", "status_code": 404}
+{"link": "https://github.com/original-author/project-name", "status_code": 404}
+{"link": "https://github.com/en/graphql", "status_code": 404}
+{"link": "https://github.com/johnDoe/my-perl-project", "status_code": 404}
+{"link": "https://github.com/johnDoe/my-perl-project.git", "status_code": 404}
+{"link": "https://github.com/settings/apps", "status_code": 200, "redirected_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsettings%2Fapps"}
+{"link": "https://github.com/settings/apps/new", "status_code": 200, "redirected_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsettings%2Fapps%2Fnew"}
+{"link": "https://github.com/psf/requests.git", "status_code": 200, "redirected_url": "https://github.com/psf/requests"}
+{"link": "https://github.com/perl/perl-core", "status_code": 404}
+{"link": "https://github.com/perl/perl-core/blob/v5.x/lib/Some/Module/Name.pod.", "status_code": 404}
+{"link": "https://github.com/perl/perl-core/blob/v5.x/lib/.", "status_code": 404}
+{"link": "https://github.com/perl/perl-core/blob/v5.x/lib/Some/Module/Name.pod", "status_code": 404}
+{"link": "https://github.com/miguelgrinberg/python-socket", "status_code": 404}
+{"link": "https://github.com/miguelgrinberg/python-socket.io.git", "status_code": 404}
+{"link": "https://github.com/your-username/perl-swing-app", "status_code": 404}
+{"link": "https://github.com/repos/octocat", "status_code": 404}
+{"link": "https://github.com/laravel/laravel.git", "status_code": 200, "redirected_url": "https://github.com/laravel/laravel"}
+{"link": "https://github.com/en/rest", "status_code": 404}
+{"link": "https://github.com/libusb/hidapi.git", "status_code": 200, "redirected_url": "https://github.com/libusb/hidapi"}
+{"link": "https://github.com/libusb/hid", "status_code": 404}
+{"link": "https://github.com/libusb/hid.git", "status_code": 404}
+{"link": "https://github.com/your-brew-tap-owner/your-brew-tap-repo", "status_code": 404}
+{"link": "https://github.com/my-project-owner/my-project-repo", "status_code": 404}
+{"link": "https://github.com/nodejs/nodejs-releaser", "status_code": 404}
+{"link": "https://github.com/my-project-owner/my-project-repo.git", "status_code": 404}
+{"link": "https://github.com/your-new-repo-owner/your-new-repo-name", "status_code": 404}
+{"link": "https://github.com/en/github", "status_code": 404}
+{"link": "https://github.com/jekyll/minima.git", "status_code": 200, "redirected_url": "https://github.com/jekyll/minima"}
+{"link": "https://github.com/PyGithub/PyGithub.git", "status_code": 200, "redirected_url": "https://github.com/PyGithub/PyGithub"}
+{"link": "https://github.com/pear/PHP_Git", "status_code": 404}
+{"link": "https://github.com/kevinpapst/GitPHP", "status_code": 404}
+{"link": "https://github.com/gradle-composer-plugin/gradle-composer-plugin", "status_code": 404}
+{"link": "https://github.com/Py4A/Py4A", "status_code": 404}
+{"link": "https://github.com/koenigdaniel/ruby-android", "status_code": 404}
+{"link": "https://github.com/prisma/graphql-playground", "status_code": 200, "redirected_url": "https://github.com/graphql/graphql-playground"}
+{"link": "https://github.com/your-fork/specific_gem", "status_code": 404}
+{"link": "https://github.com/cloudera/wordcount", "status_code": 404}
+{"link": "https://github.com/cloudera/wordcount.git", "status_code": 404}
+{"link": "https://github.com/shlomif/perl-buildpack", "status_code": 404}
+{"link": "https://github.com/shlomif/perl-buildpack.git", "status_code": 404}
+{"link": "https://github.com/shahinaziz/heroku-buildpack-perl", "status_code": 404}
+{"link": "https://github.com/shahinaziz/heroku-buildpack-perl.git", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-scala.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-scala"}
+{"link": "https://github.com/heroku/heroku-buildpack-multi.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-multi"}
+{"link": "https://github.com/your-repo/your-local-package", "status_code": 404}
+{"link": "https://github.com/your-repo/custom-buildpack", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-perl.git", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-compile", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-ruby.git#custom", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-ruby#custom"}
+{"link": "https://github.com/heroku/heroku-buildpack-compile.git#custom", "status_code": 404}
+{"link": "https://github.com/heroku/heroku-buildpack-php.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-php"}
+{"link": "https://github.com/heroku/heroku-buildpack-ruby.git", "status_code": 200, "redirected_url": "https://github.com/heroku/heroku-buildpack-ruby"}
+{"link": "https://github.com/ruby/ruby/tree/trunk/tools/ruby-devkit", "status_code": 404}
+{"link": "https://github.com/tpope/vim-lisp", "status_code": 404}
+{"link": "https://github.com/tpope/vim-php", "status_code": 404}
+{"link": "https://github.com/tpope/vim-lisp.git", "status_code": 404}
+{"link": "https://github.com/tpope/vim-php.git", "status_code": 404}
+{"link": "https://github.com/copilot/code-completion", "status_code": 404}
+{"link": "https://github.com/copilot/suggestions", "status_code": 404}
+{"link": "https://github.com/VSCodePortable/VSCodePortable", "status_code": 404}
+{"link": "https://github.com/VSCodePortable/VSCodePortable/releases/download/1.73.2/VSCodePortable_1.73.2.paf.exe", "status_code": 404}
+{"link": "https://github.com/textmate/javascript", "status_code": 404}
+{"link": "https://github.com/ros/ros_tutorials.git", "status_code": 200, "redirected_url": "https://github.com/ros/ros_tutorials"}
+{"link": "https://github.com/cartographer-project/cartographer_ros.git", "status_code": 200, "redirected_url": "https://github.com/cartographer-project/cartographer_ros"}
+{"link": "https://github.com/schmunk42/Locale", "status_code": 404}
+{"link": "https://github.com/cujojs/console-polyfill", "status_code": 404}
+{"link": "https://github.com/TooTallNate/node-ffi", "status_code": 404}
+{"link": "https://github.com/ivanblom/PHP-OCR", "status_code": 404}
+{"link": "https://github.com/kaosass/php-java-bridge", "status_code": 404}
+{"link": "https://github.com/php/php-tour", "status_code": 404}
+{"link": "https://github.com/php/php-tour.git", "status_code": 404}
+{"link": "https://github.com/tokuhirom/plenv.git", "status_code": 200, "redirected_url": "https://github.com/tokuhirom/plenv"}
+{"link": "https://github.com/perl/perl", "status_code": 404}
+{"link": "https://github.com/PHP3D/PHP3D", "status_code": 404}
+{"link": "https://github.com/PHP3D/PHP3D.git", "status_code": 404}
+{"link": "https://github.com/coreybutler/n", "status_code": 404}
+{"link": "https://github.com/phpenv/phpenv-installer/releases/download/v1.2.0/install-phpenv.sh", "status_code": 404}
+{"link": "https://github.com/Perl/perl5.git", "status_code": 200, "redirected_url": "https://github.com/Perl/perl5"}
+{"link": "https://github.com/postmodern/pik", "status_code": 404}
+{"link": "https://github.com/rbenv/rbenv-installer.git", "status_code": 200, "redirected_url": "https://github.com/rbenv/rbenv-installer"}
+{"link": "https://github.com/scala/scala.git", "status_code": 200, "redirected_url": "https://github.com/scala/scala"}
+{"link": "https://github.com/your-repo/your-php-app", "status_code": 404}
+{"link": "https://github.com/philbrown/php-ruby-exec", "status_code": 404}
+{"link": "https://github.com/almasaeed2010/AdminLTE", "status_code": 200, "redirected_url": "https://github.com/ColorlibHQ/AdminLTE"}
+{"link": "https://github.com/nvm-sh/fpm", "status_code": 404}
+{"link": "https://github.com/your-dependency/your-dependency", "status_code": 404}
+{"link": "https://github.com/nvm-sh/fpm/releases/download/v1.0.0-beta.3/fpm-v1.0.0-beta.3-linux-x64.tar.gz", "status_code": 404}
+{"link": "https://github.com/php/php-src/archive/refs/tags/php-<version.tar.gz", "status_code": 404}
+{"link": "https://github.com/llvm/llvm-project.git", "status_code": 200, "redirected_url": "https://github.com/llvm/llvm-project"}
+{"link": "https://github.com/perl-gtk/perl-gtk", "status_code": 404}
+{"link": "https://github.com/perl-gtk/perl-gtk.git", "status_code": 404}
+{"link": "https://github.com/microsoft/vcpkg.git", "status_code": 200, "redirected_url": "https://github.com/microsoft/vcpkg"}
+{"link": "https://github.com/parsian/jalali-datepicker", "status_code": 404}
+{"link": "https://github.com/farsitools/jalali-datepicker", "status_code": 404}
+{"link": "https://github.com/persian-datepicker/persian-datepicker", "status_code": 404}
+{"link": "https://github.com/oneclick/rubyinstaller/wiki/DevKit", "status_code": 200, "redirected_url": "https://github.com/oneclick/rubyinstaller/wiki/"}
+{"link": "https://github.com/ethereum/go-ethereum.git", "status_code": 200, "redirected_url": "https://github.com/ethereum/go-ethereum"}
+{"link": "https://github.com/zeromq/zeromq", "status_code": 404}
+{"link": "https://github.com/zeromq/zeromq.node.git", "status_code": 404}
+{"link": "https://github.com/zeromq/libzmq/releases/download/v4.3.4/zeromq-4.3.4.tar.gz", "status_code": 200, "redirected_url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/263379/1c367800-58c7-11eb-91f4-eee8f0dd643b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241212T041804Z&X-Amz-Expires=300&X-Amz-Signature=b4fc99795925580f06320902cc416a1985077d425fb14518653ce79d178429d9&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dzeromq-4.3.4.tar.gz&response-content-type=application%2Foctet-stream"}
+{"link": "https://github.com/zeromq/pyzmq.git", "status_code": 200, "redirected_url": "https://github.com/zeromq/pyzmq"}
+{"link": "https://github.com/pecl-zmq/zmq", "status_code": 404}
+{"link": "https://github.com/zeromq/libzmq/archive/4.x.x.tar.gz", "status_code": 404}
+{"link": "https://github.com/pecl-zmq/zmq.git", "status_code": 404}
+{"link": "https://github.com/zeromq/perl-zero-mq", "status_code": 404}
+{"link": "https://github.com/zeromq/libzmq/archive/v4.x.x.tar.gz", "status_code": 404}
+{"link": "https://github.com/zeromq/perl-zero-mq.git", "status_code": 404}
+{"link": "https://github.com/zeromq/ruby-zmq", "status_code": 404}
+{"link": "https://github.com/zeromq/ruby-zmq.git", "status_code": 404}
+{"link": "https://github.com/seattlerb/minitest", "status_code": 200, "redirected_url": "https://github.com/minitest/minitest"}
+{"link": "https://github.com/PHPZ3/PHPZ3", "status_code": 404}
+{"link": "https://github.com/PHPZ3/PHPZ3/archive/master.zip", "status_code": 404}
+{"link": "https://github.com/nanovm/nanovm", "status_code": 404}
+{"link": "https://github.com/nanovm/nanovm.git", "status_code": 404}
+{"link": "https://github.com/erusev/php-linq", "status_code": 404}
+{"link": "https://github.com/nodejs/node/blob/v5.x.x/doc/changelogs/CHANGELOG_V5.md", "status_code": 404}
+{"link": "https://github.com/ruby/ruby/blob/trunk/doc/NEWS.md", "status_code": 404}
+{"link": "https://github.com/cloudfoundry/php-buildpack.git#v1.0.0", "status_code": 200, "redirected_url": "https://github.com/cloudfoundry/php-buildpack#v1.0.0"}
+{"link": "https://github.com/your-repo/perl-buildpack", "status_code": 404}
+{"link": "https://github.com/PyMySQL/mysqlclient-python", "status_code": 200, "redirected_url": "https://github.com/PyMySQL/mysqlclient"}
+{"link": "https://github.com/PyMySQL/mysqlclient-python/releases/download/v2.0.3/mysqlclient-2.0.3-cp310-cp310-win_amd64.whl", "status_code": 404}
+{"link": "https://github.com/oauth/request_token", "status_code": 404}
+{"link": "https://github.com/oauth/access_token", "status_code": 404}
+{"link": "https://github.com/googleapis/google-api-library", "status_code": 404}
+{"link": "https://github.com/PHPMailer/PHPMailer/archive/refs/heads/master.zip", "status_code": 200, "redirected_url": "https://codeload.github.com/PHPMailer/PHPMailer/zip/refs/heads/master"}
+{"link": "https://github.com/gsuitedevs/apps-script-libs", "status_code": 404}
+{"link": "https://github.com/gsuitedevs/apps-script-libs/raw/master/slack/slack.js", "status_code": 404}
+{"link": "https://github.com/360EntSecGroup-Skylar/excelize", "status_code": 200, "redirected_url": "https://github.com/qax-os/excelize"}
+{"link": "https://github.com/ben-eb/cssnano", "status_code": 200, "redirected_url": "https://github.com/cssnano/cssnano"}
+{"link": "https://github.com/jakimolak/clean-css", "status_code": 404}
+{"link": "https://github.com/lovell/sharp.git", "status_code": 200, "redirected_url": "https://github.com/lovell/sharp"}
+{"link": "https://github.com/ruby-toolbox/ruby-toolbox", "status_code": 404}
+{"link": "https://github.com/PowerShell/perl2ps1", "status_code": 404}
+{"link": "https://github.com/PowerShell/perl2ps1.git", "status_code": 404}
+{"link": "https://github.com/ruby-pandas/pandas-ruby", "status_code": 404}
+{"link": "https://github.com/ruby-concurrency/concurrent-ruby(https://github.com/ruby-concurrency/concurrent-ruby", "status_code": 404}
+{"link": "https://github.com/lbugnion/mvvm-light-toolkit", "status_code": 404}
+{"link": "https://github.com/Caliburn-Micro/Caliburn", "status_code": 404}
+{"link": "https://github.com/mishoo/UglifyCSS", "status_code": 404}
+{"link": "https://github.com/mishoo/UglifyJS2", "status_code": 200, "redirected_url": "https://github.com/mishoo/UglifyJS"}
+{"link": "https://github.com/ParsePlatform/python-parse", "status_code": 404}
+{"link": "https://github.com/css-parse/css-parse", "status_code": 404}
+{"link": "https://github.com/csstree/css-tree", "status_code": 404}
+{"link": "https://github.com/pegjs/php-peg", "status_code": 404}
+{"link": "https://github.com/parsec/php-parse", "status_code": 404}
+{"link": "https://github.com/pegjs/php-peg#readme", "status_code": 404}
+{"link": "https://github.com/parsec/php-parse#readme", "status_code": 404}
+{"link": "https://github.com/VundleVim/Vundle", "status_code": 404}
+{"link": "https://github.com/vim-python/peekaboo", "status_code": 404}
+{"link": "https://github.com/VundleVim/Vundle.vim.git", "status_code": 200, "redirected_url": "https://github.com/VundleVim/Vundle.vim"}
+{"link": "https://github.com/tpope/vim-pathogen.git", "status_code": 200, "redirected_url": "https://github.com/tpope/vim-pathogen"}
+{"link": "https://github.com/vim-python/peekaboo.git", "status_code": 404}
+{"link": "https://github.com/davidhalter/jedi-vim.git", "status_code": 200, "redirected_url": "https://github.com/davidhalter/jedi-vim"}
+{"link": "https://github.com/junegunn/vim-easy-align.git", "status_code": 200, "redirected_url": "https://github.com/junegunn/vim-easy-align"}
+{"link": "https://github.com/denomongo/denomongo", "status_code": 404}
+{"link": "https://github.com/spotify/ann", "status_code": 404}
+{"link": "https://github.com/ngx-electron/ngx-electron", "status_code": 404}
+{"link": "https://github.com/alexdunae/tor", "status_code": 404}
+{"link": "https://github.com/encog/encog-java", "status_code": 404}
+{"link": "https://github.com/tesseract-ocr/tessdata/raw/master/eng.traineddata", "status_code": 404}
+{"link": "https://github.com/andrewrk/spellchecker", "status_code": 404}
+{"link": "https://github.com/andrewrk/node-spellchecker", "status_code": 404}
+{"link": "https://github.com/andrewrk/node-hunspell", "status_code": 404}
+{"link": "https://github.com/andrewrk/node-aspell", "status_code": 404}
+{"link": "https://github.com/SpellCheck.js/SpellCheck.js", "status_code": 404}
+{"link": "https://github.com/phpmyadmin/phpmyadmin/blob/master/libraries/spellcheck.php", "status_code": 404}
+{"link": "https://github.com/PHP-Spell-Checker/PHP-Spell-Checker", "status_code": 404}
+{"link": "https://github.com/phpmyadmin/phpmyadmin/tree/master/libraries/spellcheck", "status_code": 404}
+{"link": "https://github.com/verb-tenses/verb-tenses", "status_code": 404}
+{"link": "https://github.com/nlpjs/nlpjs", "status_code": 404}
+{"link": "https://github.com/nlpjs/nlpjs/tree/master/models", "status_code": 404}
+{"link": "https://github.com/kaoscript/php-java-bridge", "status_code": 404}
+{"link": "https://github.com/kaoscript/php-java-socket", "status_code": 404}
+{"link": "https://github.com/tpitasse/cassandra-ruby", "status_code": 404}
+{"link": "https://github.com/jeffreyt/pouchdb-ruby", "status_code": 404}
+{"link": "https://github.com/franciscolourenco/oauth2-server", "status_code": 404}
+{"link": "https://github.com/strongloop/node-oauth2-server", "status_code": 404}
+{"link": "https://github.com/flatironlabs/express-oauth2-server", "status_code": 404}
+{"link": "https://github.com/franciscolourenco/oauth2-server#readme", "status_code": 404}
+{"link": "https://github.com/strongloop/node-oauth2-server#readme", "status_code": 404}
+{"link": "https://github.com/flatironlabs/express-oauth2-server#readme", "status_code": 404}
+{"link": "https://github.com/PyOAuth2/PyOAuth2", "status_code": 404}
+{"link": "https://github.com/evonove/django-oauth-toolkit", "status_code": 200, "redirected_url": "https://github.com/jazzband/django-oauth-toolkit"}
+{"link": "https://github.com/alexgladysh/oauth2-server", "status_code": 404}
+{"link": "https://github.com/franktudor/oauth2-server", "status_code": 404}
+{"link": "https://github.com/tony-o/plack-oauth2-server", "status_code": 404}
+{"link": "https://github.com/franktudor/oauth2-server#readme", "status_code": 404}
+{"link": "https://github.com/tony-o/plack-oauth2-server#readme", "status_code": 404}
+{"link": "https://github.com/joauth/joauth", "status_code": 404}
+{"link": "https://github.com/eligrey/FileSaver", "status_code": 404}
+{"link": "https://github.com/urfave/ui-router-go", "status_code": 404}
+{"link": "https://github.com/apneadivisions/gmaps4rails", "status_code": 404}
+{"link": "https://github.com/swanandp/acts_as_list", "status_code": 200, "redirected_url": "https://github.com/brendon/acts_as_list"}
+{"link": "https://github.com/beautify-web/js-beautify", "status_code": 200, "redirected_url": "https://github.com/beautifier/js-beautify"}
+{"link": "https://github.com/tdilib/tdilib", "status_code": 404}
+{"link": "https://github.com/tenderlove/html5lib", "status_code": 404}
+{"link": "https://github.com/tototoshi/slick-codegen", "status_code": 404}
+{"link": "https://github.com/parse-community/parse-server.git", "status_code": 200, "redirected_url": "https://github.com/parse-community/parse-server"}
+{"link": "https://github.com/neoclide/coc", "status_code": 404}
+{"link": "https://github.com/neoclide/coc.nvim.git", "status_code": 200, "redirected_url": "https://github.com/neoclide/coc.nvim"}
+{"link": "https://github.com/Shougo/neobundle", "status_code": 404}
+{"link": "https://github.com/Shougo/neobundle.vim.git", "status_code": 200, "redirected_url": "https://github.com/Shougo/neobundle.vim"}
+{"link": "https://github.com/ionic-team/cordova-plugin-native-bridge", "status_code": 404}
+{"link": "https://github.com/PHP-FIG/fig-standards/blob/main/FIG-9.md#update-checker", "status_code": 404}
+{"link": "https://github.com/php/php-src.git", "status_code": 200, "redirected_url": "https://github.com/php/php-src"}
+{"link": "https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-linux64.tar.gz", "status_code": 200, "redirected_url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/25354393/8e6fbcea-60f2-4ed5-a39d-63b1a8a014be?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241212T041907Z&X-Amz-Expires=300&X-Amz-Signature=b89ba3dbe4179e9bec58bdae8bc0a6230fb9dee2d9b9b3c474b81b30ae7ce907&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dgeckodriver-v0.30.0-linux64.tar.gz&response-content-type=application%2Foctet-stream"}
+{"link": "https://github.com/SonarSource/sonar-javascript", "status_code": 200, "redirected_url": "https://github.com/SonarSource/SonarJS"}
+{"link": "https://github.com/SonarSource/sonarqube-community-plugins", "status_code": 404}
+{"link": "https://github.com/kots/ffmpeg", "status_code": 404}
+{"link": "https://github.com/kots/ffmpeg.js", "status_code": 404}
+{"link": "https://github.com/janl/mustache", "status_code": 404}
+{"link": "https://github.com/nicolasff/phpredis", "status_code": 200, "redirected_url": "https://github.com/phpredis/phpredis"}
+{"link": "https://github.com/nicolasff/phpredis.git", "status_code": 200, "redirected_url": "https://github.com/phpredis/phpredis"}
+{"link": "https://github.com/luin/ioredis", "status_code": 200, "redirected_url": "https://github.com/redis/ioredis"}
+{"link": "https://github.com/redis/redis-om", "status_code": 404}
+{"link": "https://github.com/andymccurdy/redis-py", "status_code": 200, "redirected_url": "https://github.com/redis/redis-py"}
+{"link": "https://github.com/aio-libs/aioredis", "status_code": 200, "redirected_url": "https://github.com/aio-libs-abandoned/aioredis-py"}
+{"link": "https://github.com/nitro/predis", "status_code": 404}
+{"link": "https://github.com/nitro/predis#readme", "status_code": 404}
+{"link": "https://github.com/kevinsjoberg/swagger-ui-rails", "status_code": 404}
+{"link": "https://github.com/swagger-api/swagger-ui/tree/master/dist/standalone", "status_code": 404}
+{"link": "https://github.com/jruby/jruby/releases/download/v9.3.0.0/jruby-9.3.0.0.tar.gz", "status_code": 404}
+{"link": "https://github.com/krakjoe/php-socket", "status_code": 404}
+{"link": "https://github.com/krakjoe/php-socket.io", "status_code": 404}
+{"link": "https://github.com/jruby/jruby-binary", "status_code": 404}
+{"link": "https://github.com/jruby/jruby-binary/releases/download/v9.3.0.0/jruby-9.3.0.0-linux-x86_64.tar.gz", "status_code": 404}
+{"link": "https://github.com/jython/jython/releases/download/2.7.2/Jython2.7.2.zip", "status_code": 404}
+{"link": "https://github.com/krakjoe/php-minify", "status_code": 404}
+{"link": "https://github.com/intercom/ng2-intercom", "status_code": 404}
+{"link": "https://github.com/WebKit/JavaScriptCore", "status_code": 404}
+{"link": "https://github.com/WebKit/JavaScriptCore.git", "status_code": 404}
+{"link": "https://github.com/apache/commons", "status_code": 404}
+{"link": "https://github.com/psf/requests/tree/master/tests", "status_code": 200, "redirected_url": "https://github.com/psf/requests/tree/main/tests"}
+{"link": "https://github.com/pallets/flask/tree/master/tests", "status_code": 200, "redirected_url": "https://github.com/pallets/flask/tree/main/tests"}
+{"link": "https://github.com/django/django/tree/master/tests", "status_code": 200, "redirected_url": "https://github.com/django/django/tree/main/tests"}
+{"link": "https://github.com/lodash/lodash/tree/master/test", "status_code": 200, "redirected_url": "https://github.com/lodash/lodash/tree/main/test"}
+{"link": "https://github.com/mochajs/mocha/tree/master/test", "status_code": 200, "redirected_url": "https://github.com/mochajs/mocha/tree/main/test"}
+{"link": "https://github.com/apache/commons/tree/master/commons-lang3/src/test/java", "status_code": 404}
+{"link": "https://github.com/spring-projects/spring-framework/tree/master/spring-test/src/test/java", "status_code": 200, "redirected_url": "https://github.com/spring-projects/spring-framework/tree/main/spring-test/src/test/java"}
+{"link": "https://github.com/boostorg/boost/tree/master/test", "status_code": 404}
+{"link": "https://github.com/qt/qtbase/tree/5.15.2/tests", "status_code": 404}
+{"link": "https://github.com/YourUsername/YourRepositoryName", "status_code": 404}
+{"link": "https://github.com/validatorjs/html-validate", "status_code": 404}
+{"link": "https://github.com/mr-karan/npp-lint", "status_code": 404}
+{"link": "https://github.com/validatorjs/validator", "status_code": 200, "redirected_url": "https://github.com/validatorjs/validator-deno"}
+{"link": "https://github.com/colinmollenhour/php-protobuf", "status_code": 404}
+{"link": "https://github.com/SonarSource/sonar-nodejs", "status_code": 404}
+{"link": "https://github.com/slimphp/Slim-Framework", "status_code": 404}
+{"link": "https://github.com/fitnesse/fitnesse/wiki/Integration-with-Ruby", "status_code": 200, "redirected_url": "https://github.com/fitnesse/fitnesse/wiki"}
+{"link": "https://github.com/terminal-kit/tty", "status_code": 404}
+{"link": "https://github.com/mqttjs/MQTT", "status_code": 404}
+{"link": "https://github.com/rustwasm/wasm-pack/releases/download/0.10.0/wasm-pack-0.10.0.tar.gz", "status_code": 404}
+{"link": "https://github.com/socketio/netty-socketio", "status_code": 404}
+{"link": "https://github.com/philipbenne/php-websocket", "status_code": 404}
+{"link": "https://github.com/rbxsd/", "status_code": 404}
+{"link": "https://github.com/eclipse-ee4j/jaxb", "status_code": 404}
+{"link": "https://github.com/highsource/jaxb2-maven-plugin", "status_code": 404}
+{"link": "https://github.com/eonasdan/bootstrap-datetimepicker", "status_code": 200, "redirected_url": "https://github.com/Eonasdan/tempus-dominus"}
+{"link": "https://github.com/kevinchappell/simple-calendar", "status_code": 404}
+{"link": "https://github.com/unicode-org/unicode-js", "status_code": 404}
+{"link": "https://github.com/google/benchmark/archive/v1.7.0.tar.gz", "status_code": 200, "redirected_url": "https://codeload.github.com/google/benchmark/tar.gz/refs/tags/v1.7.0"}
+{"link": "https://github.com/algolia/autocomplete.js", "status_code": 200, "redirected_url": "https://github.com/algolia/autocomplete"}
+{"link": "https://github.com/library-name/library", "status_code": 404}
+{"link": "https://github.com/opencv/opencv/archive/refs/heads/master.zip", "status_code": 200, "redirected_url": "https://codeload.github.com/opencv/opencv/zip/refs/heads/master"}
+{"link": "https://github.com/feross/simplewebrtc", "status_code": 404}
+{"link": "https://github.com/feross/simplewebrtc**", "status_code": 404}
+{"link": "https://github.com/peers/peerjs**", "status_code": 404}
+{"link": "https://github.com/microsoft/TypeScript.git#main", "status_code": 200, "redirected_url": "https://github.com/microsoft/TypeScript#main"}
+{"link": "https://github.com/microsoft/TypeScript.git#commit-hash", "status_code": 200, "redirected_url": "https://github.com/microsoft/TypeScript#commit-hash"}
+{"link": "https://github.com/microsoft/TypeScript.git#abc123", "status_code": 200, "redirected_url": "https://github.com/microsoft/TypeScript#abc123"}
+{"link": "https://github.com/microsoft/TypeScript.git#feature/new-feature", "status_code": 200, "redirected_url": "https://github.com/microsoft/TypeScript#feature/new-feature"}
+{"link": "https://github.com/scikit-learn/scikit-learn.git", "status_code": 200, "redirected_url": "https://github.com/scikit-learn/scikit-learn"}
+{"link": "https://github.com/django/django.git", "status_code": 200, "redirected_url": "https://github.com/django/django"}
+{"link": "https://github.com/assets/js", "status_code": 404}
+{"link": "https://github.com/assets/js/github-button.js", "status_code": 404}
+{"link": "https://github.com/bustardcelly/github-buttons", "status_code": 404}
+{"link": "https://github.com/GoogleCloudPlatform/bigdata-connector", "status_code": 404}
+{"link": "https://github.com/GoogleCloudPlatform/bigdata-connector.git", "status_code": 404}
+{"link": "https://github.com/eric-ide/eric", "status_code": 404}
+{"link": "https://github.com/parse-community/Parse-JS", "status_code": 404}
+{"link": "https://github.com/stephane/dropshadow", "status_code": 404}
+{"link": "https://github.com/stephane/jquery-shadow", "status_code": 404}
+{"link": "https://github.com/stephane/shadow", "status_code": 404}
+{"link": "https://github.com/SonarSource/sonar-javascript-plugin", "status_code": 404}
+{"link": "https://github.com/mperham/sidekiq", "status_code": 200, "redirected_url": "https://github.com/sidekiq/sidekiq"}
+{"link": "https://github.com/buildpacks/paketo-cli", "status_code": 404}
+{"link": "https://github.com/buildpacks/paketo-cli/releases/download/v0.7.0/paketo-cli-v0.7.0-linux-amd64.tar.gz", "status_code": 404}
+{"link": "https://github.com/tebriel/ifcjs", "status_code": 404}
+{"link": "https://github.com/IfcOpenShell/IfcOpenShell/blob/master/docs/PythonAPI.md", "status_code": 404}
+{"link": "https://github.com/akirak/gwt-datepicker", "status_code": 404}
+{"link": "https://github.com/Valloric/YouCompleteMe", "status_code": 200, "redirected_url": "https://github.com/ycm-core/YouCompleteMe"}
+{"link": "https://github.com/ekalinin/vim-pydebugger", "status_code": 404}
+{"link": "https://github.com/scrooloose/nerdtree", "status_code": 200, "redirected_url": "https://github.com/preservim/nerdtree"}
+{"link": "https://github.com/Valloric/YouCompleteMe.git", "status_code": 200, "redirected_url": "https://github.com/ycm-core/YouCompleteMe"}
+{"link": "https://github.com/ekalinin/vim-pydebugger.git", "status_code": 404}
+{"link": "https://github.com/scrooloose/nerdtree.git", "status_code": 200, "redirected_url": "https://github.com/preservim/nerdtree"}
+{"link": "https://github.com/vim-airline/vim-airline.git", "status_code": 200, "redirected_url": "https://github.com/vim-airline/vim-airline"}
+{"link": "https://github.com/psf/requests.git@v2.28.2#egg=requests", "status_code": 404}
+{"link": "https://github.com/webpack-contrib/webpacker", "status_code": 404}
+{"link": "https://github.com/ArtemZinnatullin/xsd2js", "status_code": 404}

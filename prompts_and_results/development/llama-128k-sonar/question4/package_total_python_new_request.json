@@ -1,0 +1,1235 @@
+{"package_link": "https://pypi.org/pypi/django-celery-email/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/aiohttp/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/twisted/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/celery/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/requests/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/django-async/json", "status_code": 200, "license": "Boost Software License - Version 1.0 - August 17th"}
+{"package_link": "https://pypi.org/pypi/selenium/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-channels/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/asyncio/json", "status_code": 200, "license": "PSF"}
+{"package_link": "https://pypi.org/pypi/bash/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/aiomongo/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/google-cloud-storage/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/apscheduler/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pymongo/json", "status_code": 200, "license": "Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/gunicorn/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/websockets/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-celery-beat/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-background-tasks/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-uuidfield/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/telethon/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-api-python-client/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/scrapy/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/asyncpg/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/cassandra-driver/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-celery/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-extensions/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/publicsuffixlist/json", "status_code": 200, "license": "MPL-2.0"}
+{"package_link": "https://pypi.org/pypi/google-auth-oauthlib/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-rq/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/matplotlib/json", "status_code": 200, "license": "License agreement for matplotlib versions 1.3.0 and later =========================================================  1. This LICENSE AGREEMENT is between the Matplotlib Development Team (\"MDT\")"}
+{"package_link": "https://pypi.org/pypi/bottle/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/graphene/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/gspread/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-storages/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/pyserial/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/sh/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-axes/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/motor/json", "status_code": 200, "license": "Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/pytest/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/numpy/json", "status_code": 200, "license": "Copyright (c) 2005-2024"}
+{"package_link": "https://pypi.org/pypi/django-debug-toolbar/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/jinja2/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pytesseract/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/azure-functions/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-microsoft-auth/json", "status_code": 200, "license": " MIT License Copyright (c) 2017"}
+{"package_link": "https://pypi.org/pypi/azure-storage-blob/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/mysql-connector-python/json", "status_code": 200, "license": "GNU GPLv2 (with FOSS License Exception)"}
+{"package_link": "https://pypi.org/pypi/azure-keyvault/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/azure-devops/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/azure-identity/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/azure/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/schedule/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/virtualenv/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/psutil/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/sqlalchemy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/azure-cosmos/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-rest-framework-social-oauth2/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-allauth/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/psycopg2/json", "status_code": 200, "license": "LGPL with exceptions"}
+{"package_link": "https://pypi.org/pypi/pyodbc/json", "status_code": 200, "license": "MIT-0 License"}
+{"package_link": "https://pypi.org/pypi/paramiko/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/django-azure-storage/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/azure-servicebus/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pycryptodome/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-cors-headers/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pandas/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright (c) 2008-2011"}
+{"package_link": "https://pypi.org/pypi/grpc/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/django-csv/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/azureml-core/json", "status_code": 200, "license": "https://aka.ms/azureml-sdk-license"}
+{"package_link": "https://pypi.org/pypi/azure-mgmt-cosmosdb/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/azure-servicefabric/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/azureml/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/geopy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/PyPDF2/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/google-auth/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/xlsxwriter/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/PyJWT/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/requests-cache/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/google-cloud-translate/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-azure-auth/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/azure-cognitiveservices-vision-customvision/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-model-utils/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/redis/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/uuid/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-compressor/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/setuptools/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/gcloud/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-cache-machine/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-redis-cache/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-redis-sessions/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/functools/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/networkx/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pylibmc/json", "status_code": 200, "license": "3-clause BSD <https://opensource.org/licenses/bsd-license.php>"}
+{"package_link": "https://pypi.org/pypi/webapp2/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/googlemaps/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/dill/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-rest-framework/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/johnny-cache/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/lru-cache/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pycountry/json", "status_code": 200, "license": "LGPL-2.1-only"}
+{"package_link": "https://pypi.org/pypi/google-cloud-datastore/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/Flask/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-cacheops/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-memcached/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/aioredis/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-haystack/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-versions/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-mptt/json", "status_code": 200, "license": "MIT-License"}
+{"package_link": "https://pypi.org/pypi/selenium-wire/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/cachetools/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-watchman/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flask-sitemap/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/python-dateutil/json", "status_code": 200, "license": "Dual License"}
+{"package_link": "https://pypi.org/pypi/cachecontrol/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/scipy/json", "status_code": 200, "license": "Copyright (c) 2001-2002 Enthought"}
+{"package_link": "https://pypi.org/pypi/Flask-Caching/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/prometheus/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pywin32/json", "status_code": 200, "license": "PSF"}
+{"package_link": "https://pypi.org/pypi/django-pylibmc/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flask-caching/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/urllib3/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/Pillow/json", "status_code": 200, "license": "MIT-CMU"}
+{"package_link": "https://pypi.org/pypi/boto3/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/mod_wsgi/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/uwsgi/json", "status_code": 200, "license": "GPL2"}
+{"package_link": "https://pypi.org/pypi/google-cloud/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/Flask-RESTful/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/icalendar/json", "status_code": 200, "license": "License =======  Copyright (c) 2012-2013"}
+{"package_link": "https://pypi.org/pypi/lunar/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-bootstrap-datepicker-plus/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-crispy-forms/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pytz/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-widget-tweaks/json", "status_code": 200, "license": "MIT license"}
+{"package_link": "https://pypi.org/pypi/datetime/json", "status_code": 200, "license": "ZPL 2.1"}
+{"package_link": "https://pypi.org/pypi/feedparser/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/django-guardian/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/loguru/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/js2py/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-constance/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-markdown-deux/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/chardet/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/mysqlclient/json", "status_code": 200, "license": "GNU General Public License v2 or later (GPLv2+)"}
+{"package_link": "https://pypi.org/pypi/folium/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/ansible/json", "status_code": 200, "license": "GPL-3.0-or-later"}
+{"package_link": "https://pypi.org/pypi/certifi/json", "status_code": 200, "license": "MPL-2.0"}
+{"package_link": "https://pypi.org/pypi/pyOpenSSL/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/certbot/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/Ensure/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/pip/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/aiofiles/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/aiosmtpd/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/thrift/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/pyzipper/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/aiomysql/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/unittest/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/PyAutoGUI/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/sikuli/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/pathlib/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/locust/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/robotframework/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/scapy/json", "status_code": 200, "license": "GPL-2.0-only"}
+{"package_link": "https://pypi.org/pypi/systemd-python/json", "status_code": 200, "license": "LGPLv2+"}
+{"package_link": "https://pypi.org/pypi/supervisor/json", "status_code": 200, "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"}
+{"package_link": "https://pypi.org/pypi/behave/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/sendgrid/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/azure-storage-file/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyvhd/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/streamlit/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/pyyaml/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pybind11/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/ffmpeg-python/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pyinstaller/json", "status_code": 200, "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)"}
+{"package_link": "https://pypi.org/pypi/poetry/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/coverage/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/sphinx/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/importlib/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pydevd/json", "status_code": 200, "license": "EPL"}
+{"package_link": "https://pypi.org/pypi/py2exe/json", "status_code": 200, "license": "MIT/X11 OR (MPL 2.0)"}
+{"package_link": "https://pypi.org/pypi/PyInstaller/json", "status_code": 200, "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)"}
+{"package_link": "https://pypi.org/pypi/swig/json", "status_code": 200, "license": "https://github.com/swig/swig/blob/master/LICENSE"}
+{"package_link": "https://pypi.org/pypi/opencv-python/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/opencv-contrib-python/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/teamcity-messages/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/py2app/json", "status_code": 200, "license": "MIT or PSF License"}
+{"package_link": "https://pypi.org/pypi/PyWin32/json", "status_code": 200, "license": "PSF"}
+{"package_link": "https://pypi.org/pypi/gitpython/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/pylint/json", "status_code": 200, "license": "GPL-2.0-or-later"}
+{"package_link": "https://pypi.org/pypi/dogpile.cache/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/rabbitmq/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/joblib/json", "status_code": 200, "license": "BSD 3-Clause"}
+{"package_link": "https://pypi.org/pypi/pycache/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/lxml/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/pyspark/json", "status_code": 200, "license": "http://www.apache.org/licenses/LICENSE-2.0"}
+{"package_link": "https://pypi.org/pypi/dnspython/json", "status_code": 200, "license": "ISC"}
+{"package_link": "https://pypi.org/pypi/aiocache/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/bcrypt/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/cryptography/json", "status_code": 200, "license": "Apache-2.0 OR BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/business_calendar/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/tkcalendar/json", "status_code": 200, "license": "GPLv3"}
+{"package_link": "https://pypi.org/pypi/dateparser/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/calendar/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/wxPython/json", "status_code": 200, "license": "wxWindows Library License (https://opensource.org/licenses/wxwindows.php)"}
+{"package_link": "https://pypi.org/pypi/time/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/ews/json", "status_code": 200, "license": "GNU GPL-3 or later"}
+{"package_link": "https://pypi.org/pypi/holidays/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/babel/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/typing/json", "status_code": 200, "license": "PSF"}
+{"package_link": "https://pypi.org/pypi/mypy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/try-except/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/int/json", "status_code": 200, "license": "Public Domain"}
+{"package_link": "https://pypi.org/pypi/pydantic/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/treemap/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/reportlab/json", "status_code": 200, "license": "BSD license (see license.txt for details)"}
+{"package_link": "https://pypi.org/pypi/zeep/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/tqdm/json", "status_code": 200, "license": "MPL-2.0 AND MIT"}
+{"package_link": "https://pypi.org/pypi/facebook-sdk/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/imaplib2/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/tree/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-vision/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/beautifulsoup4/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-selectable/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/scikit-learn/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright (c) 2007-2024 The scikit-learn developers. All rights reserved.  Redistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/twilio/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/logging/json", "status_code": 200, "license": "Copyright (C) 2001-2005 by Vinay Sajip. All Rights Reserved. See LICENSE for license."}
+{"package_link": "https://pypi.org/pypi/gdal/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/regex/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/django-jinja/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pygobject/json", "status_code": 200, "license": "GNU Lesser General Public License v2.1 (LGPLv2.1)"}
+{"package_link": "https://pypi.org/pypi/taskqueue/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-threaded-multihost/json", "status_code": 200, "license": "New BSD License"}
+{"package_link": "https://pypi.org/pypi/lockfile/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/tenacity/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/configobj/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/configparser/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-environ/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-cors/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-scheduler/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pyperclip/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-cron/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/google-cloud-pubsub/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-q/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-bigquery/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/croniter/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-crontab/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-chroniker/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/google-cloud-core/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-simple-captcha/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/hashlib/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/hmac/json", "status_code": 200, "license": "PSF license"}
+{"package_link": "https://pypi.org/pypi/pyasn1/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/ecdsa/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyjwt/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/tink/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/secrets/json", "status_code": 200, "license": "PSF"}
+{"package_link": "https://pypi.org/pypi/PyCrypto/json", "status_code": 200, "license": "Public domain"}
+{"package_link": "https://pypi.org/pypi/PyQt5/json", "status_code": 200, "license": "GPL v3"}
+{"package_link": "https://pypi.org/pypi/debugpy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/ipdb/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/colorama/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/google-cloud-logging/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/heapy/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pusher/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyshortcuts/json", "status_code": 200, "license": "The MIT License  Copyright (c) 2018-2024 Matthew Newville"}
+{"package_link": "https://pypi.org/pypi/logilab-common/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/bokeh/json", "status_code": 200, "license": "Copyright (c) Anaconda"}
+{"package_link": "https://pypi.org/pypi/pycallgraph/json", "status_code": 200, "license": "GNU GENERAL PUBLIC LICENSE\n\t\t       Version 2"}
+{"package_link": "https://pypi.org/pypi/django-filter/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pdbpp/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pywinrm/json", "status_code": 200, "license": "Copyright (c) 2013 Alexey Diyan  Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/flask-debugtoolbar/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/sudoku/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/py4j/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/enum34/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/bom/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/nio/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/unidecode/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/werkzeug/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/openpyxl/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/unicode/json", "status_code": 200, "license": "GNU GPL v3"}
+{"package_link": "https://pypi.org/pypi/ctypes/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/cx_Oracle/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/langdetect/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyte/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/multiprocessing/json", "status_code": 200, "license": "BSD Licence"}
+{"package_link": "https://pypi.org/pypi/ttkthemes/json", "status_code": 200, "license": "GPLv3"}
+{"package_link": "https://pypi.org/pypi/punycode/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/emoji/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pycf/json", "status_code": 200, "license": "UCAR/Unidata"}
+{"package_link": "https://pypi.org/pypi/pygac/json", "status_code": 200, "license": "GPLv3"}
+{"package_link": "https://pypi.org/pypi/typeguard/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/asm/json", "status_code": 200, "license": "GPL-3"}
+{"package_link": "https://pypi.org/pypi/astunparse/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/numba/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pyarmor/json", "status_code": 200, "license": "Free To Use But Restricted"}
+{"package_link": "https://pypi.org/pypi/ast/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/docker/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/shapely/json", "status_code": 200, "license": "BSD 3-Clause"}
+{"package_link": "https://pypi.org/pypi/dash/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pycurl/json", "status_code": 200, "license": "LGPL/MIT"}
+{"package_link": "https://pypi.org/pypi/h2/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/jsonschema/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/waffle/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/inject/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/watchdog/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/property/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/line_profiler/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/codecov/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/openapi-generator/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/mercurial/json", "status_code": 200, "license": "GNU GPLv2 or any later version"}
+{"package_link": "https://pypi.org/pypi/jenkins/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/igraph/json", "status_code": 200, "license": "GNU General Public License (GPL)"}
+{"package_link": "https://pypi.org/pypi/pip-tools/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/graphlib/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/slim/json", "status_code": 200, "license": "zlib"}
+{"package_link": "https://pypi.org/pypi/fabric/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-dotenv/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-admin-sortable/json", "status_code": 200, "license": "APL"}
+{"package_link": "https://pypi.org/pypi/argparse/json", "status_code": 200, "license": "Python Software Foundation License"}
+{"package_link": "https://pypi.org/pypi/django-heroku/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/tensorflow/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/keras/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/torch/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/scikit-optimize/json", "status_code": 200, "license": "BSD 3-clause"}
+{"package_link": "https://pypi.org/pypi/torchvision/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/tflearn/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/memory_profiler/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/scikit-image/json", "status_code": 200, "license": "Files: * Copyright: 2009-2022 the scikit-image team License: BSD-3-Clause  Files: doc/source/themes/scikit-image/layout.html Copyright: 2007-2010 the Sphinx team License: BSD-3-Clause  Files: skimage/feature/_canny.py skimage/filters/edges.py skimage/filters/_rank_order.py skimage/morphology/_skeletonize.py skimage/morphology/tests/test_watershed.py skimage/morphology/watershed.py skimage/segmentation/heap_general.pxi skimage/segmentation/heap_watershed.pxi skimage/segmentation/_watershed.py skimage/segmentation/_watershed_cy.pyx Copyright: 2003-2009 Massachusetts Institute of Technology 2009-2011 Broad Institute 2003 Lee Kamentsky 2003-2005 Peter J. Verveer License: BSD-3-Clause  Files: skimage/filters/thresholding.py skimage/graph/_mcp.pyx skimage/graph/heap.pyx Copyright: 2009-2015 Board of Regents of the University of Wisconsin-Madison"}
+{"package_link": "https://pypi.org/pypi/nltk/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/tf.keras/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/autokeras/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/fastai/json", "status_code": 200, "license": "Apache Software License 2.0"}
+{"package_link": "https://pypi.org/pypi/google-cloud-aiplatform/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/transformers/json", "status_code": 200, "license": "Apache 2.0 License"}
+{"package_link": "https://pypi.org/pypi/TensorFlow/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/seaborn/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/torch_geometric/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/jax/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/pyarrow/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/PyTorch/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/h5py/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/torchserve/json", "status_code": 200, "license": "Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/injector/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/ordereddict/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/dependency-injector/json", "status_code": 200, "license": "Copyright (c) 2024"}
+{"package_link": "https://pypi.org/pypi/django-wsgi/json", "status_code": 200, "license": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)"}
+{"package_link": "https://pypi.org/pypi/Django/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/wsgiref/json", "status_code": 200, "license": "PSF or ZPL"}
+{"package_link": "https://pypi.org/pypi/platter/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/daphne/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pythonanywhere/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-grappelli/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django_plotly_dash/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-jquery/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-mathfilters/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/bleach/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/django-autocomplete-light/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-pipeline/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-markdown2/json", "status_code": 200, "license": "New BSD License"}
+{"package_link": "https://pypi.org/pypi/django-admin/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-template-tag/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-user-agents/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-admin-tools/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-select2/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-formset/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-bootstrap4/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright (c) Zostera B.V. and individual contributors All rights reserved.  Redistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/django-phonenumber-field/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-pandas/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-taggit/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-summernote/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-browserid/json", "status_code": 200, "license": "MPL v2.0"}
+{"package_link": "https://pypi.org/pypi/django-admin-actions/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-mustache/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-bootstrap-modal-forms/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-formtools/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-templates/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-dynamic-models/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/django-categories/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/dict/json", "status_code": 200, "license": "Unlicense"}
+{"package_link": "https://pypi.org/pypi/django-webpack-loader/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-tastypie/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-vue/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-templatetags/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-ckeditor/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-l10n/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-tables2/json", "status_code": 200, "license": "Simplified BSD"}
+{"package_link": "https://pypi.org/pypi/sortedcontainers/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-template-tags/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-charts/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/num2words/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/django-paginate/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-embed-video/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-recaptcha/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-multiselectfield/json", "status_code": 200, "license": "LGPL 3"}
+{"package_link": "https://pypi.org/pypi/django-imagekit/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/svglib/json", "status_code": 200, "license": "LGPL 3"}
+{"package_link": "https://pypi.org/pypi/django-dynamic-forms/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/xlwt/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/Jinja2/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pipeline/json", "status_code": 200, "license": "PYTHON SOFTWARE FOUNDATION LICENSE    VERSION 2"}
+{"package_link": "https://pypi.org/pypi/django-sekizai/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-paginator/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-rosetta/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-datetime-widget/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/whitenoise/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-babel/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-selectize/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-rest-auth/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-extra-views/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/isodate/json", "status_code": 200, "license": "Copyright (c) 2021"}
+{"package_link": "https://pypi.org/pypi/django-staticfiles/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-ajax/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-ratings/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-flags/json", "status_code": 200, "license": "CC0"}
+{"package_link": "https://pypi.org/pypi/django-cms/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-endless-pagination/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/wtforms/json", "status_code": 200, "license": "Copyright 2008 WTForms  Redistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/python-docx/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/xmltodict/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-nested-forms/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-easy-pdf/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/docker-py/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-redis/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/cookiecutter/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/waitress/json", "status_code": 200, "license": "ZPL 2.1"}
+{"package_link": "https://pypi.org/pypi/docker-compose/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/django-angular/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-social-auth/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/wkhtmltopdf/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/novnc/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/argon2-cffi/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/google-cloud-build/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-rules/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/superset/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/pykerberos/json", "status_code": 200, "license": "ASL 2.0"}
+{"package_link": "https://pypi.org/pypi/django-celery-results/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/google-cloud-run/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-translation-manager/json", "status_code": 200, "license": "Mozilla Public License 2.0 (MPL 2.0)"}
+{"package_link": "https://pypi.org/pypi/django-mysql/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/spacy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/arangodb/json", "status_code": 200, "license": "Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/pika/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/tika/json", "status_code": 200, "license": "Apache License version 2 (\"ALv2\")"}
+{"package_link": "https://pypi.org/pypi/django-csrf/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-sslserver/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/python-dotenv/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/google-cloud-automl/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/baker/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/scrapy-splash/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/psycopg2-binary/json", "status_code": 200, "license": "LGPL with exceptions"}
+{"package_link": "https://pypi.org/pypi/fbprophet/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyenv/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/kubernetes/json", "status_code": 200, "license": "Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/django-tenants/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/jupyter-dash/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/paho-mqtt/json", "status_code": 200, "license": "EPL-2.0 OR BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/google-cloud-spanner/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/djongo/json", "status_code": 200, "license": "AGPL"}
+{"package_link": "https://pypi.org/pypi/mongostat/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pyrsistent/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/alembic/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-oauth-toolkit/json", "status_code": 200, "license": "Copyright (c) 2013"}
+{"package_link": "https://pypi.org/pypi/django-saml2-auth/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-sortedm2m/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/scrapy-redis/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/eel/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/Flask-Cors/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/cors/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/daemon/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/quartz/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/gherkin/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyobservable/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/fragments/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/xmlschema/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/dataclasses/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/PySwip/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/PySide/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/pydbg/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/python-decouple/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/async-timeout/json", "status_code": 200, "license": "Apache 2"}
+{"package_link": "https://pypi.org/pypi/tensorboard/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/cntk/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/graphviz/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/packaging/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/transaction/json", "status_code": 200, "license": "ZPL 2.1"}
+{"package_link": "https://pypi.org/pypi/pyobjc/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/autofac/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/python-fx/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/webview/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/lightgbm/json", "status_code": 200, "license": "The MIT License (MIT)  Copyright (c) Microsoft Corporation  Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/googletrans/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/slugify/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/html5lib/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/cloudinary/json", "status_code": 200, "license": "Released under the MIT license.  Contains MIT licensed code from https://bitbucket.org/chrisatlee/poster   "}
+{"package_link": "https://pypi.org/pypi/pyzmq/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright (c) 2009-2012"}
+{"package_link": "https://pypi.org/pypi/pyquerystring/json", "status_code": 200, "license": "Fancy query string parsing & application/x-www-form-urlencoded parsing"}
+{"package_link": "https://pypi.org/pypi/csv/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/category_encoders/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-encrypted-settings/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/yagmail/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-kms/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/gpg/json", "status_code": 200, "license": "LGPL2.1+ (the library)"}
+{"package_link": "https://pypi.org/pypi/bson/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/ratelimit/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/faker/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/retrying/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/http/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-firestore/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/firebase-admin/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/google-cloud-functions/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/fcm-django/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pyshorteners/json", "status_code": 200, "license": "GPLv3"}
+{"package_link": "https://pypi.org/pypi/django-fcm/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-firebase/json", "status_code": 200, "license": "BSD 3-Clause License"}
+{"package_link": "https://pypi.org/pypi/httpx/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/pyrebase4/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-assistant-sdk/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pyfcm/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-firebase-auth/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyrebase/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mongoengine/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/marshmallow/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/flask-session/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/flask-paginate/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/flask-wtf/json", "status_code": 200, "license": "Copyright 2010 WTForms  Redistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/flask-bootstrap/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flask-pymongo/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flasgger/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-sqlalchemy/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/passlib/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flask-socketio/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/flask-dance/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/Flask-MongoEngine/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flask-mongoalchemy/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/timeout-decorator/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/Flask-JWT-Extended/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-security/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/flask-mongoengine/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/Flask-Security/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/Flask-Login/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-googlemaps/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/config-py/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/amqp/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/dagger/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/pygame/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/pyandroid/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/uvicorn/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/config_manager/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-uwsgi/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/Docker/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/testcontainers/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/prometheus-client/json", "status_code": 200, "license": "Apache Software License 2.0"}
+{"package_link": "https://pypi.org/pypi/pg8000/json", "status_code": 200, "license": "BSD 3-Clause License"}
+{"package_link": "https://pypi.org/pypi/elasticsearch/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/tzdata/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/kafka-python/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/tabula-py/json", "status_code": 200, "license": "The MIT License (MIT) Copyright (c) 2016 Michiaki Ariga  Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/monotonic/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/html2pdf/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/llist/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/sandbox/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/pyexecjs/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/io/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/moviepy/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pydub/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/six/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pdfkit/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pytpm/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/Flask-SQLAlchemy/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/flask-admin/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pydrive/json", "status_code": 200, "license": "LICENSE"}
+{"package_link": "https://pypi.org/pypi/mongokit/json", "status_code": 200, "license": "New BSD License"}
+{"package_link": "https://pypi.org/pypi/Flask-SocketIO/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/Flask-OAuthlib/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/Flask-Session/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/Flask-Migrate/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/Flask-GoogleLogin/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mongoalchemy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pywebview/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright (c) 2014-2017"}
+{"package_link": "https://pypi.org/pypi/mongomock/json", "status_code": 200, "license": "ISC License\n        \n        Copyright (c) 2024"}
+{"package_link": "https://pypi.org/pypi/flask-mongokit/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flask-appbuilder/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/flask-restful/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/dash-bootstrap-components/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/flask-login/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/Flask-WTF/json", "status_code": 200, "license": "Copyright 2010 WTForms  Redistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/swagger-parser/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-bson/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/eventlet/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-restplus/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/Flask-MongoAlchemy/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/Flask-Mail/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/fpdf/json", "status_code": 200, "license": "LGPLv3+"}
+{"package_link": "https://pypi.org/pypi/Flask-Dance/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/authomatic/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-googlelogin/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/Flask-Restless/json", "status_code": 200, "license": "GNU AGPLv3+ or BSD"}
+{"package_link": "https://pypi.org/pypi/gTTS/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/wfastcgi/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/plotly/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/SQLAlchemy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/requests-oauthlib/json", "status_code": 200, "license": "ISC"}
+{"package_link": "https://pypi.org/pypi/fontconfig/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/fonttools/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyparsing/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-address/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/markdown/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright 2007"}
+{"package_link": "https://pypi.org/pypi/enum/json", "status_code": 200, "license": "GPL-3.0+"}
+{"package_link": "https://pypi.org/pypi/camelot/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/pyautogui/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-comments/json", "status_code": 200, "license": "MIT license"}
+{"package_link": "https://pypi.org/pypi/django-stripe/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/pygls/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/django-redirects/json", "status_code": 200, "license": "MIT License  Copyright (c) 2020-present Fabio Caccamo  Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/wampy/json", "status_code": 200, "license": "Mozilla Public License 2.0"}
+{"package_link": "https://pypi.org/pypi/django-hijack/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-comments-xtd/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pycord/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/parlai/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/github/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-templated-email/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/Check/json", "status_code": 200, "license": "SMPPL"}
+{"package_link": "https://pypi.org/pypi/django-graphql-jwt/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-graphql/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/graphene-django/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/ariadne/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright (c) 2023"}
+{"package_link": "https://pypi.org/pypi/django-import-export/json", "status_code": 200, "license": "Copyright (c) Bojan Mihelac and individual contributors. All rights reserved.  Redistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/python-social-auth/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-graphql-auth/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/algoliasearch/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-gulp/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-sass-processor/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyzbar/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mutagen/json", "status_code": 200, "license": "GPL-2.0-or-later"}
+{"package_link": "https://pypi.org/pypi/google-cloud-dataproc/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/protobuf/json", "status_code": 200, "license": "3-Clause BSD License"}
+{"package_link": "https://pypi.org/pypi/pyhive/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/requests-kerberos/json", "status_code": 200, "license": "ISC License"}
+{"package_link": "https://pypi.org/pypi/try-parse/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/prompt-toolkit/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/tweepy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/email-validator/json", "status_code": 200, "license": "Unlicense"}
+{"package_link": "https://pypi.org/pypi/fire/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/plyer/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/firebase/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pycall/json", "status_code": 200, "license": "UNLICENSE"}
+{"package_link": "https://pypi.org/pypi/PIL/json", "status_code": 200, "license": "Python (MIT style)"}
+{"package_link": "https://pypi.org/pypi/fontTools/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/arabic-reshaper/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/Pyglet/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/tabulate/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/bitstring/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/hex/json", "status_code": 200, "license": "Public Domain"}
+{"package_link": "https://pypi.org/pypi/pyformat/json", "status_code": 200, "license": "Expat License"}
+{"package_link": "https://pypi.org/pypi/ndef/json", "status_code": 200, "license": "zlib/libpng"}
+{"package_link": "https://pypi.org/pypi/humanize/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/iso4217/json", "status_code": 200, "license": "Public Domain"}
+{"package_link": "https://pypi.org/pypi/ujson/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/format/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/forex-python/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/autopep8/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/html.parser/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/voluptuous/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/Pygame/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/fastapi/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/cppyy/json", "status_code": 200, "license": "LBNL BSD"}
+{"package_link": "https://pypi.org/pypi/click/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/pyobs/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/gin/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/pyusb/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/phonenumbers/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/hdfs3/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/stripe/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/heroku/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pgbouncer/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/channels/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/south/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-ratelimit/json", "status_code": 200, "license": "Copyright (c) 2022"}
+{"package_link": "https://pypi.org/pypi/rasterio/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/decouple/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/youtube-dl/json", "status_code": 200, "license": "Unlicense"}
+{"package_link": "https://pypi.org/pypi/weasyprint/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pymupdf/json", "status_code": 200, "license": "GNU AFFERO GPL 3.0"}
+{"package_link": "https://pypi.org/pypi/pywinpty/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-push-notifications/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-hstore/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-favicon/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/PyYAML/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flask-openid/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/braintree/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-modeltranslation/json", "status_code": 200, "license": "New BSD"}
+{"package_link": "https://pypi.org/pypi/django-facebook/json", "status_code": 200, "license": "Copyright (c) Thierry Schellenbach\n\n (http://www.mellowmorning.com)\nAll rights reserved.\n\nRedistribution and use of this software in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/google-cloud-speech/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-websocket/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-auth-ldap/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/future/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-ses/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/brython/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-viewflow/json", "status_code": 200, "license": "AGPL"}
+{"package_link": "https://pypi.org/pypi/plantuml/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/ipywidgets/json", "status_code": 200, "license": "BSD 3-Clause License"}
+{"package_link": "https://pypi.org/pypi/pygments/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/imagehash/json", "status_code": 200, "license": "2-clause BSD License"}
+{"package_link": "https://pypi.org/pypi/importlib-metadata/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pycuda/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/yolov5/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/large_image/json", "status_code": 200, "license": "Apache Software License 2.0"}
+{"package_link": "https://pypi.org/pypi/bing-image-downloader/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/graph-tool/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-pagedown/json", "status_code": 200, "license": "LICENSE.txt"}
+{"package_link": "https://pypi.org/pypi/fuzzywuzzy/json", "status_code": 200, "license": "GPLv2"}
+{"package_link": "https://pypi.org/pypi/ortools/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-elasticsearch-dsl/json", "status_code": 200, "license": "Apache Software License 2.0"}
+{"package_link": "https://pypi.org/pypi/suds/json", "status_code": 200, "license": "(specified using classifiers)"}
+{"package_link": "https://pypi.org/pypi/sorl-thumbnail/json", "status_code": 200, "license": "Copyright (c) 2010"}
+{"package_link": "https://pypi.org/pypi/django-notification/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/jenkinsapi/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-jenkins/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/jenkins-job-builder/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/django-test-utils/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/p4python/json", "status_code": 200, "license": "LICENSE.txt"}
+{"package_link": "https://pypi.org/pypi/django-coverage/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/django-bootstrap3/json", "status_code": 200, "license": "BSD 3-Clause License  Copyright (c) 2017"}
+{"package_link": "https://pypi.org/pypi/paginate/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/recaptcha/json", "status_code": 200, "license": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)"}
+{"package_link": "https://pypi.org/pypi/flask-jwt-extended/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/user-agents/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/py-bcrypt/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/sentry-sdk/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/recaptcha-client/json", "status_code": 200, "license": "MIT/X11"}
+{"package_link": "https://pypi.org/pypi/ldap3/json", "status_code": 200, "license": "LGPL v3"}
+{"package_link": "https://pypi.org/pypi/github-webhooks/json", "status_code": 200, "license": "Unlicense"}
+{"package_link": "https://pypi.org/pypi/github3.py/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/python-git/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/github-api/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/wordcloud/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pygithub/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pipreqs/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/python-telegram-bot/json", "status_code": 200, "license": "LGPL-3.0-only"}
+{"package_link": "https://pypi.org/pypi/gitlab/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/invoke/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/slackclient/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/black/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pygradle/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pydocstyle/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyexec/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/aws-sam-cli/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/graphql-ws/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/graphql-client/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/graphql-core/json", "status_code": 200, "license": "MIT license"}
+{"package_link": "https://pypi.org/pypi/graphql-python/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/graphql/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pyjs/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/pyupgrade/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pysqoop/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/hdfs/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/hbase/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/plist/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/path/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pyhdfs/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyhs2/json", "status_code": 200, "license": "LICENSE.txt"}
+{"package_link": "https://pypi.org/pypi/wagtail/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/select/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/foreman/json", "status_code": 200, "license": "Apache License\n                           Version 2.0"}
+{"package_link": "https://pypi.org/pypi/newrelic/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/discord.py/json", "status_code": 200, "license": "The MIT License (MIT)  Copyright (c) 2015-present Rapptz  Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/jupyterlab/json", "status_code": 200, "license": "Copyright (c) 2015-2024 Project Jupyter Contributors All rights reserved.  Redistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/perl/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/jupyter-notebook/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pydev/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyglet/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/jedi/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/jupyter-console/json", "status_code": 200, "license": "BSD 3-Clause License  - Copyright (c) 2001-2015"}
+{"package_link": "https://pypi.org/pypi/jupyter/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/face_recognition/json", "status_code": 200, "license": "MIT license"}
+{"package_link": "https://pypi.org/pypi/django-po/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-localflavor/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-translation/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-localize/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-i18n/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/structlog/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-logging/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/loggly/json", "status_code": 200, "license": "Apache v2.0"}
+{"package_link": "https://pypi.org/pypi/tornado/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/django-airbrake/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pycrypto/json", "status_code": 200, "license": "Public domain"}
+{"package_link": "https://pypi.org/pypi/colorlog/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-email-log/json", "status_code": 200, "license": "LICENSE"}
+{"package_link": "https://pypi.org/pypi/google-cloud-dialogflow/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/geopandas/json", "status_code": 200, "license": "BSD 3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-polymorphic/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-faker/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-appconf/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/responses/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pytest-mock/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/freezegun/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/factory-boy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mock/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pytest-django/json", "status_code": 200, "license": "pytest-django is released under the BSD (3-clause) license ---------------------------------------------------------- Copyright (c) 2015-2018"}
+{"package_link": "https://pypi.org/pypi/webdriver/json", "status_code": 200, "license": "ApacheV2"}
+{"package_link": "https://pypi.org/pypi/pytest-mongodb/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-mixins/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/attrs/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/jupyter-book/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-markdownx/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-views/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-stdimage/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-dlp/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-csp/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-sse/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/gdown/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/kerberos/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/django-mongodb-engine/json", "status_code": 200, "license": "2-clause BSD"}
+{"package_link": "https://pypi.org/pypi/tesseract-ocr/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/python-barcode/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pytiff/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/cffi/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/solrpy/json", "status_code": 200, "license": "http://opensource.org/licenses/apache2.0.php"}
+{"package_link": "https://pypi.org/pypi/pyPDF2/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/liquibase/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pyvista/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/rpyc/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/distutils/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/zipstream/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/rpy2/json", "status_code": 200, "license": "GPLv2+"}
+{"package_link": "https://pypi.org/pypi/nose2/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/toolz/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/iterators/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/unittest-xml-reporting/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/reportportal-client/json", "status_code": 200, "license": "Apache 2.0."}
+{"package_link": "https://pypi.org/pypi/expect/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyldap/json", "status_code": 200, "license": "Python style"}
+{"package_link": "https://pypi.org/pypi/influx/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/lighthouse/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/kubernetes-client/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/cpp/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/sqlparse/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/pysolve/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/dask/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/deap/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/rtree/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-orm/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/mmdet/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/gevent/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-threadedcomments/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pydbus/json", "status_code": 200, "license": "LGPLv2+"}
+{"package_link": "https://pypi.org/pypi/py-spy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/confluent-kafka/json", "status_code": 200, "license": "############################################################################## # The source distribution of confluent-kafka-python is covered by the        # # Apache 2.0 license.                                                        # ##############################################################################  Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/django-piston/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-pyodbc-azure/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-pg-utils/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-mandrill/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyopencl/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-softdelete/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/PyGObject/json", "status_code": 200, "license": "GNU Lesser General Public License v2.1 (LGPLv2.1)"}
+{"package_link": "https://pypi.org/pypi/inotify/json", "status_code": 200, "license": "GPL 2"}
+{"package_link": "https://pypi.org/pypi/timeout/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-bulk-create/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pymysql/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-readonly/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/Babel/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/pynput/json", "status_code": 200, "license": "LGPLv3"}
+{"package_link": "https://pypi.org/pypi/python-gettext/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/bottleneck/json", "status_code": 200, "license": "Simplified BSD"}
+{"package_link": "https://pypi.org/pypi/pyresx/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/prettyprint/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/tailer/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/flake8/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/z3/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pyvm/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyjdbc/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/PyMySQL/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/mariadb/json", "status_code": 200, "license": "LGPL 2.1"}
+{"package_link": "https://pypi.org/pypi/memory-profiler/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/lz4/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/mpmath/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/migrate/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/migrate/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/wiremock/json", "status_code": 200, "license": "OSI Approved :: Apache Software License"}
+{"package_link": "https://pypi.org/pypi/setuptools_scm/json", "status_code": 200, "license": "Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/mockito/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/python-mock/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/aiomock/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/Flask-HTTPAuth/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/htmlmin/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-pg8000/json", "status_code": 200, "license": "MIT No Attribution"}
+{"package_link": "https://pypi.org/pypi/django-jsonfield/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-locking/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-pglocks/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/cpanel-api/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-db-tools/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-inspectdb/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/scikit-fuzzy/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/neat-python/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/stable-baselines3/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/NumPy/json", "status_code": 200, "license": "Copyright (c) 2005-2024"}
+{"package_link": "https://pypi.org/pypi/scispacy/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/pdfminer.six/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/spaCy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/textblob/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/dialogflow/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pyteaser/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-language/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/python-Levenshtein/json", "status_code": 200, "license": "GPL-2.0-or-later"}
+{"package_link": "https://pypi.org/pypi/gensim/json", "status_code": 200, "license": "LGPL-2.1-only"}
+{"package_link": "https://pypi.org/pypi/sentencepiece/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/autotag/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/cleantext/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/newsapi/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/couchbase/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/pyarango/json", "status_code": 200, "license": "ApacheV2"}
+{"package_link": "https://pypi.org/pypi/jsonpath-rw/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/mongoose/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/linkedin-api/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/authlib/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/oauth2-client/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/oauth2client/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/sympy/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/hyperopt/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/cython/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/benchmark/json", "status_code": 200, "license": "LICENSE.txt"}
+{"package_link": "https://pypi.org/pypi/django-treebeard/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/roman-numerals/json", "status_code": 200, "license": "Simplified BSD License"}
+{"package_link": "https://pypi.org/pypi/pyprolog/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/mpython/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/threadpool/json", "status_code": 200, "license": "MIT license"}
+{"package_link": "https://pypi.org/pypi/pympress/json", "status_code": 200, "license": "GPL-2.0-or-later"}
+{"package_link": "https://pypi.org/pypi/imapclient/json", "status_code": 200, "license": "3-Clause BSD License"}
+{"package_link": "https://pypi.org/pypi/mpi4py/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/atomicwrites/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/volatility/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/glib/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/PyQt4/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/winrt/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyxb/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/kivy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-bulk-update/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-serializer/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-nested-admin/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-choices/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-geoposition/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django.db/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-autoslug/json", "status_code": 200, "license": "GNU Lesser General Public License (LGPL)"}
+{"package_link": "https://pypi.org/pypi/django-prefetch/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/django-annoying/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-sortable/json", "status_code": 200, "license": "GPLv3"}
+{"package_link": "https://pypi.org/pypi/django-patch/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django_comments/json", "status_code": 200, "license": "MIT license"}
+{"package_link": "https://pypi.org/pypi/django-serializers/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pony/json", "status_code": 200, "license": "Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/django-trending/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-common/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-orm-magic/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-relationships/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-db-locks/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pingouin/json", "status_code": 200, "license": "GPL-3.0"}
+{"package_link": "https://pypi.org/pypi/stdeb/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-auth-httplib2/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-sorcery/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/xgboost/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/django-pagination/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django.core/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-el-pagination/json", "status_code": 200, "license": "Copyright (c) 2009-2013 Francesco Banconi Copyright (c) 2015-2024 Oleksandr Shtalinberg  Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/django-datatables-view/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/cloud/json", "status_code": 200, "license": "GNU LGPL"}
+{"package_link": "https://pypi.org/pypi/opml/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/spynner/json", "status_code": 200, "license": "GPL v3.0"}
+{"package_link": "https://pypi.org/pypi/requests-html/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pygooglevoice/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/dxfwrite/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pykml/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/asteval/json", "status_code": 200, "license": "The MIT License  Copyright (c) 2024 Matthew Newville"}
+{"package_link": "https://pypi.org/pypi/parsley/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyrdfa3/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/transliterate/json", "status_code": 200, "license": "GPL 2.0/LGPL 2.1"}
+{"package_link": "https://pypi.org/pypi/prestashop-api/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/django-hvad/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pygogo/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/torchreid/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mps/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/PyQtWebEngine/json", "status_code": 200, "license": "GPL v3"}
+{"package_link": "https://pypi.org/pypi/scons/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyinotify/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/rx/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyprism/json", "status_code": 200, "license": "LICENSE"}
+{"package_link": "https://pypi.org/pypi/pyudev/json", "status_code": 200, "license": "LGPL 2.1+"}
+{"package_link": "https://pypi.org/pypi/pyqtgraph/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/ipaddress/json", "status_code": 200, "license": "Python Software Foundation License"}
+{"package_link": "https://pypi.org/pypi/msgpack/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pybluez/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/stem/json", "status_code": 200, "license": "LGPLv3"}
+{"package_link": "https://pypi.org/pypi/pyModbusTCP/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/netifaces/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/netfilter/json", "status_code": 200, "license": "GPLv3+"}
+{"package_link": "https://pypi.org/pypi/pyrobot/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/keras2onnx/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/theano/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/onnxruntime/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyspellchecker/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/simplification/json", "status_code": 200, "license": "# Blue Oak Model License  Version 1.0.0  ## Purpose  This license gives everyone as much permission to work with this software as possible"}
+{"package_link": "https://pypi.org/pypi/stanfordcorenlp/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pycorenlp/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/vaderSentiment/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/inflect/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/bitarray/json", "status_code": 200, "license": "PSF"}
+{"package_link": "https://pypi.org/pypi/wordnet/json", "status_code": 200, "license": "GNU General Public License v3"}
+{"package_link": "https://pypi.org/pypi/rdflib/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/stanfordnlp/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/simplekv/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/whoosh/json", "status_code": 200, "license": "Two-clause BSD license"}
+{"package_link": "https://pypi.org/pypi/liteDB/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/rethinkdb/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/neo4j/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/tinydb/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/hypothesis/json", "status_code": 200, "license": "MPL-2.0"}
+{"package_link": "https://pypi.org/pypi/python-jose/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/dropbox/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/trie/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/dis/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/cmake/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/PySide6/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/word2number/json", "status_code": 200, "license": "The MIT License (MIT)\r\n\r\nCopyright (c) 2016 Akshay Nagpal (https://github.com/akshaynagpal)\r\n\r\nPermission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/dicttoxml/json", "status_code": 200, "license": "GNU GENERAL PUBLIC LICENSE  Version 2"}
+{"package_link": "https://pypi.org/pypi/django-rabbitmq/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/Celery/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-mongoengine/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-prometheus/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/brukva/json", "status_code": 200, "license": "WTFPL"}
+{"package_link": "https://pypi.org/pypi/django-redis-pubsub/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/sseclient/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/rq/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-socketio/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-regex/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/gcsfs/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/djangorestframework/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-rest-swagger/json", "status_code": 200, "license": "FreeBSD License"}
+{"package_link": "https://pypi.org/pypi/paypalrestsdk/json", "status_code": 200, "license": "PayPal SDK License"}
+{"package_link": "https://pypi.org/pypi/django-throttle/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-countries/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-cloud-natural-language/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/yfinance/json", "status_code": 200, "license": "Apache"}
+{"package_link": "https://pypi.org/pypi/pyloadbalancer/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/rasa/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/connexion/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/html2text/json", "status_code": 200, "license": "GNU GPL 3"}
+{"package_link": "https://pypi.org/pypi/dragonfly/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/python-saml/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-shell/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/ruby/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/hyphenate/json", "status_code": 200, "license": "Public Domain"}
+{"package_link": "https://pypi.org/pypi/PyOpenGL/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pg/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/spotipy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyjnius/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/cssutils/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/gpxpy/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/pyppeteer/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/safety/json", "status_code": 200, "license": "MIT license"}
+{"package_link": "https://pypi.org/pypi/pyupdater/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyworkflow/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/plugin_manager/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/skype4py/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/pyionic/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/Gensim/json", "status_code": 200, "license": "LGPL-2.1-only"}
+{"package_link": "https://pypi.org/pypi/sacremoses/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pyqt5/json", "status_code": 200, "license": "GPL v3"}
+{"package_link": "https://pypi.org/pypi/stackprinter/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pycups/json", "status_code": 200, "license": "GPLv2+"}
+{"package_link": "https://pypi.org/pypi/amqplib/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/html/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-scrapy/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/scrapy-mongodb/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/django-dynamic-scraper/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/scrapy-selenium/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/Scrapy/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-serialize/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/simplejson/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-picklefield/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/haystack/json", "status_code": 200, "license": "GPL"}
+{"package_link": "https://pypi.org/pypi/django-geojson/json", "status_code": 200, "license": "LPGL"}
+{"package_link": "https://pypi.org/pypi/django-profiles/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/natsort/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-sorting/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/colorthief/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pyowm/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyns/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-social-share/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-xadmin/json", "status_code": 200, "license": "Copyright (c) Django Xadmin and individual contributors.\nAll rights reserved.\n\nRedistribution and use in source and binary forms"}
+{"package_link": "https://pypi.org/pypi/django-registration/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-secure/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/django-wizard/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/apache-beam/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/django-tinymce/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/django-imagefield/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/svn/json", "status_code": 200, "license": "GPL 2"}
+{"package_link": "https://pypi.org/pypi/django-compat/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-sidebar/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-cart/json", "status_code": 200, "license": "GNU v3"}
+{"package_link": "https://pypi.org/pypi/django-grouper/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-js-utils/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-nested-inlines/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/lettuce/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/pyredis/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/urlextract/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pytube/json", "status_code": 200, "license": "The Unlicense (Unlicense)"}
+{"package_link": "https://pypi.org/pypi/ply/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pyodata/json", "status_code": 200, "license": "Apache License Version 2.0"}
+{"package_link": "https://pypi.org/pypi/chi/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mux/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/pyroute2/json", "status_code": 200, "license": "GPL-2.0-or-later OR Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/ryu/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/osmnx/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pulp/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/jsmin/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/avro/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/django-nose/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/nose/json", "status_code": 200, "license": "GNU LGPL"}
+{"package_link": "https://pypi.org/pypi/mitmproxy/json", "status_code": 200, "license": "Copyright (c) 2013"}
+{"package_link": "https://pypi.org/pypi/pytest-asyncio/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-locations/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-classy-tags/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/unittest2/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/django-email-template/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/astropy/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/big-O/json", "status_code": 200, "license": "LICENSE.txt"}
+{"package_link": "https://pypi.org/pypi/django-timedelta/json", "status_code": 200, "license": "Unlicense"}
+{"package_link": "https://pypi.org/pypi/timeago/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/elasticsearch-dsl/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/django-test-runner/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/model-mommy/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/pymock/json", "status_code": 200, "license": "free"}
+{"package_link": "https://pypi.org/pypi/django-reversion/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-discover-runner/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pytest-celery/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/pillow/json", "status_code": 200, "license": "MIT-CMU"}
+{"package_link": "https://pypi.org/pypi/django-filebrowser/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/gdata/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/django-ajax-selects/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-filer/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/django-validators/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pyzmail/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/pytest-cov/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/isort/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/ordered-set/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/sorted/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/singleton/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/blackfriday/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/azure-cli/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/parameterized/json", "status_code": 200, "license": "FreeBSD"}
+{"package_link": "https://pypi.org/pypi/pytest-benchmark/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/macaddress/json", "status_code": 200, "license": "0BSD"}
+{"package_link": "https://pypi.org/pypi/validate_email/json", "status_code": 200, "license": "LGPL"}
+{"package_link": "https://pypi.org/pypi/pycanvas/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/google-trends-api/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-images-download/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mechanize/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/goose/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/wikipedia/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google-search-results/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/google/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/google-play-scraper/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/dryscrape/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/newspaper3k/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pdfplumber/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/goutte/json", "status_code": 200, "license": "GPL-3.0+"}
+{"package_link": "https://pypi.org/pypi/ws/json", "status_code": 200, "license": "lgpl"}
+{"package_link": "https://pypi.org/pypi/channels-redis/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/websocket-client/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/django-tornado/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/autobahn/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/socketio/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/pexpect/json", "status_code": 200, "license": "ISC license"}
+{"package_link": "https://pypi.org/pypi/django-websocket-redis/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-private-chat/json", "status_code": 200, "license": "ISCL"}
+{"package_link": "https://pypi.org/pypi/socketio-client/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/polygon-api-client/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/unittest-extensions/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/jsch/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyresample/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/speedtest-cli/json", "status_code": 200, "license": "Apache License"}
+{"package_link": "https://pypi.org/pypi/browsermob-proxy/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/mod_python/json", "status_code": 200, "license": "Copyright [2015] [mod_python/LICENSE]\r\n\r\n   Licensed under the Apache License"}
+{"package_link": "https://pypi.org/pypi/python-xlib/json", "status_code": 200, "license": "LGPLv2+"}
+{"package_link": "https://pypi.org/pypi/schema/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyxerces/json", "status_code": 200, "license": "Apache Software License"}
+{"package_link": "https://pypi.org/pypi/pywinauto/json", "status_code": 200, "license": "BSD 3-clause"}
+{"package_link": "https://pypi.org/pypi/jsoup/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/sanic/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/sockjs-tornado/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/cdata/json", "status_code": 200, "license": "Apache 2.0"}
+{"package_link": "https://pypi.org/pypi/wsme/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/mongo/json", "status_code": 200, "license": "Copyright (c) 2012 Imbolc\n\nPermission to use"}
+{"package_link": "https://pypi.org/pypi/django-remember-me/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/astral/json", "status_code": 200, "license": "Apache-2.0"}
+{"package_link": "https://pypi.org/pypi/retry/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/django-configurations/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/bamboo-api/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/keras-vggface/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-upgrade/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/django-google-analytics/json", "status_code": 200, "license": "GNU General Public License"}
+{"package_link": "https://pypi.org/pypi/django-secrets/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pycsgo/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/splinter/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/luigi/json", "status_code": 200, "license": "Apache License 2.0"}
+{"package_link": "https://pypi.org/pypi/bloomfilter/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/captcha/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/twython/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/open/json", "status_code": 200, "license": "UNKNOWN"}
+{"package_link": "https://pypi.org/pypi/google-analytics/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/django-oscar/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-safedelete/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-evolution/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/django-security/json", "status_code": 200, "license": "BSD-3-Clause"}
+{"package_link": "https://pypi.org/pypi/signal/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/gobject/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/pyshark/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/tf-data/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/gym/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/category-encoders/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/BioPython/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/qml/json", "status_code": 200, "license": ""}
+{"package_link": "https://pypi.org/pypi/djangorestframework-swagger/json", "status_code": 200, "license": "BSD"}
+{"package_link": "https://pypi.org/pypi/djangorestframework-simplejwt/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/tempita/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/python-socketio/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/imageio/json", "status_code": 200, "license": "BSD-2-Clause"}
+{"package_link": "https://pypi.org/pypi/dependency_injector/json", "status_code": 200, "license": "Copyright (c) 2024"}
+{"package_link": "https://pypi.org/pypi/ifcopenshell/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/python-requirements/json", "status_code": 200, "license": "MIT License"}
+{"package_link": "https://pypi.org/pypi/pyvim/json", "status_code": 200, "license": "BSD License"}
+{"package_link": "https://pypi.org/pypi/parse/json", "status_code": 200, "license": "Copyright (c) 2012-2019 Richard Jones <richard@python.org>  Permission is hereby granted"}
+{"package_link": "https://pypi.org/pypi/plugin_system/json", "status_code": 200, "license": "MIT"}
+{"package_link": "https://pypi.org/pypi/torch-geometric/json", "status_code": 200, "license": null}
+{"package_link": "https://pypi.org/pypi/tensorboardx/json", "status_code": 200, "license": "MIT license"}
