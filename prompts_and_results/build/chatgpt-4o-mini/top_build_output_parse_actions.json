@@ -1,0 +1,516 @@
+{"action": "actions/checkout", "versions": ["v2", "v3"]}
+{"action": "actions/upload-artifact", "versions": ["v3", "v2", "v1", "latest"]}
+{"action": "actions/setup-node", "versions": ["v2", "v3", "v1", "v2.1.2"]}
+{"action": "actions/setup-python", "versions": ["v2", "v4", "v3"]}
+{"action": "actions/setup-go", "versions": ["v2"]}
+{"action": "softprops/action-gh-release", "versions": ["v1"]}
+{"action": "ruby/setup-ruby", "versions": ["v1"]}
+{"action": "peaceiris/actions-gh-pages", "versions": ["v3", "v3.8.0"]}
+{"action": "docker/setup-buildx-action", "versions": ["v1", "v2", "v1.3.0"]}
+{"action": "actions/setup-java", "versions": ["v2", "v1", "v3"]}
+{"action": "actions/setup-dotnet", "versions": ["v1", "v2", "v3", "v2.5.0"]}
+{"action": "actions/cache", "versions": ["v2", "v3", "v1"]}
+{"action": "actions/setup-perl", "versions": ["v1"]}
+{"action": "actions/setup-xcode", "versions": ["v1", "v2"]}
+{"action": "codecov/codecov-action", "versions": ["v2", "v1", "v3"]}
+{"action": "jwlawrence/actions-cmake", "versions": ["v2.3.0"]}
+{"action": "shivammathur/setup-php", "versions": ["v2", "master", "2"]}
+{"action": "actions/download-artifact", "versions": ["v2", "v3"]}
+{"action": "peter-evans/slack-github-action", "versions": ["v1", "v1.0.0"]}
+{"action": "marocchino/sticky-pull-request-comment", "versions": ["v2", "v2.0.0"]}
+{"action": "microsoft/setup-msbuild", "versions": ["v1.1", "v1", "v1.0.2", "v1.0.3", "v1.0.1", "v1.0.0"]}
+{"action": "actions-ecosystem/action-add-labels", "versions": ["v1", "v1.1.0"]}
+{"action": "peter-evans/slash-command-dispatch", "versions": ["v2"]}
+{"action": "actions/setup-pwsh", "versions": ["v2", "v1"]}
+{"action": "SamKirkland/FTP-Deploy-Action", "versions": ["4.1.0", "4.1.1", "v4.1.0", "4.2.1", "4.0.0"]}
+{"action": "akhileshns/heroku-deploy", "versions": ["v3.10.8", "v4.1.9", "v3.13.9", "v2.9.0", "v3.12.10", "v3.11.10", "v3.11.9", "v3.14.11", "v3.13.7", "v3.11.4", "v3.9.8", "v3.9.9", "v3.13.10", "v3.12.9", "v3.11.0", "v3.11.7", "v3.0.0", "v3.8.11", "v3.10.10", "v3.11.2", "v3.9.0", "v3.14.9", "v3.16.10", "v3.11.5", "v3.14.1", "v3.9.6"]}
+{"action": "peter-evans/repository-dispatch", "versions": ["v2", "v1"]}
+{"action": "webfactory/ssh-agent", "versions": ["v0.5.3", "v0.6.0", "v0.5.4"]}
+{"action": "slackapi/slack-github-action", "versions": ["v1.19.0", "v1.22.0", "v1.18.0", "v1.23.0", "v1.0.0", "v1.21.0", "v1.4.0", "v1.1.0"]}
+{"action": "JamesIves/github-pages-deploy-action", "versions": ["4.1.4", "4.3.9", "v4.1.4", "v4.3.0", "4.4.0", "4.3.5", "4.1.1", "4.3.1", "4.2.1", "4.1.2", "4.3.0", "v4.4.2", "4.0.0", "4.1.5", "4.1.0"]}
+{"action": "android-actions/setup-android", "versions": ["v2"]}
+{"action": "actions/setup-powershell", "versions": ["v2", "v1"]}
+{"action": "aws-actions/configure-aws-credentials", "versions": ["v1", "v2"]}
+{"action": "docker/login-action", "versions": ["v1", "v2"]}
+{"action": "octokit/create-repo", "versions": ["v2"]}
+{"action": "shivammathur/setup-perl", "versions": ["v1", "v2"]}
+{"action": "fikovnik/teams-notifier", "versions": ["v1"]}
+{"action": "peter-evans/close-issue", "versions": ["v2"]}
+{"action": "jwlawson/actions-setup-cmake", "versions": ["v1", "v1.7", "v1.9"]}
+{"action": "peter-evans/slack-notify", "versions": ["v2", "v1.1.1"]}
+{"action": "cli/cli", "versions": ["latest", "v2", "v2.12.0", "v2.19.2", "v2.23.0/cli-action", "v3"]}
+{"action": "microsoft/setup-dotnet", "versions": ["v1"]}
+{"action": "azure/login", "versions": ["v1"]}
+{"action": "actions/setup-msbuild", "versions": ["v1", "v1.0.2", "v1.1"]}
+{"action": "actions/github-script", "versions": ["v6", "v4", "v5", "v3", "0.9.0"]}
+{"action": "styfle/cancel-workflow-action", "versions": ["0.9.0"]}
+{"action": "fivemat/xcode-build", "versions": ["v1.0"]}
+{"action": "azure/webapps-deploy", "versions": ["v2"]}
+{"action": "tcrundall/setup-xcode", "versions": ["v1"]}
+{"action": "SonarSource/sonarcloud-github-action", "versions": ["v1.4.0", "v1.0.0", "v1", "master", "v1.3"]}
+{"action": "get-notify/action", "versions": ["v1"]}
+{"action": "actions/setup-jdk", "versions": ["v1"]}
+{"action": "google-github-actions/setup-gcloud", "versions": ["v0.2.0", "v2", "master", "v0", "v0.2.2", "v0.2.1", "v4", "v3", "v1", "v0.2.4"]}
+{"action": "actions/setup-cpp", "versions": ["v1", "v2"]}
+{"action": "peter-evans/workflow-dispatch", "versions": ["v1"]}
+{"action": "peter-evans/create-pull-request", "versions": ["v3", "v4"]}
+{"action": "release-drafter/release-drafter", "versions": ["v5"]}
+{"action": "dawidd6/action-send-mail", "versions": ["v3", "v3.1.0", "v3.0.0"]}
+{"action": "peter-evans/github-action-comment", "versions": ["v1"]}
+{"action": "docker/build-push-action", "versions": ["v2", "v3", "v1", "v4"]}
+{"action": "peter-evans/create-issue", "versions": ["v2"]}
+{"action": "s4u/setup-maven", "versions": ["v1"]}
+{"action": "Azure/webapps-deploy", "versions": ["v2"]}
+{"action": "peter-evans/merge-pull-request", "versions": ["v3", "v4", "v5", "v2", "v1"]}
+{"action": "some/notification-action", "versions": ["v1"]}
+{"action": "harmon758/postgresql-action", "versions": ["v1", "v1.1.0"]}
+{"action": "soapdog/coverage-action", "versions": ["v1"]}
+{"action": "setup-msbuild/setup-msbuild", "versions": ["v1"]}
+{"action": "peter-evans/create-issue-from-file", "versions": ["v3"]}
+{"action": "Actions/setup-java", "versions": ["v2"]}
+{"action": "dawidd6/action-sendgrid-action", "versions": ["v1"]}
+{"action": "coverallsapp/github-action", "versions": ["v1.0.2", "v1", "v1.1.0"]}
+{"action": "r-lib/actions/setup-r", "versions": ["v2", "v1"]}
+{"action": "Harmon758/postgresql-action", "versions": ["v2"]}
+{"action": "peter-evans/comment", "versions": ["v1", "v2"]}
+{"action": "einaregilsson/beanstalk-deploy", "versions": ["v20", "v19"]}
+{"action": "coinmarketcap/action-composer", "versions": ["v2"]}
+{"action": "svn-tools/svn-checkout", "versions": ["v1"]}
+{"action": "hashicorp/setup-terraform", "versions": ["v2", "v1", "v2.0.0"]}
+{"action": "peterjuras/trigger-workflow-dispatch", "versions": ["v1"]}
+{"action": "appleboy/scp-action", "versions": ["master", "v0.1.4", "v0.1.2", "v0.1.5", "v0.1.6", "v0.1.3", "v0.1.7", "v0.1.1"]}
+{"action": "appleboy/jenkins-action", "versions": ["v1"]}
+{"action": "BlazeMeter/BlazeMeter-Github-Actions", "versions": ["v1"]}
+{"action": "hashicorp/setup-packer", "versions": ["v1"]}
+{"action": "azure/setup-cli", "versions": ["v1"]}
+{"action": "benc-uk/workflow-dispatch", "versions": ["v1"]}
+{"action": "NuGet/setup-nuget", "versions": ["v1", "v1.0.0"]}
+{"action": "sonarsource/sonarcloud-github-action", "versions": ["v1.5", "master", "v1", "v1.0.0"]}
+{"action": "Ilshidur/action-slack", "versions": ["v2"]}
+{"action": "dawidd6/action-install-ansible", "versions": ["v1"]}
+{"action": "cli/cli-action", "versions": ["v2", "v2.2.0", "v1.0.0", "v1"]}
+{"action": "kentaro-m/assign-pull-request-reviewers", "versions": ["v1.2.0"]}
+{"action": "shivammathur/php-install", "versions": ["v2"]}
+{"action": "repo-sync/github-sync", "versions": ["v2", "v3.1.0"]}
+{"action": "qt/qt-actions/setup-qt", "versions": ["v2.0.0"]}
+{"action": "assets/create-release", "versions": ["v1"]}
+{"action": "peter-evans/slack-send", "versions": ["v1"]}
+{"action": "peter-evans/commit-comment", "versions": ["v1", "v2"]}
+{"action": "shivammathur/php-action", "versions": ["v2", "v2.0.0", "v1"]}
+{"action": "maxis112358/setup-xcode", "versions": ["v1.3"]}
+{"action": "actions/setup-ruby", "versions": ["v2", "v1"]}
+{"action": "pwsh/setup-pwsh", "versions": ["v1", "v2"]}
+{"action": "svn-action/checkout", "versions": ["v1"]}
+{"action": "macos-setup/xcode", "versions": ["latest"]}
+{"action": "symfony/mysql-action", "versions": ["v1"]}
+{"action": "peter-evans/create-or-update-comment", "versions": ["v1", "v2"]}
+{"action": "peter-evans/comment ", "versions": ["v1"]}
+{"action": "mohit-rajput/sendgrid-action", "versions": ["v1.2"]}
+{"action": "subosito/ios-ci-action", "versions": ["v2.2.0"]}
+{"action": "mikeal/publish-to-github-action", "versions": ["master", "v1.0.0"]}
+{"action": "subosito/publish-from-macos", "versions": ["v1"]}
+{"action": "discord/discord-webhook", "versions": ["v1"]}
+{"action": "actions/create-release", "versions": ["v1"]}
+{"action": "actions/upload-release-asset", "versions": ["v1"]}
+{"action": "8398a7/action-slack", "versions": ["v3"]}
+{"action": "peter-evans/move-issue", "versions": ["v2"]}
+{"action": "jwlawrence/action-cmake", "versions": ["v1.0.1", "v1.0"]}
+{"action": "aws-actions/configure-aws-cli", "versions": ["v1"]}
+{"action": "pyenv/pyenv-action", "versions": ["v1"]}
+{"action": "subversion/svn", "versions": ["v1"]}
+{"action": "subosito/actions-xcode", "versions": ["v2"]}
+{"action": "peter-evans/close-pull-request", "versions": ["v1", "v3"]}
+{"action": "dart-lang/setup-dart", "versions": ["v2", "v1"]}
+{"action": "octokit/create-repository", "versions": ["v2"]}
+{"action": "appleboy/ssh-action", "versions": ["master", "v0.1.4", "v0.1.2", "v0.1.5", "v0.1.9", "v0.1.3", "v0.1.10", "v0.1.0"]}
+{"action": "mohitchechi/sendmail", "versions": ["v1"]}
+{"action": "subosito/dart-action", "versions": ["v2", "v2.2.0"]}
+{"action": "adopat/pyenv-action", "versions": ["v2"]}
+{"action": "stefan-gerschefski/send-mail", "versions": ["master"]}
+{"action": "DeLaGuardo/setup-clojure", "versions": ["v1"]}
+{"action": "ad-m/github-push", "versions": ["v0.6.0"]}
+{"action": "unityci/setup-android", "versions": ["v2"]}
+{"action": "applesander/ftp-deploy", "versions": ["v2.0.4"]}
+{"action": "malahayati/setup-android", "versions": ["v1"]}
+{"action": "maxim-lobanov/setup-xcode", "versions": ["v1", "v2.0.0"]}
+{"action": "xu-cheng/setup-xcode", "versions": ["v2"]}
+{"action": "maxim-len/setup-xcode", "versions": ["v1"]}
+{"action": "choco/install", "versions": ["v1.0.0"]}
+{"action": "microsoft/test-result", "versions": ["v0.1.0"]}
+{"action": "theqtcompany/setup-qt", "versions": ["v2", "v3", "v1"]}
+{"action": "mathworks/matlab-action", "versions": ["v1"]}
+{"action": "erlang/setup-erlang", "versions": ["v1"]}
+{"action": "subosito/checkout-xcode", "versions": ["v2"]}
+{"action": "softprops/action-gh-pr", "versions": ["v0.1.0"]}
+{"action": "olafurpg/setup-scala", "versions": ["v12"]}
+{"action": "ymlion/sql-server-docker", "versions": ["v1"]}
+{"action": "nuget/setup-nuget", "versions": ["v1", "v1.0.0"]}
+{"action": "azure/setup-azure-cli", "versions": ["v1"]}
+{"action": "docker/setup-qemu-action", "versions": ["v2", "v1"]}
+{"action": "shivammathur/actions-php", "versions": ["v2"]}
+{"action": "mysql-actions/setup-mysql", "versions": ["v1"]}
+{"action": "actions/artifact", "versions": ["v3", "v2"]}
+{"action": "subosito/flutter-action", "versions": ["v2", "v2.0.0", "v2.0.1", "v2.2.1"]}
+{"action": "github-release/github-release", "versions": ["v1"]}
+{"action": "postgres-action/setup-postgres", "versions": ["v2"]}
+{"action": "burnett01/action-discord", "versions": ["v1"]}
+{"action": "azure/cli", "versions": ["v1"]}
+{"action": "dawidd6/action-test-reporter", "versions": ["v1"]}
+{"action": "pwsh/pwsh", "versions": ["v2", "v1"]}
+{"action": "shivammathur/php", "versions": ["v2"]}
+{"action": "snyk/actions/github-action", "versions": ["master"]}
+{"action": "actions-ecosystem/action-comment", "versions": ["v1"]}
+{"action": "amondnet/vercel-action", "versions": ["v20", "v20.3.3", "v20.4.0", "v20.0.0"]}
+{"action": "aws-actions/aws-cloudformation-github-deploy", "versions": ["v1"]}
+{"action": "rkh/vagrant-action", "versions": ["v2"]}
+{"action": "jakejarvis/s3-sync-action", "versions": ["0.5.0", "v0.5.1", "master", "0.5.1", "0.5.7", "v0.5.0"]}
+{"action": "jekyll/jekyll-action", "versions": ["v2", "v2.0.0"]}
+{"action": "jakejarvis/wait-for-postgres", "versions": ["v1"]}
+{"action": "maxim-l/xcpretty-action", "versions": ["v1"]}
+{"action": "r0adkll/upload-google-play", "versions": ["v1"]}
+{"action": "snyk/actions/docker", "versions": ["master"]}
+{"action": "aquasecurity/trivy-action", "versions": ["master"]}
+{"action": "malinskiy/action-android", "versions": ["v1"]}
+{"action": "reviewer-bot/add-reviewer", "versions": ["v1"]}
+{"action": "maxheld83/setup-xcode", "versions": ["v1"]}
+{"action": "azure/setup-azure", "versions": ["v1", "v2"]}
+{"action": "nuget/nuget-publish", "versions": ["v1"]}
+{"action": "maxim-lian/setup-xcode", "versions": ["v1"]}
+{"action": "mysql/setup-mysql", "versions": ["v1"]}
+{"action": "shivam010/php-setup", "versions": ["v1"]}
+{"action": "webfactory/ssh-client", "versions": ["v0.5.3"]}
+{"action": "some/slack-notification-action", "versions": ["v1"]}
+{"action": "gradle/gradle-build-action", "versions": ["v2"]}
+{"action": "microsoft/test-results", "versions": ["v2"]}
+{"action": "peter-evans/reply-to-comment", "versions": ["v1"]}
+{"action": "akhileshns/scp-action", "versions": ["v2"]}
+{"action": "actions-rs/toolchain", "versions": ["v1"]}
+{"action": "hmarr/auto-approve-action", "versions": ["v2.0.0", "v2"]}
+{"action": "GoogleCloudPlatform/github-actions/setup-gcloud", "versions": ["v0.2.0", "v0.2"]}
+{"action": "appleboy/app-store-upload-action", "versions": ["v1.0.0"]}
+{"action": "aws-actions/amazon-ecr-login", "versions": ["v1", "v1.0.0"]}
+{"action": "aws-actions/amazon-ecs-update-service", "versions": ["v1"]}
+{"action": "aws-actions/amazon-ecs-describe-service", "versions": ["v1"]}
+{"action": "microsoft/appcenter-action", "versions": ["v1"]}
+{"action": "peter-evans/repo-syncer", "versions": ["v1"]}
+{"action": "ncipollo/release-action", "versions": ["v1"]}
+{"action": "ansible/ansible-playbook-action", "versions": ["v1.0.0"]}
+{"action": "microsoft/setup-sql-server", "versions": ["v1", "v2"]}
+{"action": "fawick/setup-stack", "versions": ["v1"]}
+{"action": "actions/setup-gcc", "versions": ["v1"]}
+{"action": "peter-evans/auto-merge", "versions": ["v2", "v2.0.1"]}
+{"action": "octokit/request-action", "versions": ["v2", "v2.x", "v2.0.1"]}
+{"action": "SamKirkland/sftp-deploy", "versions": ["master", "v4.0.0"]}
+{"action": "wzieba/Firebase-Hosting-Github-Action", "versions": ["v2.0.0", "v1.3.0"]}
+{"action": "maxim-l/ios-simulator-run", "versions": ["v2"]}
+{"action": "scp-action/scp-action", "versions": ["v0.7.3"]}
+{"action": "perp4/checkout-perforce", "versions": ["v1"]}
+{"action": "fwal/setup-swift", "versions": ["v1"]}
+{"action": "NVIDIA/setup-gpu", "versions": ["v1"]}
+{"action": "github/codeql-action/analyze", "versions": ["v2"]}
+{"action": "redhat-actions/openshift-login", "versions": ["v1"]}
+{"action": "tgns-io/test-results-action", "versions": ["v1"]}
+{"action": "Azure/pipelines", "versions": ["v1"]}
+{"action": "akhilmhdh/heroku-cli-action", "versions": ["v1.2"]}
+{"action": "chrislacy/setup-winrm", "versions": ["v1"]}
+{"action": "peter-evans/github-script", "versions": ["v3", "v4"]}
+{"action": "salesforcecli/setup", "versions": ["v1"]}
+{"action": "The-Compiler/qt-actions", "versions": ["v2"]}
+{"action": "Azure/setup-azure-cli", "versions": ["v1", "v2"]}
+{"action": "mathieudutour/github-tag-action", "versions": ["v2"]}
+{"action": "some-notification-action ", "versions": ["v1"]}
+{"action": "peterjgrainger/action-status", "versions": ["v1"]}
+{"action": "mohitk05/send-email", "versions": ["v1"]}
+{"action": "pwsh/installer", "versions": ["v0.2.0", "v1"]}
+{"action": "reactions/setup-android-sdk", "versions": ["v1"]}
+{"action": "dawidd6/action-sendgrid", "versions": ["v1.0.0", "v1", "v3"]}
+{"action": "dawidd6/action-sendmail", "versions": ["v1.1.0"]}
+{"action": "jwlawson/actions-setup-xcode", "versions": ["v1"]}
+{"action": "haskell/actions/setup-ghc", "versions": ["v1"]}
+{"action": "harmon758/postgres-action", "versions": ["v2.1.0"]}
+{"action": "xcpretty/xcpretty-action", "versions": ["v1"]}
+{"action": "pwsh/pwsh-with-scripts", "versions": ["v1"]}
+{"action": "mono/mono-build", "versions": ["v2"]}
+{"action": "mongo/setup", "versions": ["v2"]}
+{"action": "aws-actions/ecs-update-service", "versions": ["v1"]}
+{"action": "pnp/pnp-action", "versions": ["v2"]}
+{"action": "tirozzi/assign-reviewers-action", "versions": ["v1"]}
+{"action": "JamesIArmes/github-pages", "versions": ["v1"]}
+{"action": "dorny/test-reporter", "versions": ["v1"]}
+{"action": "GitHubSuperFund/secret-check", "versions": ["v2"]}
+{"action": "matlab-actions/setup-matlab", "versions": ["v1", "v2"]}
+{"action": "azure/setup-kubectl", "versions": ["v1", "v2"]}
+{"action": "game-ci/unity-builder", "versions": ["v2", "v2.0.11"]}
+{"action": "r0mmel/actions-android-sdk", "versions": ["v1"]}
+{"action": "akhilmhdh/heroku-deploy", "versions": ["v2.1.1"]}
+{"action": "azure/publish-module", "versions": ["v1"]}
+{"action": "peaceiris/actions-hugo", "versions": ["v2.9.3", "v2"]}
+{"action": "game-ci/unity-action", "versions": ["v2"]}
+{"action": "mkdecker/sendmail", "versions": ["v1"]}
+{"action": "Devever/clojure-action", "versions": ["v1.0.0"]}
+{"action": "google-github-actions/upload-cloud-storage", "versions": ["v0", "v0.1.1"]}
+{"action": "cheusov/cloudfront-invalidate-action", "versions": ["v1"]}
+{"action": "andymc42/test-results-action", "versions": ["v1"]}
+{"action": "Github-Users/github-inject-variables", "versions": ["v1"]}
+{"action": "conda-incubator/setup-miniconda", "versions": ["v2"]}
+{"action": "wzieba/Firebase-Distribution-Github-Action", "versions": ["v1"]}
+{"action": "some-action/example", "versions": ["v1"]}
+{"action": "unsplash/comment", "versions": ["v1"]}
+{"action": "bazelbuild/setup-bazel", "versions": ["v2"]}
+{"action": "Wisewiz/setup-wix", "versions": ["v1"]}
+{"action": "shared-actions/trigger-workflow", "versions": ["v1.0.1"]}
+{"action": "peter-evans/workflow-call", "versions": ["v1"]}
+{"action": "JamesIArmes/github-pages-deploy-action", "versions": ["4.1.5", "v4.1.3", "4.1.2", "4.2.3", "4.1.0", "4.1.6", "4.2.2", "master"]}
+{"action": "bazelbuild/setup-bazel-action", "versions": ["v2", "v1"]}
+{"action": "Azure/login", "versions": ["v1"]}
+{"action": "azure/functions-action", "versions": ["v1"]}
+{"action": "peter-evans/slack-github-actions", "versions": ["v1"]}
+{"action": "peter-evans/create-or-update-issue", "versions": ["v3"]}
+{"action": "jfrog/setup-jfrog-cli", "versions": ["v1"]}
+{"action": "jest-community/jest-junit", "versions": ["v2"]}
+{"action": "pullreminders/actions/create-pull-request", "versions": ["v2"]}
+{"action": "github/codeql-action/autobuild", "versions": ["v2"]}
+{"action": "peter-evans/slash-commands-action", "versions": ["v2"]}
+{"action": "peter-evans/close-pull-requests", "versions": ["v3"]}
+{"action": "OctopusDeploy/octopus-cli-action", "versions": ["v1.7.0"]}
+{"action": "aws-actions/aws-codepipeline-trigger", "versions": ["v1"]}
+{"action": "reviewdog/reviewdog", "versions": ["v1"]}
+{"action": "github/codeql-action/upload-sarif", "versions": ["v1"]}
+{"action": "azure/setup-aks", "versions": ["v1"]}
+{"action": "actions/stale", "versions": ["v5", "v6"]}
+{"action": "gr2m/github-action-comment", "versions": ["v2"]}
+{"action": "peter-evans/request-review", "versions": ["v1"]}
+{"action": "azure/setup-helm", "versions": ["v1", "v2"]}
+{"action": "peter-evans/create-status", "versions": ["v1"]}
+{"action": "gameci/unity-action", "versions": ["v2"]}
+{"action": "shivammathur/actions-setup-php", "versions": ["v2"]}
+{"action": "fivetanley/setup-xcode", "versions": ["v2"]}
+{"action": "workflow-cli/action-pr-comment", "versions": ["v1"]}
+{"action": "aws-actions/s3-sync", "versions": ["v0.0.8", "v0.4.0"]}
+{"action": "aws-actions/aws-cli-action", "versions": ["v1"]}
+{"action": "game-ci/unity-build", "versions": ["v2"]}
+{"action": "Azure/devops-cli-action", "versions": ["v0.1.0"]}
+{"action": "peter-evans/comments", "versions": ["v1", "v2"]}
+{"action": "shufo/ssh-publish-action", "versions": ["v0.3.0"]}
+{"action": "akhileshns/heroku-cli-action", "versions": ["v1.1.1", "v2.3.1", "v2.1.0"]}
+{"action": "hmarr/auto-assign", "versions": ["v2"]}
+{"action": "unsplash/rate-limit-action", "versions": ["v1.0.2"]}
+{"action": "erlef/setup-elixir", "versions": ["v1"]}
+{"action": "actions/setup-haskell", "versions": ["v1", "v2"]}
+{"action": "actions/setup-rust", "versions": ["v1"]}
+{"action": "msys2/setup-miniconda", "versions": ["v2"]}
+{"action": "himdel/junit-report-action", "versions": ["v1"]}
+{"action": "octokit/create-applied-repository", "versions": ["v1"]}
+{"action": "mikebye/test-results", "versions": ["v1"]}
+{"action": "SonarSource/sonar-scanner-github-action", "versions": ["v1.2.0"]}
+{"action": "ocaml/setup-ocaml", "versions": ["v1"]}
+{"action": "conda/conda", "versions": ["v1", "v2"]}
+{"action": "dawidjalon/SendMail", "versions": ["v1.0"]}
+{"action": "mich-aziz/action-complete-workflow", "versions": ["v1"]}
+{"action": "hashicorp/setup-vagrant", "versions": ["v1"]}
+{"action": "Azure/functions-action", "versions": ["v1"]}
+{"action": "mikeal/publish-test-results", "versions": ["v1"]}
+{"action": "app-actions/add-reviewer", "versions": ["v1"]}
+{"action": "sonarsource/sonarcloud-action", "versions": ["master"]}
+{"action": "peter-evans/draft-pull-request", "versions": ["v1"]}
+{"action": "peter-evans/review-request", "versions": ["v1"]}
+{"action": "mikehaertl/php-env", "versions": ["v1"]}
+{"action": "thomason802/coveralls-action", "versions": ["v2"]}
+{"action": "webutils/ssh-key", "versions": ["v1"]}
+{"action": "rocker/r-ver", "versions": ["latest"]}
+{"action": "actions/labeler", "versions": ["v2"]}
+{"action": "imranismail/setup-helm", "versions": ["v1.2.0", "v1"]}
+{"action": "azure/logic-apps-action", "versions": ["v1"]}
+{"action": "azure/pipelines", "versions": ["v1.0.0"]}
+{"action": "ad-m/github-push-action", "versions": ["v0.6.0"]}
+{"action": "jakejarvis/cloudfront-invalidate-action", "versions": ["0.1.0"]}
+{"action": "docker/build-push-actions/build-and-push", "versions": ["v2"]}
+{"action": "someorg/code-scanner", "versions": ["v1"]}
+{"action": "azure/CLI", "versions": ["v1"]}
+{"action": "microsoft/setup-sqlcmd", "versions": ["v1"]}
+{"action": "configurations/xcode", "versions": ["v1"]}
+{"action": "fjogeleit/http-request-action", "versions": ["v1.5.0", "v1.4.0", "v1.1.1", "v1.1.0"]}
+{"action": "pulll-evaluate/comment", "versions": ["v1"]}
+{"action": "owner/repo", "versions": ["${{ env.latest_tag }}"]}
+{"action": "sahilm/xvfb-action", "versions": ["v1"]}
+{"action": "some-external/action", "versions": ["v1"]}
+{"action": "pyenv/pyenv-installer", "versions": ["master"]}
+{"action": "yoanlc/r-action", "versions": ["v1"]}
+{"action": "joshuaavalon/setup-oc", "versions": ["v1.0.0"]}
+{"action": "actions/http-client", "versions": ["v1", "v1.0.11"]}
+{"action": "Appleboy/scp-action", "versions": ["master"]}
+{"action": "xcpretty/action", "versions": ["v1"]}
+{"action": "imranbarza/setup-kubeconfig", "versions": ["v1"]}
+{"action": "eyeore/pull-request-comment", "versions": ["v1"]}
+{"action": "webfaction/ssh", "versions": ["v2"]}
+{"action": "imranismail/setup-kubectl", "versions": ["v1"]}
+{"action": "shivammathur/setup-python", "versions": ["v2"]}
+{"action": "actions/junit-report", "versions": ["v1"]}
+{"action": "jwlawson/actions/setup-cmake", "versions": ["v1"]}
+{"action": "pullreminders/pullreminders-github-action", "versions": ["v1"]}
+{"action": "actions/setup-r", "versions": ["v2"]}
+{"action": "swift-ci/setup-swift", "versions": ["v1"]}
+{"action": "msys2/setup-msys2", "versions": ["v2"]}
+{"action": "wzieba/Firebase-Hosting-Action", "versions": ["v2.2.0", "v2.0.0"]}
+{"action": "FirebaseExtended/action-hosting-deploy", "versions": ["v0"]}
+{"action": "google-kubernetes-actions/setup-kaniko", "versions": ["v2"]}
+{"action": "Azure/webapps-github-actions", "versions": ["v2"]}
+{"action": "einaregilsson/ecs-deploy", "versions": ["v1.1.0"]}
+{"action": "webnpm/action-ssh", "versions": ["v0.4.0"]}
+{"action": "goanpeca/setup-miniconda", "versions": ["v2.0.0", "v2"]}
+{"action": "subosito/Dart-Action", "versions": ["v2.0.1"]}
+{"action": "haskell/actions/setup-haskell", "versions": ["v1"]}
+{"action": "actions/setup-swift", "versions": ["v1.1.0", "v1"]}
+{"action": "dhis2/android-sdk-action", "versions": ["v1.0.0"]}
+{"action": "awact/elastic-beanstalk-action", "versions": ["v1"]}
+{"action": "peter-evans/auto-label", "versions": ["v2"]}
+{"action": "assets/github-release", "versions": ["v1"]}
+{"action": "nwtgck/actions-netlify", "versions": ["v1.1.0", "v1.2.2"]}
+{"action": "unsplash/action-checkstyle", "versions": ["v1"]}
+{"action": "Azure/setup-azure", "versions": ["v1"]}
+{"action": "thollander/actions-comment", "versions": ["v1"]}
+{"action": "actions/upload-Artifact", "versions": ["v3"]}
+{"action": "pwsh/pwsh-setup", "versions": ["v1"]}
+{"action": "w9jds/firebase-action", "versions": ["v0.2.0"]}
+{"action": "peter-evans/project-automation", "versions": ["v2"]}
+{"action": "macops/setup-xcode", "versions": ["v1"]}
+{"action": "dawidd6/action-kaniko-build", "versions": ["v1"]}
+{"action": "dawidd6/action-kaniko-push", "versions": ["v1"]}
+{"action": "nciehoff/upload-release-asset", "versions": ["v1.0.0"]}
+{"action": "aws-actions/aws-codebuild-run-build", "versions": ["v1"]}
+{"action": "peter-evans/request-changes", "versions": ["v1"]}
+{"action": "peaceiris/actions-gh-release", "versions": ["v1"]}
+{"action": "renovatebot/github-action", "versions": ["v32.45.0"]}
+{"action": "aws-actions/aws-lambda-publish", "versions": ["v1"]}
+{"action": "aws-amplify/amplify-cli-action", "versions": ["v2.0.0"]}
+{"action": "esp-idf/setup-esp-idf", "versions": ["v1"]}
+{"action": "sshbaker/sftp", "versions": ["v1.1.0"]}
+{"action": "samkirkland/ftp-deploy-action", "versions": ["3.1.1"]}
+{"action": "warrenbuckley/install-msdeploy", "versions": ["v1.0.2"]}
+{"action": "cachix/install-nix-action", "versions": ["v14"]}
+{"action": "matlab/matlab-action", "versions": ["v1"]}
+{"action": "andstor/file-copy-action", "versions": ["v2.1.0"]}
+{"action": "julia-actions/setup-julia", "versions": ["v1"]}
+{"action": "aws-actions/codepipeline", "versions": ["v1.0.0"]}
+{"action": "subosito/gh-actions-android-sdk", "versions": ["v2"]}
+{"action": "Azure/static-web-apps-deploy", "versions": ["v1"]}
+{"action": "your-username/my-action", "versions": ["v1.0.0"]}
+{"action": "your-username/your-container-action", "versions": ["v1"]}
+{"action": "some-org/some-action", "versions": ["v1.0.0"]}
+{"action": "PowerShell/PowerShell", "versions": ["v7.1.3"]}
+{"action": "game-ci/unity-test-runner", "versions": ["v2"]}
+{"action": "k3s-io/k3s-action", "versions": ["v1"]}
+{"action": "xcode-actions/setup-xcode", "versions": ["v1"]}
+{"action": "subosito/action-dart", "versions": ["v2"]}
+{"action": "dotenv-linter/dotenv-linter", "versions": ["v2"]}
+{"action": "azure/arm-deploy", "versions": ["v1"]}
+{"action": "appleboy/app-store-push-action", "versions": ["v1"]}
+{"action": "appleboy/app-store-deliver", "versions": ["v1"]}
+{"action": "HashiCorp/setup-terraform", "versions": ["v2.0.0"]}
+{"action": "drafty/gh-release", "versions": ["v1.4.0"]}
+{"action": "rtCamp/action-slack-notify", "versions": ["v2.0.0"]}
+{"action": "pwsh/pwsh-get", "versions": ["v0.0.2"]}
+{"action": "github/webapps-deploy", "versions": ["v2"]}
+{"action": "aws-actions/configure-aws-cred", "versions": ["v1"]}
+{"action": "octokit/rest.js", "versions": ["v1"]}
+{"action": "rust-lang/rustup-init", "versions": ["1.0.0"]}
+{"action": "wei/curl", "versions": ["v1"]}
+{"action": "mxschmitt/action-tmate", "versions": ["v2"]}
+{"action": "appleboy/http-action", "versions": ["v2"]}
+{"action": "github/k8s-bake", "versions": ["v1"]}
+{"action": "username/stuck-action", "versions": ["v1"]}
+{"action": "zaproxy/action-basicauth", "versions": ["v0.0.1"]}
+{"action": "some-action/some-action", "versions": ["v1"]}
+{"action": "peter-evans/comment-pr", "versions": ["v1", "v2"]}
+{"action": "pascalgn/automerge-action", "versions": ["v0.15.0"]}
+{"action": "haskell/setup-haskell", "versions": ["v1"]}
+{"action": "unsplash/comment-on-pr", "versions": ["v1"]}
+{"action": "github/setup-github-cli", "versions": ["v1"]}
+{"action": "rainbow6j/qt-action", "versions": ["v1"]}
+{"action": "octocat/create-pull-request", "versions": ["v0.3.0"]}
+{"action": "powershell/setup-powershell", "versions": ["v1"]}
+{"action": "pyside/pyside-setup", "versions": ["v1"]}
+{"action": "pypa/legacy-pypi-publish", "versions": ["v1.0.0"]}
+{"action": "actions/some-action", "versions": ["^1.0.0", "v1"]}
+{"action": "triagebot/issue-comment", "versions": ["v1"]}
+{"action": "docker/run-action", "versions": ["v2"]}
+{"action": "cypress-io/github-action", "versions": ["v2"]}
+{"action": "awslabs/aws-codedeploy-github-action", "versions": ["v2"]}
+{"action": "peter-evans/slack-action", "versions": ["v2"]}
+{"action": "firebaseextended/action-hosting-deploy", "versions": ["v0.2.0"]}
+{"action": "imranmd/kustomize-action", "versions": ["v2"]}
+{"action": "aws-actions/amazon-ecs-deploy-task-definition", "versions": ["v1"]}
+{"action": "cli/setup-gh", "versions": ["v2.0.0"]}
+{"action": "denoland/setup-deno", "versions": ["v1"]}
+{"action": "ramitsurana/setup-mariadb", "versions": ["v2"]}
+{"action": "oktokit/request-action", "versions": ["v2"]}
+{"action": "dawidd6/action-download-artifact", "versions": ["v2"]}
+{"action": "erlef/setup-beam", "versions": ["v1"]}
+{"action": "swiftwasm/setup-swift", "versions": ["v0.11"]}
+{"action": "pwsh/pwsh-action", "versions": ["v1"]}
+{"action": "mikeal/send-email", "versions": ["v1"]}
+{"action": "dependabot/dependabot-core", "versions": ["v2.6.0"]}
+{"action": "pullrequest-approval-action/request-review", "versions": ["v1"]}
+{"action": "dajobe/trx2junit", "versions": ["v1"]}
+{"action": "samuelmeuli/action-envoyer", "versions": ["v2"]}
+{"action": "stylize/monday-api", "versions": ["v1"]}
+{"action": "your-action/main-action", "versions": ["v1"]}
+{"action": "another-action/first-action", "versions": ["v1"]}
+{"action": "another-action/second-action", "versions": ["v1"]}
+{"action": "github-actions/labeler", "versions": ["v2"]}
+{"action": "peter-evans/review-requests", "versions": ["v2"]}
+{"action": "unsplash/comments", "versions": ["v1"]}
+{"action": "snyk/actions/nodejs", "versions": ["v2"]}
+{"action": "GitHub-Toolbox/detect-secrets-action", "versions": ["v1"]}
+{"action": "r0adkll/sign-android-release", "versions": ["v2"]}
+{"action": "swiftbrew/installer", "versions": ["v1"]}
+{"action": "groovy/groovy-actions", "versions": ["v1"]}
+{"action": "actions/github-pages", "versions": ["v3"]}
+{"action": "digitalocean/action-doctl", "versions": ["v2"]}
+{"action": "microsoft/PowerPlatform-CLI", "versions": ["v1"]}
+{"action": "trufflesuite/secret-scanner", "versions": ["v1.0.1"]}
+{"action": "shyguys/github-status", "versions": ["v1"]}
+{"action": "my-actions/my-action", "versions": ["v1"]}
+{"action": "github/codeql-action/setup", "versions": ["v2"]}
+{"action": "github/codeql-action/init", "versions": ["v2"]}
+{"action": "github/codeql-action/upload-artifact", "versions": ["v2"]}
+{"action": "docker/compose-action", "versions": ["v1", "v2"]}
+{"action": "actions/your-action-name", "versions": ["latest"]}
+{"action": "UnrealEngine/UnrealEngineSetup", "versions": ["master"]}
+{"action": "subosite/flutter-action", "versions": ["v2.0.2"]}
+{"action": "samuelmeuli/ftp-deploy", "versions": ["v1.2.0"]}
+{"action": "ericblade/elixir-action", "versions": ["v1"]}
+{"action": "riywo/github-comment", "versions": ["v1"]}
+{"action": "crepererum/gradle-coverage", "versions": ["v1"]}
+{"action": "<your-username>/action-repo", "versions": ["main"]}
+{"action": "google-github-actions/auth", "versions": ["v0.8.2"]}
+{"action": "nvim-lua/action-github-pages", "versions": ["v2"]}
+{"action": "firebase/firebase-tools", "versions": ["v9.0.0"]}
+{"action": "macos-actions/setup-xcode", "versions": ["v1"]}
+{"action": "akhilrajput/heroku-deploy", "versions": ["v3.11.2"]}
+{"action": "r0adkll/setup-android", "versions": ["v2.0.0"]}
+{"action": "pgruppi/setup-swift", "versions": ["v1"]}
+{"action": "thomaspaulmann/gh-pr-comment", "versions": ["v1.0.1"]}
+{"action": "shivammathur/php-bin", "versions": ["v2"]}
+{"action": "sonarsource/sonarcloud-quality-gate-action", "versions": ["v1.0.0"]}
+{"action": "sous-chefs/jmeter-action", "versions": ["v1"]}
+{"action": "mozilla/sops-action", "versions": ["v3"]}
+{"action": "softprops/action-upload-release-asset", "versions": ["v1"]}
+{"action": "pull-reminders/review-request", "versions": ["v2"]}
+{"action": "eteration/setup-texlive", "versions": ["v1"]}
+{"action": "akhilmadhavan/heroku-cli-action", "versions": ["v1"]}
+{"action": "samuelmeuli/action-slack", "versions": ["v1.0.0"]}
+{"action": "deeuu/setup-clojure", "versions": ["v1"]}
+{"action": "qt/qtsetup", "versions": ["v2"]}
+{"action": "rubygems/ruby-install", "versions": ["master"]}
+{"action": "mono/setup-mono", "versions": ["v1"]}
+{"action": "appleboy/setup-xcode", "versions": ["v1"]}
+{"action": "assets-release-action", "versions": ["v1.0.2"]}
+{"action": "actions-gh-pages", "versions": ["v3"]}
+{"action": "akcj/postgresql-action", "versions": ["v1.1.0"]}
+{"action": "subosito/action-svn", "versions": ["v1"]}
+{"action": "webfactory/create-ssh-key", "versions": ["v0.5.3"]}
+{"action": "wix/toolset", "versions": ["latest"]}
+{"action": "thollander/actions-comment-pull-request", "versions": ["v1"]}
+{"action": "Snyk/actions/upload-snyk-result", "versions": ["v2"]}
+{"action": "qt/qt-install", "versions": ["v1"]}
